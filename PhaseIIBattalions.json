@@ -172,7 +172,7 @@
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321578281/CBFA560559FE81326342AD0B65D2349447F882EB/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321703622/6D5545F243CD3BFDBD7E49D8496106874BE0819B/"
         },
-        "points": 20,
+        "points": 18,
         "restrictions": {
           "include": {
             "unit": ["104th Phase II"]
@@ -200,7 +200,7 @@
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321578281/CBFA560559FE81326342AD0B65D2349447F882EB/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321708883/08248F54C5D620B491EAC36A1FC5DA9A8834322C/"
         },
-        "points": 20,
+        "points": 18,
         "restrictions": {
           "include": {
             "unit": ["212th Phase II"]
@@ -228,7 +228,7 @@
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321578281/CBFA560559FE81326342AD0B65D2349447F882EB/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321714095/A9DC1A4528317A777A1D5A9FA58C23A47F7E882B/"
         },
-        "points": 20,
+        "points": 18,
         "restrictions": {
           "include": {
             "unit": ["327th Phase II"]
@@ -256,7 +256,7 @@
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321578281/CBFA560559FE81326342AD0B65D2349447F882EB/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321603337/2E6BED5A8C36B603A68124154A110C3444578111/"
         },
-        "points": 20,
+        "points": 18,
         "restrictions": {
           "include": {
             "unit": ["501st Phase II"]
@@ -284,7 +284,7 @@
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321578281/CBFA560559FE81326342AD0B65D2349447F882EB/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321723321/9DF80B5ABC8219D5A5A0DE435605D80334FD81E8/"
         },
-        "points": 20,
+        "points": 18,
         "restrictions": {
           "include": {
             "unit": ["Shocktrooper Phase II"]
