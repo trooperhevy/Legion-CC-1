@@ -1,0 +1,117 @@
+{
+"units": {
+"Republic": {
+"Special Forces": [
+    {
+      "name": "Arc Troopers",
+      "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790227/9326CC2191C991FF9CB0EB06A4EA17A2A17078BC/",
+      "size": "small",
+      "type": "Clone Trooper",
+      "points": 78,
+      "speed": 2,
+      "upgrades": {
+        "Heavy Weapon": 1,
+        "Training": 1,
+        "Comms": 1,
+        "Gear": 2,
+        "Grenades": 1
+      },
+      "minis": [
+        {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592611139/70EFD75D5E296A5F9A5B2D45B0EA97999FBBF2A8/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592632620/CA607ECB3BCED6FB84E0657A6C5E85624CEAEAE1/"
+        },
+        {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592514430/DDC8B744347513D7BA55C5A461B1E0E6B4903D84/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592632620/CA607ECB3BCED6FB84E0657A6C5E85624CEAEAE1/"
+        },
+        {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592622448/58A607CDC7BBCD55360252BD4EB4759EB7C655C6/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592632620/CA607ECB3BCED6FB84E0657A6C5E85624CEAEAE1/"
+        },
+        {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592948261/B5C1429FE2604A8AD60C05773CD80A6DDC905FC7/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592632620/CA607ECB3BCED6FB84E0657A6C5E85624CEAEAE1/"
+        }
+      ]
+    },
+    {
+      "name": "Arc Troopers",
+      "title": "Strike Team",
+      "displayName": "Arc Troopers (Strike Team)",
+      "heavyWeaponTeam": true,
+      "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790261/AD41C53AE8A6F57645BE2A51DAD8E9FF4FB9224D/",
+      "size": "small",
+      "type": "Clone Trooper",
+      "points": 27,
+      "speed": 2,
+      "upgrades": {
+        "Heavy Weapon": 1,
+        "Training": 1,
+        "Comms": 1,
+        "Gear": 2,
+        "Grenades": 1
+      },
+      "minis": [
+        {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592611139/70EFD75D5E296A5F9A5B2D45B0EA97999FBBF2A8/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592632620/CA607ECB3BCED6FB84E0657A6C5E85624CEAEAE1/"
+        }
+      ]
+    }
+]
+}
+    },
+    "upgrades": {
+    "Heavy Weapon": [
+    {
+        "name": "DC-15X ARC Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1860546411028298710/80CA04A1D29D91F52B2F0169038D6A64B39C7687/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592430001/E8900A21D919A12171C4A6F20C1B1DA29829E45D/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592632620/CA607ECB3BCED6FB84E0657A6C5E85624CEAEAE1/"
+        },
+        "points": 31,
+        "restrictions": {
+          "include": {
+            "unit": ["ARC Troopers"]
+          }
+        }
+      },
+    {
+        "name": "Fives",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568141128/F31F92F3977318E41C58131438E623171638DA41/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592276341/36DE554F21C0463D636C828063B579D36D3C4217/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592445244/A5B989B9ADFAAFECF164E8227CD3EDB43EDA760E/"
+        },
+        "leader": true,
+        "points": 40,
+        "restrictions": {
+          "include": {
+            "faction": ["Republic"],
+            "unit": ["ARC Troopers"],
+            "rank": ["Corps"]
+          }
+        }
+      },
+      {
+        "name": "Echo",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568140625/9762EB09BAE98736D91887213C76E9CE34D9DE53/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592430001/E8900A21D919A12171C4A6F20C1B1DA29829E45D/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592436932/60DC28436E0D67B7105194FC7ACAE286F684A118/"
+        },
+        "leader": true,
+        "points": 42,
+        "restrictions": {
+          "include": {
+            "faction": ["Republic"],
+            "unit": ["ARC Troopers"],
+            "rank": ["Corps"]
+          }
+        }
+      }
+    ]
+}
+}
