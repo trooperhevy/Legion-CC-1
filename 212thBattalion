@@ -8,7 +8,7 @@
             "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790538/EBB9911B9EB9C0F817370266A8ACB8357BEB3919/",
             "size": "small",
             "type": "Clone Trooper",
-            "points": 55,
+            "points": 60,
             "speed": 2,
             "upgrades": {
               "Command": 1,
@@ -124,3 +124,4 @@
       ]
     }
   }
+  
