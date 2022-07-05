@@ -1,0 +1,127 @@
+{
+    "units": {
+      "Republic": {
+        "Commander": [
+          {
+            "name": "Clone Commander",
+            "title": "Trained For Leadership",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790538/EBB9911B9EB9C0F817370266A8ACB8357BEB3919/",
+            "size": "small",
+            "type": "Clone Trooper",
+            "points": 60,
+            "speed": 2,
+            "upgrades": {
+              "Command": 1,
+              "Training": 1,
+              "Gear": 1
+            },
+            "minis": [
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1012692232040419387/6F7883B486CAB398A18218082E56FAB7B0F79439/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012692232040419547/229BBDF8EBC3E0B5A81D0D12E330CE0AB2691119/"
+              }
+            ]
+          }
+        ],
+        "Corps": [
+          {
+            "name": "Phase II Clone Troopers",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790299/B84917597F10DE241D7909430E91B5FC03248144/",
+            "size": "small",
+            "type": "Clone Trooper",
+            "points": 62,
+            "speed": 2,
+            "upgrades": {
+              "Heavy Weapon": 1,
+              "Personnel": 1,
+              "Training": 1,
+              "Gear": 1,
+              "Grenades": 1
+            },
+            "minis": [
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321070793/294DC7F7A6BE9E31AB2823745854EF8C31D3281A/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321723321/9DF80B5ABC8219D5A5A0DE435605D80334FD81E8/"
+              },
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321407636/9315381415E55B835F091392658CBFDED02249F3/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321723321/9DF80B5ABC8219D5A5A0DE435605D80334FD81E8/"
+              },
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321577529/3034903B0501BE08E398BCC7F0D735B308DA9377/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321723321/9DF80B5ABC8219D5A5A0DE435605D80334FD81E8/"
+              },
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321405998/BF99DA12AC60F2548F73F5D0D001419BFBFA5CB1/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321723321/9DF80B5ABC8219D5A5A0DE435605D80334FD81E8/"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "upgrades": {
+      "Heavy Weapon": [
+        {
+          "name": "Phase II Mortar Trooper",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568144436/3D8E7C0C4D7A837EEE925B65E044F1EF8B3388C4/",
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321578281/CBFA560559FE81326342AD0B65D2349447F882EB/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321723321/9DF80B5ABC8219D5A5A0DE435605D80334FD81E8/"
+          },
+          "points": 18,
+          "restrictions": {
+            "include": {
+              "unit": ["Phase II Clone Troopers"]
+            }
+          }
+        },
+        {
+          "name": "Z-6 Phase II Trooper",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568146709/F3874CF8FD491DEF02AA37F322C61B51463D2ECD/",
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321579074/D5F10426146B81D46F02B027B9C4CC875FA6DA00/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321723321/9DF80B5ABC8219D5A5A0DE435605D80334FD81E8/"
+          },
+          "points": 27,
+          "restrictions": {
+            "include": {
+              "unit": ["Phase II Clone Troopers"]
+            }
+          }
+        }
+      ],
+      "Personnel": [
+        {
+          "name": "Clone Commander",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568139272/747D9B51470E308061A8A4A21FBA5B28B2CEC1BB/",
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1012692232040419387/6F7883B486CAB398A18218082E56FAB7B0F79439/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012692232040419547/229BBDF8EBC3E0B5A81D0D12E330CE0AB2691119/"
+          },
+          "leader": true,
+          "points": 20,
+          "restrictions": {
+            "include": {
+              "type": ["Clone Trooper"]
+            }
+          }
+        },
+        {
+          "name": "Phase II Clone Trooper",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568144398/18C969B5FB9B6031557CF11FE2397E6AD8955624/",
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321406830/59DC907FEFEF65FBAF245A3B31A4251026FC93AA/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321723321/9DF80B5ABC8219D5A5A0DE435605D80334FD81E8/"
+          },
+          "points": 13,
+          "restrictions": {
+            "include": {
+              "unit": ["Phase II Clone Troopers"]
+            }
+          }
+        }
+      ]
+    }
+  }
+  
