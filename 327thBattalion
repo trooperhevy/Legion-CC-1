@@ -57,6 +57,26 @@
               }
             ]
           }
+        ],
+        "Support": [
+          {
+            "name": "BARC Speeder",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790145/DD6B7ACA36B88E28B4326E7AA96536230B87F01E/",
+            "size": "large",
+            "type": "Repulsor Vehicle",
+            "points": 55,
+            "speed": 3,
+            "upgrades": {
+              "Crew": 1,
+              "Comms": 1
+            },
+            "minis": [
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817412083218847/B131F35C191011157EADF9C86B2B7CABAA3FC099/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817412083220843/C936CEB80F5A740FE9421A63B1849CA9AF8E180C/"
+              }
+            ]
+          }
         ]
       }
     },
