@@ -76,6 +76,24 @@
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817412083219663/051072BF8A9DBCE064605B6498D705826FDA1BC1/"
               }
             ]
+          },
+          {
+            "name": "AT-RT",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790101/7D591836DB5F16ED19FE2A28B55784950E1759CB/",
+            "size": "large",
+            "type": "Ground Vehicle",
+            "points": 60,
+            "speed": 2,
+            "upgrades": {
+              "Hardpoint": 1,
+              "Comms": 1
+            },
+            "minis": [
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817412088110265/AF7BE480C6C64DA2C584B3094D3555E69540CBFB/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817412088111898/DB52F9C7D40E4D479FD6C1CE3B74EA708799F8EC/"
+              }
+            ]
           }
         ]
       }
