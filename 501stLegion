@@ -3,6 +3,44 @@
       "Republic": {
         "Commander": [
           {
+            "name": "Anakin Skywalker",
+            "title": "The Chosen One",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790573/1BDDD3F5C3D43558F79F35F1A4B9327F4729D62B/",
+            "size": "small",
+            "type": "Trooper",
+            "points": 155,
+            "speed": 2,
+            "upgrades": {
+              "Force": 2,
+              "Training": 2,
+              "Flaw": 1
+            },
+            "minis": [
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817412092077837/842FC642EE58171301F7EC3E8EF98A12D633884C/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817412092094420/2A197F899E06DE2C01F30E951DC6A755B2CB8DC3/"
+              }
+            ],
+            "commands": [
+              {
+                "name": "This Is Where The Fun Begins",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564035947/5377294A33E87301DC4D54ED1A1C1DE218E1C882/",
+                "pip": 1
+              },
+              {
+                "name": "You Underestimate My Power",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1860546411028299110/717B2B1BCADD299F347748ABBE239E89A0B6EE08/",
+                "pip": 2
+              },
+              {
+                "name": "Hero Of The Clone Wars",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564033655/AA08CE1F53847CE3CCA7233A1060886F8EBE500F/",
+                "pip": 3
+              }
+            ],
+            "required": ["Not A Story The Jedi Would Tell"]
+          },
+          {
             "name": "Clone Commander",
             "title": "Trained For Leadership",
             "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790538/EBB9911B9EB9C0F817370266A8ACB8357BEB3919/",
