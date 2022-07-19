@@ -1,6 +1,28 @@
 {
     "units": {
       "Republic": {
+        "Commander": [
+          {
+            "name": "Clone Commander",
+            "title": "Trained For Leadership",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790538/EBB9911B9EB9C0F817370266A8ACB8357BEB3919/",
+            "size": "small",
+            "type": "Clone Trooper",
+            "points": 60,
+            "speed": 2,
+            "upgrades": {
+              "Command": 1,
+              "Training": 1,
+              "Gear": 1
+            },
+            "minis": [
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1911232618855552509/9FE7A890E134DD1CF80100AEE41F80381AB72B47/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1911232618855552762/48B75F536B1748744D32FC4A18DADA45429397AC/"
+              }
+            ]
+          }
+        ],
         "Corps": [
           {
             "name": "Phase I Clone Troopers",
@@ -175,6 +197,21 @@
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1911232618851898346/3FC37D5FBED14116D36D8B856A613DBF7F8F3F70/",
             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1911232618851938999/6488DB222C785BC1EC7D27F19B9B65ECD24C850F/"
           },
+          "points": 20,
+          "restrictions": {
+            "include": {
+              "type": ["Clone Trooper"]
+            }
+          }
+        },
+        {
+          "name": "Clone Commander",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568139272/747D9B51470E308061A8A4A21FBA5B28B2CEC1BB/",
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1911232618855552509/9FE7A890E134DD1CF80100AEE41F80381AB72B47/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1911232618855552762/48B75F536B1748744D32FC4A18DADA45429397AC/"
+          },
+          "leader": true,
           "points": 20,
           "restrictions": {
             "include": {
