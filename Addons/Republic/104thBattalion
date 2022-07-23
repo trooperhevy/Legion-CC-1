@@ -127,6 +127,27 @@
               }
             ]
           }
+        ],
+        "Heavy": [
+          {
+            "name": "Infantry Support Platform",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1616219505081189285/5E0D18805F9C4BF8A978A9F1F20CFAE73575D02F/",
+            "size": "huge",
+            "type": "Repulsor Vehicle",
+            "points": 65,
+            "speed": 3,
+            "upgrades": {
+              "Pilot": 1,
+              "Hardpoint": 1,
+              "Comms": 1
+            },
+            "minis": [
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942568521395/B7B9FD6C5A286AA097F9A029F1D87EBCFDF10475/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942563190458/9BE132828AE3F2F4A9F48A1BF56EAED4E64BAF90/"
+              }
+            ]
+          }
         ]
       }
     },
