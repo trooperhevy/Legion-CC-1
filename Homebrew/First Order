@@ -1,0 +1,700 @@
+{
+  "units": {
+    "First Order": {
+      "Commander": [
+        {
+          "name": "Captain Phasma",
+          "title": "Ruthless Leader",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081143260/D95314875641B7FB3C4EF84083544C623CD1A682/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 95,
+          "speed": 2,
+          "upgrades": {
+            "Command": 2,
+            "Training": 1,
+            "Armament": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804925773451/29E9C01AADB63D0F11307AC6DF9FE7F0C29178CD/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804925773688/AA999386C07D280297E4E55F78BE951C22CC4765/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Traitor!",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081145254/8867B053273BC9DBBB46FDC464881998DF372B1A/",
+              "pip": 1
+            },
+            {
+              "name": "So Good To Have You Back",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081145863/40A8C433BC0D8BBBFBC44BCCF8D9BBBF465CE231/",
+              "pip": 2
+            },
+            {
+              "name": "On My Command...",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081146194/C55577A1151D80D0A283097F5FFE5596258520D0/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "First Order Officer",
+          "title": "Cruel Superior",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081388976/28890DF10C50786D86509A5E6E9014EDFB18178A/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 50,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821664192111404/0E625C7A4614D3BE5DF4DF9D78BA558C2B78803C/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821664192111727/770A7C77419D31361A4E7DF14655D4339B5333BE/"
+            }
+          ]
+        },
+        {
+          "name": "General Hux",
+          "title": "First Order High Commander",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081169876/CB65E6B92A868A8379B108FF8AF217970564DECC/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 75,
+          "speed": 2,
+          "upgrades": {
+            "Command": 2,
+            "Flaw": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324932753815007/08A3CB2CCDEDD302548596EF866CF64E5E0AFB75/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324932753720403/40A7224F1345DCD440F78BD1669290C07059002E/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Orbital Bombardment ",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081172704/D53673C6656A92D080288EBC0C0F6A7C6760626C/",
+              "pip": 1
+            },
+            {
+              "name": "Tied on the End of a String",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081174703/A647478FFD9A384A559221E190389D2AC56D902D/",
+              "pip": 2
+            },
+            {
+              "name": "Acquiesces to Disorder!",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081176167/0D2A9F919346BEDA9602EF0803ADADEEFB4F9F4C/",
+              "pip": 3
+            }
+          ],
+          "required": ["I Don't Care if You Win"]
+        }
+      ],
+      "Operative": [
+        {
+          "name": "Bazine Netal",
+          "title": "Skilled Mercenary and Spy",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081110689/34878CC455F7F58C190A27DEEFAAD326F411F137/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 85,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027325137554369094/426567AD530CBB53A36B4DA286606A8028036940/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821664190500251/60F46C12E0D02DE01D36B03BDF1E8ECAFD604F87/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "The Perfect Weapon",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081134318/95DFAC48AF2895CBD541779163F6F58781816CE8/",
+              "pip": 1
+            },
+            {
+              "name": "They Die Or Disappear",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081134688/F073799B09F8A31C076CA224E1B5BD6C8C75106A/",
+              "pip": 2
+            },
+            {
+              "name": "Inform The First Order",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081135367/1425B91FE3B59882B80BB27197F86C066C5DBF46/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Kylo Ren",
+          "title": "Fallen Apprentice",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081182228/D92A0F8C9F86CF7DEA222B23C6172250083EAB29/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 140,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Training": 1,
+            "Flaw": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804925562786/E8A84B89A9397EDE6466F969084F683316C98D64/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804925562981/94795F169138667E0322FE1E28F68E2B8B7F4C37/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Finish What You Started",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081184101/51986EF40283FA440878CF7C1DD65104FF4A65B9/",
+              "pip": 1
+            },
+            {
+              "name": "I'll Show You the Dark Side",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081186038/6DE22BF4C255C7D6213E01F2B101CB7EA969D68F/",
+              "pip": 2
+            },
+            {
+              "name": "Mind Probe",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081187404/50F791DA2817CC1E8C690138FE028CA17B1B51D5/",
+              "pip": 3
+            }
+          ],
+          "required": ["I'm Being Torn Apart"]
+        }
+      ],
+      "Corps": [
+        {
+          "name": "First Order Stormtroopers",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081335160/5F935176EDBFB5C657AFA3681E67CC2C9F20BC24/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 52,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804926496354/534247FC18865263C1D30BC8C906CB39C93B0394/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804926496614/9FECECAF48C7046C3714B33C4C16FFB773FCC94C/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804926504208/94BA6801EC3D5C7915A803C8DB037D55499DA148/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804926496614/9FECECAF48C7046C3714B33C4C16FFB773FCC94C/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804926505290/B0670893C896898E6BE4CAB01744CE00F1FFE52B/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804926496614/9FECECAF48C7046C3714B33C4C16FFB773FCC94C/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804926506313/1AF44B793BDE12347BA28238D08E48E507CFBD02/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804926496614/9FECECAF48C7046C3714B33C4C16FFB773FCC94C/"
+            }
+          ]
+        }
+      ],
+      "Special Forces": [
+        {
+          "name": "Elite Praetorian Guards",
+          "image": "http://cloud3.steamusercontent.com/ugc/1862817412081432797/70B4BE3AC3FDE23388AFCD4D48844DD102463B12/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 80,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Training": 2,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817957003761532/B9A39E219D561F0CFF064BD65083EF2B03FE2408/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817957003761811/4348E66B49C37DBE90E2798DDBCDAC46ADB90020/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817957003762298/2506A4C1DB297710118290CFCEB8FBCE61A371CA/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817957003761811/4348E66B49C37DBE90E2798DDBCDAC46ADB90020/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817957003762782/37B88231894CD5B671EFD926554F8143F593FD86/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817957003761811/4348E66B49C37DBE90E2798DDBCDAC46ADB90020/"
+            }
+          ]
+        },
+        {
+          "name": "Jet Troopers",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081228934/0854F9987A9760340D1CFB61EA0360C669DB60A3/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 20,
+          "speed": 3,
+          "heavyWeaponTeam": true,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021698013227866981/5EA3E02AC241512021988DBE0EC44754960D7C1E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021698013227867246/FB14C11D0A31B44E68FDEF0CAF9D3CCE7D140EF7/"
+            }
+          ]
+        }
+      ],
+      "Support": [
+        {
+          "name": "125-Z Treadspeeder Bikes",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081161332/82657FF9895270D7FB5B46FFEC762DE81575BFC3/",
+          "size": "medium",
+          "type": "Repulsor Vehicle",
+          "points": 85,
+          "speed": 2,
+          "upgrades": {
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821770981171565/A72EE65BB1B64233BC73B5A19F8BEEB49B6D25C2/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821770981171714/24D19968CC914CDDF4318CD7F4D6A4A8C6453857/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1776099479274350301/4B9837939C2036E21527782F78E06152B3BFD831/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821770981179713/F1CAD4EA45F501FA427BFC3194823758D23CAB4C/"
+            }
+          ]
+        }
+      ],
+      "Heavy": [
+        {
+          "name": "AT-ST",
+          "displayName": "First Order AT-ST",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081421585/4B0F0B47465016ACD271DAEFE93F062C79776DDF/",
+          "size": "huge",
+          "type": "Ground Vehicle",
+          "points": 170,
+          "speed": 2,
+          "upgrades": {
+            "Pilot": 1,
+            "Hardpoint": 3,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817412080755222/3B92EACA1DE861874A44E0001F4686FB7BA30CA0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817412080755364/E8C5A3482E6C2FFA2AF18518E3F78823CAD68236/"
+            }
+          ]
+        },
+        {
+          "name": "Light Infantry Utility Vehicle",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081200983/383E193D0A6B5D69AB817D4584828A40B0B25C77/",
+          "size": "huge",
+          "type": "Repulsor Vehicle",
+          "points": 75,
+          "speed": 2,
+          "upgrades": {
+            "Pilot": 1,
+            "Crew": 1,
+            "Hardpoint": 1,
+            "Comms": 1,
+            "Generator": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027325137553435779/3A8FDD7CE7E77EA1D206645EEC453C509B3BD6F2/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027325137553435979/8778AF380A0A56B19CD1EA4BC88266803292180E/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "upgrades": {
+    "Armament": [
+      {
+        "name": "Quicksilver Baton",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081144482/1AA3BE94F83F1BE4DE2D135E655B5C1D811B327F/",
+        "flip": {
+          "name": "Chromium SE-44 Blaster",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081144665/EE6A1C8395737CB64EA6529ECFC1D00146A350FC/"
+        },
+        "points": 15,
+        "restrictions": {
+          "include": {
+            "unit": ["Captain Phasma"]
+          }
+        }
+      }
+    ],
+    "Command": [],
+    "Comms": [],
+    "Counterpart": [],
+
+    "Crew": [
+      {
+        "name": "F-11D Blaster Rifle Gunner",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081208241/F230A7C4DE9FBF543B9DD9F4CB370A7D59B44BAA/",
+        "points": 7,
+        "restrictions": {
+          "include": {
+            "unit": ["Light Infantry Utility Vehicle"]
+          }
+        }
+      },
+      {
+        "name": "First Order Officer ",
+        "displayName": "First Order Officer",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081214064/11B6F493E9AFB18F34739932FD21874F50EA6E7E/",
+        "points": 8,
+        "restrictions": {
+          "include": {
+            "unit": ["Light Infantry Utility Vehicle"]
+          }
+        }
+      }
+    ],
+    "Flaw": [
+      {
+        "name": "I Don't Care if You Win",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081176926/A624D3D4A4BF45129F3D140BA5FFEFEF471065B9/",
+        "points": 0
+      },
+      {
+        "name": "I'm Being Torn Apart",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081188353/E86EB5CB8B87C8CE341CD77CD32CD8A6A5FA3B67/",
+        "points": 0
+      }
+    ],
+    "Force": [
+      {
+        "name": "Force Statis",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747369898/5CC327BAEB59E3B817B71AFF6EC21D3E14ADB4A2/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "alignment": ["Dark"]
+          }
+        }
+      }
+    ],
+    "Gear": [],
+    "Generator": [],
+    "Grenades": [],
+    "Hardpoint": [
+      {
+        "name": "D-93 Incinerator",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081207055/8CE886D73E5632DFB6B71F21AEE082B90DB862B2/",
+        "points": 24,
+        "restrictions": {
+          "include": {
+            "unit": ["Light Infantry Utility Vehicle"]
+          }
+        }
+      },
+      {
+        "name": "FWMB-10 Megablaster",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081201870/567FD6D4762C52C8EA448858D8E030A5D9846683/",
+        "points": 35,
+        "restrictions": {
+          "include": {
+            "unit": ["Light Infantry Utility Vehicle"]
+          }
+        }
+      }
+    ],
+    "Heavy Weapon": [
+      {
+        "name": "Commander Pyre",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081379697/2F3B002E5BB2D13118DF5330C9BE7BA27B84D749/",
+        "points": 30,
+        "leader": true,
+        "restrictions": {
+          "include": {
+            "faction": ["First Order"],
+            "rank": ["Corps"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027325137553590946/9E9D1E1798483BDDE43862B03D2424FB7B68EBB0/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027325137553591247/46CE15787E0615D89B2D6931B1BCDE53F1D2B954/"
+        }
+      },
+      {
+        "name": "Electro-chain Whip Guard",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081435049/EE1C47B91E05240A23E58D4E5A905843DC1AECD6/",
+        "points": 30,
+        "restrictions": {
+          "include": {
+            "unit": ["Elite Praetorian Guards"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817957003764515/0FDC98B926F47CE64FE6407AACBCD29E5F1A8C78/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817957003763776/D3F6005987B0D827683E0B7EB3E482E8D5213424/"
+        }
+      },
+      {
+        "name": "F-11ABA Sith Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081229621/9B54F3E6AD5E11523D82D0152FE273FA459E7FDD/",
+        "points": 28,
+        "restrictions": {
+          "include": {
+            "unit": ["Jet Troopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1021698013227868656/38A393B4932FF16ABF01AAB99C280BA4C224FE25/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021698013227868793/0A4C85E66B3E68C4DDCF3D191D1E9E8B809C0727/"
+        }
+      },
+      {
+        "name": "FN-2199",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081374822/8CF5DD30B49BCDA674B5A2E7343C421C7D367A1E/",
+        "points": 28,
+        "restrictions": {
+          "include": {
+            "unit": ["First Order Stormtroopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821972716827731/5B0D97A839084D07EA0B8A1F6C925732D300D681/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821972716828171/0331B4B577F867C2D647DDC63E4F201D400D679E/"
+        }
+      },
+      {
+        "name": "FWMB-10K Heavy Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081336883/0386F13822F48C2CE6086861FAF8FA18C862645C/",
+        "points": 24,
+        "restrictions": {
+          "include": {
+            "unit": ["First Order Stormtroopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804930752354/251CAAD6FBAED5982A2DE07F97E73DAC15AA9B0F/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804930752683/A8A5605318AA4D5D0E86706390784598DFE8E1D9/"
+        }
+      },
+      {
+        "name": "First Order Executioner",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081370859/0CC06F999D1152E6D2591DC70C58F75D70310DAC/",
+        "points": 24,
+        "restrictions": {
+          "include": {
+            "unit": ["First Order Stormtroopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804931312746/A2A7E0ED462A3CC61067CD54DD75FE3EDB6FBB96/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804931312990/768DB3CC7A9A7C481E90874F6D0EBA7B76830145/"
+        }
+      },
+      {
+        "name": "First Order Flametrooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081363087/EACBFEE7B2FAB08DAA79F044AA8933BB6B2C7000/",
+        "points": 22,
+        "restrictions": {
+          "include": {
+            "unit": ["First Order Stormtroopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804930743225/47AC918E4F8214D21DFA7F41A1BFDC7DDC03AEC0/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804930743458/9AE62864563BECCC50045802E4B9F010B9C34098/"
+        }
+      },
+      {
+        "name": "G125 Projectile Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081230342/5DB2636553D599B55D5642F3235445BC77C6BFEA/",
+        "points": 34,
+        "restrictions": {
+          "include": {
+            "unit": ["Jet Troopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1021698013227867905/C5D8EACB94ED7499B8B9396A430BE3E3B0074D3D/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021698013227868129/0C5AB5D1F2332F71B7DFCD4F74272056F8D4A82A/"
+        }
+      },
+      {
+        "name": "MPL-57 Ion Stormtrooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081352987/219CD748E9D94C081BC63179004FEAF74A821088/",
+        "points": 24,
+        "restrictions": {
+          "include": {
+            "unit": ["First Order Stormtroopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804930745597/D46A49EBCC75A7E442CE5B9B393880CAA55411EC/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804930745893/C3D0240348A1F44EB8D086D4AC626DCCFA1DB209/"
+        }
+      },
+      {
+        "name": "Smart Rocket Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081347253/3C29E016BF3A1401C14EE4B73127663E916A14F2/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817412080915363/ECDC62217B6E15167C6E1CCFD38F0FDA4E424C7A/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817412080915548/72D86514E3B30EBE60DFEF4D7E5EBE63FCFCD01B/"
+        },
+        "points": 28,
+        "restrictions": {
+          "include": {
+            "unit": ["First Order Stormtroopers"]
+          }
+        }
+      },
+      {
+        "name": "Vibro-arbir Blade Guard",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081435867/C1A0F6BB89AB4B4C2C2857491FFD840AA82AFFA6/",
+        "points": 25,
+        "restrictions": {
+          "include": {
+            "unit": ["Elite Praetorian Guards"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817957003763616/5D2007C0F4115E9406A2A83D98E4D4D3275E168F/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817957003763776/D3F6005987B0D827683E0B7EB3E482E8D5213424/"
+        }
+      },
+      {
+        "name": "Riot Control Trooper (Offensive)",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081343404/198C195A7C6538264754E6ED65810E699941909B/",
+        "flip": {
+          "name": "Riot Control Trooper (Defensive)",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081343586/AFEAA0E712AC4720D360E2A44E8DD5DCC5AD2F3E/"
+        },
+        "points": 22,
+        "restrictions": {
+          "include": {
+            "unit": ["First Order Stormtroopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324932747749076/BC0B7C898A646CCDFC518280A48B7C82EECB54B1/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324932747749244/7BD30A42AAF722FC4D005E08EC5EB2BCBD938E22/"
+        }
+      }
+    ],
+    "Illicit": [],
+    "Ordnance": [],
+    "Personnel": [
+      {
+        "name": "First Order Officer",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081395449/B2459EAD6D5B9FCF46951EF77CC2BCBF23370C10/",
+        "points": 22,
+        "leader": true,
+        "restrictions": {
+          "include": {
+            "faction": ["First Order"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821664192111404/0E625C7A4614D3BE5DF4DF9D78BA558C2B78803C/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821664192111727/770A7C77419D31361A4E7DF14655D4339B5333BE/"
+        }
+      },
+      {
+        "name": "First Order Stormtrooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081340137/E2C8E810E5F4D2F842F4B633A9EF4E633317B5AC/",
+        "points": 12,
+        "restrictions": {
+          "include": {
+            "unit": ["First Order Stormtroopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804926507457/5178F7589B3E8647E3FBFDE3C3C0829F284FA23D/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804926496614/9FECECAF48C7046C3714B33C4C16FFB773FCC94C/"
+        }
+      },
+      {
+        "name": "First Order Stormtrooper Officer",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081357391/65AB363DC36732A59EF1CF526B1C236F54F63C87/",
+        "points": 15,
+        "leader": true,
+        "restrictions": {
+          "include": {
+            "unit": ["First Order Stormtroopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804930715422/16120934F642C553591C4773C4F9E4B21F167A52/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804930715848/CC1157E547C67A4FD8CF56868BFCD9EF3A04075D/"
+        }
+      }
+    ],
+    "Pilot": [
+      {
+        "name": "Agent Terex",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081428303/9A5F8BEFCF2B962CAD2849472B5123723578E868/",
+        "points": 15,
+        "restrictions": {
+          "include": {
+            "faction": ["First Order"],
+            "type": ["Repulsor Vehicle"]
+          }
+        }
+      },
+      {
+        "name": "Commander Malarus",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081428804/85C88660A6344BDA309990BD1BCA5254EB26D6FE/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "faction": ["First Order"],
+            "rank": ["Heavy"]
+          }
+        }
+      }
+    ],
+    "Relic": [],
+    "Programming": [],
+    "Training": [
+      {
+        "name": "Conditioning",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081410188/2D437F005CAE9C5E11B19E2A59D5CB24D58CDB28/",
+        "points": 5,
+        "restrictions": {
+          "include": {
+            "faction": ["First Order"],
+            "rank": ["Corps", "Special Forces"]
+          }
+        }
+      },
+      {
+        "name": "*Conditioning",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081410188/2D437F005CAE9C5E11B19E2A59D5CB24D58CDB28/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "faction": ["First Order"],
+            "rank": ["Commander", "Operative", "Support", "Heavy"]
+          }
+        }
+      }
+    ]
+  },
+  "commands": {
+    "First Order": []
+  }
+}
