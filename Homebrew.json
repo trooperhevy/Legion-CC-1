@@ -2,26 +2,4 @@
   "units": {
     "Rebel": "Homebrew/Rebel.json"
   },
-  "upgrades": {
-    "Armament": [],
-    "Command": [],
-    "Comms": [],
-    "Counterpart": [],
-    "Crew": [],
-    "Flaw": [],
-    "Force": [],
-    "Gear": [],
-    "Generator": [],
-    "Grenades": [],
-    "Hardpoint": [],
-    "Heavy Weapon": [],
-    "Ordnance": [],
-    "Personnel": [],
-    "Pilot": [],
-    "Programming": [],
-    "Training": []
-  },
-  "commands": {
-    "Rebel": []
-  }
 }
