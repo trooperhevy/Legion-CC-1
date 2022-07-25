@@ -1,6 +1,6 @@
 {
   "units": {
-    "Rebel": "Rebel"
+    "Rebel": "Homebrew/Rebel.json"
   },
   "upgrades": {
     "Armament": [],
