@@ -1,0 +1,236 @@
+// Begin Template
+{
+  // Start of definition of units
+  // See the offical.json to see how upgrades similar to what you're trying to achieve are scripted
+  "units": {
+    // Faction of unit
+    // Existing factions = Rebel, Empire, Republic, Seperatist, ShadowCollective
+    // Homebrew factions = Resistance, FirstOrder, SithEmpire, RevansSithEmpire, Scum
+    "Rebel": {
+      // Rank of unit = Commander, Operative, Corps, Special Forces, Support, Heavy
+      "Commander": [
+        {
+          // Name. This is used as a case-insensitive key for other fields, and for list building/imports.
+          "name": "Luke Skywalker",
+
+          // Subtitle of the unit, used for Commanders, Operatives, strike teams, etc.
+          "title": "Hero Of The Rebellion",
+
+          // Display name, useful for strike teams that share the same upgrades but are different units
+          // The example below is of the Rebel Commandos Strike Team
+          "displayName": "Rebel Commandos (Strike Team)",
+
+          // If the unit is a heavy weapons team use this, this will make the upgrade unit the unit leader
+          "heavyWeaponTeam": true,
+
+          // Image url for the unit card
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788425590/4AB2CCCFC2F45B3ACB9927166F6014A2903D7DCE/",
+
+          // The base size of the Unit. One of the following:
+          // ["small" (ex. Troopers), "medium" (ex. Taun Tauns), "large" (ex. AT-RT), "huge" (ex. AT-ST), "laat" (ex. Laat), "epic" (ex. AAT), "long (ex. Gav tank)", "Snail" (ex. Snail tank)]
+          // At this point in time, custom base sizes are not supported.
+          "size": "small",
+
+          // The unit type of the Unit. One of the following:
+          //   "Droid Trooper",
+          //   "Clone Trooper",
+          //   "Creature Trooper",
+          //   "Emplacement Trooper",
+          //   "Ground Vehicle",
+          //   "Repulsor Vehicle",
+          //   "Trooper",
+          //   "Wookiee Trooper"
+          "type": "Trooper",
+
+          // Points cost of the unit, used for the TTS list builder
+          "points": 160,
+
+          // Speed of the unit (0, 1, 2, or 3). defines which range ruler spawns when you click `move`
+          "speed": 2,
+
+          // Name of slot, and number of slots. Types are on of the following:
+          //   "Armament",
+          //   "Command",
+          //   "Comms",
+          //   "Counterpart",
+          //   "Crew",
+          //   "Flaw",
+          //   "Force",
+          //   "Gear",
+          //   "Generator",
+          //   "Grenades",
+          //   "Hardpoint",
+          //   "Heavy Weapon",
+          //   "Ordnance",
+          //   "Personnel",
+          //   "Pilot",
+          //   "Programming",
+          //   "Training"
+          // Note that Counterpart and Flaw are categorized as an upgrade in our data model.
+          "upgrades": {
+            "Force": 2,
+            "Gear": 1
+          },
+
+          // Miniatures, listed one at a time. This does *NOT* include minis that come from an upgrade card.
+          // One of two formats supported:
+          //   { "mesh": "URL", "diffuse": "URL"} or { "bundle": "URL", "secondary": "URL" }
+          // The first mini listed will be the unit leader, additional minis will spawn in the order listed
+          // As a placeholder, if you have no minis yet, you can specify a number, like "minis": 2.
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540537100371/0B15B2810ABEBE5429E4A24852D96BAC2DC28BF7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540537079134/11A17263AD81DC9D4271B7C6BD809B69141DCB61/"
+            }
+          ],
+
+          // List of command cards that can only be taken by this unit
+          "commands": [
+            {
+              // Name of the command card
+              "name": "Son Of Skywalker",
+
+              // Image url for the command card
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564036127/CF8D8E07205CB523EA3D2EE71AD61D9FB96B17BB/",
+
+              // Number of pips on the command card, 1, 2, or 3 (use the number it's treated as per its effect)
+              "pip": 1
+            }
+          ],
+
+          // Certain units require you to take upgrades or Flaw cards
+          // Flaw cards are treated as upgrade cards and will be adressed in the Upgrades section later in the json
+          // The example below is from Lando, multiple required upgrades can be listed
+          "required": ["I've Altered The Deal"],
+
+          // Some units have tokens that are commonly taken with them, these can be listed here. See the official.json for a list of additional objects
+          // The following example is from Sabine Wren
+          "additionalObjects": [
+            "Proton Charge Token",
+            "Proton Charge Token",
+            "Graffiti Token"
+          ]
+        }
+      ],
+
+      // The same format applies to the rest of the ranks
+      "Operative": [{}],
+      "Corps": [{}],
+      "Special Forces": [{}],
+      "Support": [{}],
+      "Heavy": [{}]
+    }
+  },
+
+  // Start of definition of upgrades
+  "upgrades": {
+    // Upgrade types are listed below, a few examples are included to cover most cases
+    "Armament": [{}],
+    "Command": [{}],
+    "Comms": [{}],
+    "Counterpart": [{}],
+    "Crew": [{}],
+    "Flaw": [{}],
+    "Force": [{}],
+    "Gear": [{}],
+    "Generator": [{}],
+    "Grenades": [{}],
+    "Hardpoint": [{}],
+    "Heavy Weapon": [{}],
+    "Ordnance": [{}],
+
+    // The following example covers much of the formatiing you may need to use for an upgrade card
+    // See the offical.json to see how upgrades similar to what you're trying to achieve are scripted
+    "Personnel": [
+      {
+        // Name of the unit
+        "name": "Echo",
+
+        // Upgrade card image
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568140625/9762EB09BAE98736D91887213C76E9CE34D9DE53/",
+
+        // If the upgrade card has a flip side it can be defined like the following
+        "flip": {
+          // name of the flip side
+          "name": "Battle Shield Wookiee (Defensive)",
+
+          //  Display name can also be used with upgrades
+          "displayName": "Shield Wookiee (Defensive)",
+
+          // Flip side image of the upgrade card
+          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568138967/E5E495CD6EEFD77393CD99C35CF651BBEDC1210A/"
+        },
+
+        // Mini (if the upgrade has one)
+        "mini": {
+          // Note that this is a bundle/secondary mini which is used for Unity Bundles.
+          // Alternativly you can use mesh/diffuse mini like with the Commander example above
+          "bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457801321/CED1CD80F307683E79B9A4ED87CECAED7C070EBF/",
+          "secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+        },
+
+        // If the upgrade has the Leader keyword define it here
+        "leader": true,
+
+        // Points cost of the upgrade
+        "points": 42,
+
+        // Some upgrades can only be taken with certain factions, untis, or unit types
+        "restrictions": {
+          // Include defines what conditions allow an upgrade card to appear
+          "include": {
+            // Alignment can be either Light (Rebel, Republic) or Dark (Empire, Seperatist)
+            // Homebrew factions do not have Dark or Light defined
+            "alignment": ["Dark"],
+
+            // The faction that can equip the card
+            "faction": ["Republic"],
+
+            // The slot that needs to be present for this upgrade card to show up
+            "slot": ["Force"],
+
+            // The unit that can equip this upgrade card
+            "unit": ["ARC Troopers"],
+
+            // The type of unit that can equip this upgrade card
+            "type": ["Corps"]
+          },
+
+          // Some upgrades may not fit with every unit and exclusions can be made here such as the below
+          "exclude": {
+            // This example is for an excluded unit but the other exclusions can apply
+            "unit": ["Stormtroopers Heavy Response Unit"]
+          }
+        },
+
+        // Some upgrades may also come with additional objects
+        "additionalObjects": ["Proton Charge Token"]
+      }
+    ],
+    "Pilot": [{}],
+    "Pilot": [{}],
+    "Programming": [{}],
+    "Training": [{}]
+  },
+
+  // Command cards that arent tied to a specific unit are listed here
+  "commands": {
+    // Generic commands available to all factions
+    "Generic": [
+      {
+        "name": "Ambush",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564037146/9E4C2F5453A9016854F388BB078666B71AC794B6/",
+        "pip": 1
+      }
+    ],
+    // Commands that are only available to certain factions
+    // Example below is for Rebels
+    "Rebel": [
+      {
+        "name": "Sabotaged Communications",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564036214/A7A0CC7689A2F66143FB6AE89914414462A09635/",
+        "pip": 1
+      }
+    ]
+  }
+}
