@@ -134,6 +134,44 @@
           ]
         },
         {
+          "name": "Boba Fett",
+          "title": "Infamous Bounty Hunter",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1856061112418867906/44A3AE63815B46C40C081924D1DE38B5ED3B3B99/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 120,
+          "speed": 3,
+          "upgrades": {
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541667697/9BC2C54E14EA265620F3D96553274503245D1681/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541669466/60DFE8F3EC756ECE7E5729D3261EF37CACA587C6/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Whipcord Launcher",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564035802/A1AA027AE84C3CF96C2E671C6BFA78E2C94E2741/",
+              "pip": 1
+            },
+            {
+              "name": "ZX Flame Projector",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564034359/7CC1427FEA79D22D3128A5650F8A93159661A656/",
+              "pip": 2
+            },
+            {
+              "name": "Z-6 Jetpack Rocket",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564032805/D4AEE724FC17B87F391BB7B24A3C8D44B40B704B/",
+              "pip": 3
+            }
+          ],
+          "additionalObjects": ["Victory Token"]
+        },
+        {
           "name": "Bossk",
           "title": "Trandoshan Terror",
           "image": "http://cloud-3.steamusercontent.com/ugc/1856061112418867948/20A2EB617A2E756580A6A127046FFC24E28F1157/",
