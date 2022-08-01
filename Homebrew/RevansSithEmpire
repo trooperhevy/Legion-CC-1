@@ -1,0 +1,222 @@
+{
+  "units": {
+    "Revans Sith Empire": {
+      "Commander": [
+        {
+          "name": "Darth Revan",
+          "title": "Fallen Lord",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479281811934/A5A06CC61DE1B518F307931E848ED0F2F84DBE3C/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 220,
+          "speed": 2,
+          "upgrades": {
+            "Force": 3
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012692039933832570/34E443C62233F9BFAB5A1A56848C92AF12D16DB0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012692039933823285/EE9DA185779FAC54191A9DC0353E57D542CF6EE9/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Slayer of Mandalore",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479281812320/441136636E20A3C920D22041163506AC74BD9E34/",
+              "pip": 1
+            },
+            {
+              "name": "I am the Dark Lord of the Sith",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479281812673/A864BC3FB16C88EF914102FA82EBE360D05B7016/",
+              "pip": 2
+            },
+            {
+              "name": "The Fallen Lords",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479281813019/D00A57B0F11280E97F8A27269F9F39A031001D38/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Darth Malak",
+          "title": "Treacherous Apprentice",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479281873194/CE73E7B8BE4C4C155231F3BBEE4F857395F1C174/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 195,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012692039933880695/1D163F620C1BF4639F889CE39C1DCB6E8ED159E9/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012692039933876696/ED5A556257FEA5E3EA9AD18215604CB599E132C2/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "This is but a Taste of the Dark Side",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479281873643/108B3E63FB5AAE3E70915C74CB0CEADB660F1899/",
+              "pip": 1
+            },
+            {
+              "name": "You Will Forever Stand Alone",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479281874073/CC8FEB5E5D0934D8C0FA1A3E8752A656D6EE849E/",
+              "pip": 2
+            },
+            {
+              "name": "Wipe this planet from the face of the galaxy",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479281874384/99D8B33D2B2422AFD4D24953C07B352DD585F493/",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Operative": [
+        {
+          "name": "Calo Nord",
+          "title": "Nefarious Bounty Hunter",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412068777865/AD645A6CA22119B08159D249FF1FAA79A9ABF568/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 90,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Gear": 1,
+            "Grenades": 1,
+            "Armament": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817412068837885/8382AD2EDA22D520AF2FFAF89E3D4CF044EB2E71/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817412068838066/B01C1691D062FFBDAF364DFA926330D8F0C107C5/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Updated Contract",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412068780726/450A5AD57585FD96262A630B2C7CC574CA293F41/",
+              "pip": 1
+            },
+            {
+              "name": "I am hard to kill",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412068781019/5958B05B2457B2A3F1BFDA10269F84EDBA1DC7B4/",
+              "pip": 2
+            },
+            {
+              "name": "One. Two. Three.",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1862817412068781429/29B9885FB2E1E129E6F684472C7281B09617EB46/",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Corps": [
+        {
+          "name": "Sith Troopers",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479281907874/694CCAFD2FB6C6ADA01DAB52DCEFB6CE4DBAB1D0/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 44,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012692039933591216/236BEBCCFA8E4701879F66DE28E7E61EB71696DA/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012692039933490257/46C7CB2E2B2537203D15FFD1EE0924E16455E4FA/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012692039933675175/1561AB6D3E5FCD7952FC0B2A76BEF1B14D75D00D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012692039933490257/46C7CB2E2B2537203D15FFD1EE0924E16455E4FA/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012692039933538068/07579EBF0F9C9A7BD0DBC30EFE30BEEF1FB31D33/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012692039933490257/46C7CB2E2B2537203D15FFD1EE0924E16455E4FA/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012692039933630508/AF5621F9AAF5556EADD9373D4C8F7DE5C3A6D95D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012692039933490257/46C7CB2E2B2537203D15FFD1EE0924E16455E4FA/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "upgrades": {
+    "Armament": [
+      {
+        "name": "Vibroblade",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412068779530/6BC0F180AB6278302B59DFDC3C381F048CFA28D7/",
+        "points": 12,
+        "restrictions": {
+          "include": {
+            "unit": ["Calo Nord"]
+          }
+        }
+      }
+    ],
+    "Command": [],
+    "Comms": [],
+    "Counterpart": [],
+    "Crew": [],
+    "Flaw": [],
+    "Force": [],
+    "Gear": [
+      {
+        "name": "Calo Nord's Battle Armor",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1862817412068780383/4FE70939384B8CD88DC852C8CAED0D21BAF3C367/",
+        "points": 35,
+        "restrictions": {
+          "include": {
+            "unit": ["Calo Nord"]
+          }
+        }
+      }
+    ],
+    "Generator": [],
+    "Grenades": [],
+    "Hardpoint": [],
+    "Heavy Weapon": [
+      {
+        "name": "Sith Rifleman",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1776099479281908934/40B735C56C1C6EFF536F72A96FCB2E86EBA4D7B5/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1012692039933721582/A454C20F4D869C5BDCBB07E7DF297D3A97C518F1/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012692039933490257/46C7CB2E2B2537203D15FFD1EE0924E16455E4FA/"
+        },
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Troopers"]
+          }
+        }
+      }
+    ],
+    "Ordnance": [],
+    "Personnel": [
+      {
+        "name": "Sith Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1776099479281908575/338762E958A0C98B0AB49C47AA6A715893E4548B/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1012692039933703057/89125C10F7477148926E221D7D01FC48B49D2502/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012692039933490257/46C7CB2E2B2537203D15FFD1EE0924E16455E4FA/"
+        },
+        "points": 11,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Troopers"]
+          }
+        }
+      }
+    ],
+    "Programming": [],
+    "Training": []
+  }
+}

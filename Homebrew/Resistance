@@ -1,0 +1,716 @@
+{
+  "units": {
+    "Resistance": {
+      "Commander": [
+        {
+          "name": "Finn",
+          "title": "First Order Defector",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1027324932752987105/4E0911D06D60474448E5EF5CFB340A7CA015C62D/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 110,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Comms": 1,
+            "Gear": 1,
+            "Armament": 1,
+            "Counterpart": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821770985763040/56F6F436F140391F26FB16960E2D6CD57FB14B71/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821770985763307/FB7EDB7C8D248BF873C1405012C99CC32C9FEBAA/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Big Deal",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1027324932752986056/CDC39A7E6D1022EC938F8F8A599EE7513650A574/",
+              "pip": 1
+            },
+            {
+              "name": "Come Get It",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1027324932752985107/DEB9D333DCC6E48F6855736D9E28A806719CE0E0/",
+              "pip": 2
+            },
+            {
+              "name": "I am with the Resistance",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1027324932752983093/53828D3EB704897C38DD09ECE6E0083DEB51146F/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Poe Dameron",
+          "title": "Reckless Flyboy",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1022821770975464596/6EDA2DD86069BD1A0B3B2690B5397BC3FC01C228/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 1,
+            "Counterpart": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821770984969371/73F6B8B3D8D4C55321CBCE3D8B75E5A7E5B25A94/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821770984969603/8925F3262BB3FE97EC31D45DAE964400AE8A528F/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "We are the Spark",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1022821770975465215/89BB4AAD301785869E3A3C44CFB2745F511C8FE8/",
+              "pip": 1
+            },
+            {
+              "name": "Dead Heros",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1022821770975470651/B99A6006460BC0A2B198BBE3CE6BA403E3B1AB7A/",
+              "pip": 2
+            },
+            {
+              "name": "I Need a Pilot",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1022821770975471416/4ED3DFBB9E55FC22BA5F9A7E2B1D5B5229CE9C79/",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Operative": [
+        {
+          "name": "Rey",
+          "title": "Force Prodigy",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1022821770981203693/E3069DE71ED495326B84393B00F82E021420E753/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 125,
+          "speed": 2,
+          "upgrades": {
+            "Force": 1,
+            "Training": 1,
+            "Gear": 1,
+            "Armament": 1,
+            "Counterpart": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804925013057/F62D7D1921B435B28DDB56BD129BB39D1FB2C2FD/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324712401180346/5DD131A4135CF4C90A2D42D264F3FAB332155AB3/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "The Force Awakens",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1027324582151432669/7A2F43C29C19033B13852F63165D64A18D766544/",
+              "pip": 1
+            },
+            {
+              "name": "You Came back For Me",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1027324582151438024/BC43E151F85D06C17D0602947648984AA604E08F/",
+              "pip": 2
+            },
+            {
+              "name": "I Think I Can Handle Myself",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1027324932752998047/158965EE8DD63D9BD1A1F43BC7E51993538FC7E3/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "BB-8",
+          "title": "A Clever Little Droid",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1022824296871784130/E6058352DDF98D626EC56C53D97FBD31675E6898/",
+          "size": "small",
+          "type": "Droid Trooper",
+          "points": 45,
+          "speed": 2,
+          "upgrades": {
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021698068157620585/9E7930221D8CD87F6338B9D4B58F4D3F824D08C0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021698068157620780/493748852320ED988465533F8BC49FEA2672A9E8/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Happy Beeps",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021698068157653789/55772CA9D24676C0367BBAC6F831F03E0340F4EB/",
+              "pip": 1
+            },
+            {
+              "name": "Keep an eye on this kid",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021698068157657298/77DAA5AFFEDD096EC568637DC3777E4696DE7D9D/",
+              "pip": 1
+            },
+            {
+              "name": "Engineering Expertise",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021698068157658855/8B72242F4B9650FC1DBE591F7FE32D574808DAA1/",
+              "pip": 2
+            },
+            {
+              "name": "Never Underestimate a Droid",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021698068157658236/1E07FA41D1449A2991220D2733B1F51D2565C4F7/",
+              "pip": 2
+            },
+            {
+              "name": "A Mutual Understanding",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1022824296871786871/AF5D00FAB14B8C70B843DFB4BD18D6EFC9F8ADD1/",
+              "pip": 2
+            },
+            {
+              "name": "Impromptu Imposter",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021698068157655413/18B1636E2055305E94F285684921B2FDAA773450/",
+              "pip": 2
+            },
+            {
+              "name": "Good Things Come Back",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1022824296871785786/4EA05DE445200A52D753CD1A023028FE0B5F0A0D/",
+              "pip": 3
+            },
+            {
+              "name": "Deus Ex Machina",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021698068157655832/49730DEF4AAD9BF0481CA578387F21D074A104D8/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "R2-D2",
+          "title": "Hero Of A Thousand Devices",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1022821770981205050/4D72685715DF8671198FA4BC591397371BC96665/",
+          "size": "small",
+          "type": "Droid Trooper",
+          "points": 45,
+          "speed": 1,
+          "upgrades": {
+            "Counterpart": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/776232727456806966/EFBA4A71BFE748A2868C14B82DA3A7B0D559874A/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/777357228032306302/F5CA6FC54A8625E261F123D73792DE36D74E1686/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Blast Off!",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564037063/A7AE3401CB3A51A58A8682BBCD8D6F6C104804AF/",
+              "pip": 1
+            },
+            {
+              "name": "Impromptu Immolation",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564035209/4C4829AE9D1B01B14F2D4FDE2C6D3935D8055954/",
+              "pip": 2
+            },
+            {
+              "name": "Smoke Screen",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564033033/7FC32081CE8646476E7B0C475F452AA629BA7713/",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Corps": [
+        {
+          "name": "Resistance Troopers",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1027324582151747849/0DC6B237D0C8CC16BE47236FF1B5268D403945C1/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 30,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804924627970/AE0B4993C8FA598D93829CF55F0E0A6415ACBBFB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324582151454188/1EC7453DFA3870ADCA468AD5A9257330B58CF8F4/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324582151456311/376D681EDE4D18D355A359F47C49551B6AC5EBAA/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324582151456617/9EBFAB9697DE7A1435FF501C6F39BBCC3B244BCB/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324582151464621/CEB3271C1C9E43C30C41206E919ACA9AFFB45247/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324582151464893/EF78574A7DFC9EBC7EC9FB76B27BA5F846B8F97D/"
+            }
+          ]
+        },
+        {
+          "name": "Resistance Trench Fighters",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1017194020628449858/1DC8646D5B2D0F5ABF7828732E6DE923F301DE46/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 39,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756248440350/60BC7FB4B3F6B327003DAB9B924C5EC98FA67C4B/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756248444916/D62AC2DD70775BA5025900AC76975C4AB45A54CC/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756248441473/F330E21469E4FF560B9E8892E784C14373697F16/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756248440578/125E76600442E01E3AD18725563EA1BE4D63BEFA/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756248442051/472D72BABB02CCA9F99639F83E21A9D3AF83BB14/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756248440578/125E76600442E01E3AD18725563EA1BE4D63BEFA/"
+            }
+          ]
+        }
+      ],
+      "Special Forces": [
+        {
+          "name": "Salvaged B2 Battle droids",
+          "title": "Defenders of the Colossus",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1021698068155819425/F5A156E66B986DA76D65B649D689496C6A4BB79A/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 64,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/775105953849586118/94F967F21EA7E390A200C4BDA5581D07DBB37AC2/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/775105953849585789/91A639AB9F57BE393683DA53212E395886307C52/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/775105953849586430/E5941CF7A3631E6D4A28832AE489A4340C96B0B9/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/775105953849585789/91A639AB9F57BE393683DA53212E395886307C52/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/775105953849586226/9326AD8D3EC80CC53F4BF2D156014978DCD715D9/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/775105953849585789/91A639AB9F57BE393683DA53212E395886307C52/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/775105953849586324/B5D59E535AFA2BF99FCA3C584E28FA500ADB89BD/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/775105953849585789/91A639AB9F57BE393683DA53212E395886307C52/"
+            }
+          ]
+        }
+      ],
+      "Support": [
+        {
+          "name": "Orbak Riders",
+          "heavyWeaponTeam": true,
+          "image": "http://cloud-3.steamusercontent.com/ugc/1022821770986742661/33B78DBDC2B4A466B810D5299DB14745FAFB1E68/",
+          "size": "medium",
+          "type": "Creature Trooper",
+          "points": 45,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Comms": 1,
+            "Gear": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821770976478153/4E00BD588837F87DDA2828DC092CEEE3BEDCC7A3/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821770976472996/354C4EE85A60585BD0FB817AFEE21D00E93799BA/"
+            }
+          ]
+        },
+        {
+          "name": "Rose Tico",
+          "title": "Skilled Technician",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1021697620253184171/055BD7F8C30E5D043104316A572B1846227F6DC5/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 50,
+          "speed": 2,
+          "upgrades": {
+            "Comms": 1,
+            "Gear": 2,
+            "Counterpart": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697601906861807/C7CB31D9AFAFF6C7B2633663A2A33D939F4E8205/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697601906862116/99E8BDA93C81AD3875DFC214AA5E39DC4F5477A5/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Saving What We Love",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021697620253191671/458068FD2D398FA6C7540EEFF383BD8E39509350/",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Heavy": [
+        {
+          "name": "V-4X-D Ski Speeder",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1021697620252781965/A29532E1391479BD4424DEE3CD7130CC5927AB08/",
+          "size": "epic",
+          "type": "Repulsor Vehicle",
+          "points": 140,
+          "speed": 3,
+          "upgrades": {
+            "Pilot": 1,
+            "Hardpoint": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804931072163/80F5B756EF0C02455B5C31CD1A608DD51B9108BD/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804925084213/855D3C37D204F44B1840665B50CCCB73A7CD62D2/"
+            }
+          ]
+        },
+        {
+          "name": "V-232 Turret",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1021698068157670378/DB2D6E46CD982AE3C38EA63F93939CDC2EECA984/",
+          "size": "huge",
+          "type": "Ground Vehicle",
+          "points": 100,
+          "speed": 0,
+          "upgrades": {
+            "Comms": 1,
+            "Generator": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021698068157631207/B54652720E993614D7AD481BD4A1B8236561DCAA/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756247150301/5C9F0E6F01394012B925C60CC4D8548E66B05427/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "upgrades": {
+    "Armament": [
+      {
+        "name": "Anakin's Lightsaber",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1027324932753002794/C0A0C19E79DAF7B4B11E6DCEE218AB2F4C385966/",
+        "points": 25,
+        "restrictions": {
+          "include": {
+            "unit": ["Finn"]
+          }
+        }
+      },
+      {
+        "name": "*Anakin's Lightsaber",
+        "displayName": "Anakin's Lightsaber",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1027324932753002794/C0A0C19E79DAF7B4B11E6DCEE218AB2F4C385966/",
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "unit": ["Rey"]
+          }
+        }
+      },
+      {
+        "name": "BB-8 Grappling cord",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1021698068157660515/A2C7648C32E4AF4B631D2C498E6C76CC97B25925/",
+        "points": 0,
+        "restrictions": {
+          "include": {
+            "unit": ["BB-8"]
+          }
+        }
+      },
+      {
+        "name": "Z-6 Riot Control baton",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1027324932752981376/8F2F3430452BDBD8DD78E48243BCECEA994DF1AC/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "unit": ["Finn"]
+          }
+        }
+      }
+    ],
+    "Command": [],
+    "Comms": [
+      {
+        "name": "B1's Datapad",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1021698068155822603/B74DFBDE71FC462A482C92AF02C57AD2C6373E0F/",
+        "points": 6,
+        "restrictions": {
+          "include": {
+            "unit": ["Salvaged B2 Battle Droids"]
+          }
+        }
+      }
+    ],
+    "Counterpart": [
+      {
+        "name": "BB-8",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1022824296871784739/BA69ED4E4B2926D1C9E5FB255791569EB5AA7A05/",
+        "points": 25,
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1021698068157620585/9E7930221D8CD87F6338B9D4B58F4D3F824D08C0/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021698068157620780/493748852320ED988465533F8BC49FEA2672A9E8/"
+        },
+        "restrictions": {
+          "include": {
+            "faction": ["Resistance"],
+            "unit": ["Rose Tico", "Rey", "Poe Dameron", "Finn", "R2-D2"]
+          }
+        }
+      },
+      {
+        "name": "C-3PO",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1616219505080628828/F6A01DB4DFDB1A518FC4E373D72237AB1B31300B/",
+        "points": 15,
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/776232727456807069/DE7E32B39455DB5111769436FD0C5BFDA3841268/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/777357228032306506/D60CB8A1159723917EF1831D4042318A67458A7A/"
+        },
+        "restrictions": {
+          "include": {
+            "unit": ["R2-D2"]
+          }
+        }
+      }
+    ],
+    "Crew": [],
+    "Flaw": [],
+    "Force": [],
+    "Gear": [],
+    "Generator": [
+      {
+        "name": "Scavenged Generator",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1022824296871788518/1BB5B0A6D3E8BDA3F3E66F6ED7B4E30BC24C4C3E/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "faction": ["Resistance", "Rebel"]
+          }
+        }
+      }
+    ],
+    "Grenades": [],
+    "Hardpoint": [
+      {
+        "name": "Raised Mono-Ski",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1021697620252782821/C642C07229E6BDCA7AA79F99D34328383622F962/",
+        "flip": {
+          "name": "Lowered Mono-Ski",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1021697620252782950/AE54FB7E97854E2621BC3F9EB314F432DBE1EC75/"
+        },
+        "points": 0,
+        "restrictions": {
+          "include": {
+            "unit": ["V-4X-D Ski Speeder"]
+          }
+        }
+      }
+    ],
+    "Heavy Weapon": [
+      {
+        "name": "B1",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1021698068155818428/717521A597961079FBE4E4121DECAF4F0ED00471/",
+        "points": 16,
+        "restrictions": {
+          "include": {
+            "unit": ["Salvaged B2 Battle droids"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780869166347/AA861F86A0B74CF335533E425A6CBACB99395A09/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780869166529/263C2AB95B1743539EC2CBDE40B0A14B1F5E5693/"
+        }
+      },
+      {
+        "name": "EL-16HFE Fighter",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1021697756245234129/D1D2CFCCD4C29B15FEBC3BB12EE0E66292729C1F/",
+        "points": 25,
+        "restrictions": {
+          "include": {
+            "unit": ["Resistance Trench Fighters"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756248448323/8992031636B30867375FF6724079096F6F95F5B0/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756248448499/974E02AC778A5EFD4EF7F33F393B06B71ADF20A6/"
+        }
+      },
+      {
+        "name": "Jannah",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1022821770986743715/2D901A3B93E61AA15B16922B7C314BFE18FE079B/",
+        "points": 65,
+        "restrictions": {
+          "include": {
+            "unit": ["Orbak Riders"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821770976479474/71199B4B530A5D511E21B37E7AAE4D28AEF8F799/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821770976479691/41E9EEF26B5B57FE44F5ED0C4B2912F09827F465/"
+        }
+      },
+      {
+        "name": "M-45 Ion Fighter",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1017194020628455620/5C9E4D9872161408669629A2BD9455804F3BFBB7/",
+        "points": 27,
+        "restrictions": {
+          "include": {
+            "unit": ["Resistance Trench Fighters"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756248443153/7D7FF98B537193A399A5974FF7CA73941E6D80AD/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756248443360/6BD1A35DC4787C5086210BA1A0436B983B39B4CE/"
+        }
+      },
+      {
+        "name": "Orback Rider",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1022821770986745583/D188E40D6063DA1246C0DD94216E458C45B6FDE6/",
+        "points": 45,
+        "restrictions": {
+          "include": {
+            "unit": ["Orbak Riders"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821770976472837/B6A4F9FAEAF8F6DC50A4EB8CE30D1D9D62CE1477/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821770976472996/354C4EE85A60585BD0FB817AFEE21D00E93799BA/"
+        }
+      },
+      {
+        "name": "Rose Tico",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1021697620252778506/96583F29F6DDE41276C77D92C892C2DE8965A086/",
+        "leader": true,
+        "points": 28,
+        "restrictions": {
+          "include": {
+            "faction": ["Resistance"],
+            "rank": ["Corps"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697601906861807/C7CB31D9AFAFF6C7B2633663A2A33D939F4E8205/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697601906862116/99E8BDA93C81AD3875DFC214AA5E39DC4F5477A5/"
+        }
+      },
+      {
+        "name": "Salvaged T-21 Rider",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1022821770986744919/D39D941758BD3209F2D9F72B075DE5752FC2AD80/",
+        "points": 55,
+        "restrictions": {
+          "include": {
+            "unit": ["Orbak Riders"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821770976478775/74F36986A6C7597A92FB07CBD80D29430F2ADC0C/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821770976478988/8EA7C3063101B4163C223C1AA9D3FFD5196EED24/"
+        }
+      },
+      {
+        "name": "TL-50 Resistance Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1027324932752980632/3AC1DF926A9DF195B85993DE03C1BA837FF12038/",
+        "points": 26,
+        "restrictions": {
+          "include": {
+            "unit": ["Resistance Troopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324582151739582/7B71E9B3E009D0CE72542DCE4EE88F80A15975F1/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324582151739873/59E17839EF9DE940D822E980A6B8D17EAF323009/"
+        }
+      },
+      {
+        "name": "Z-6B Resistance Trooper ",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1027324932752971387/1606CD1A3BD10A2FAF39558C7B36597840920010/",
+        "points": 22,
+        "restrictions": {
+          "include": {
+            "unit": ["Resistance Troopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324932752944952/1207D0D12B5971CC86CDAC845AB9487AFB0913E2/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324932752945165/7BFD62143549CA0DC0C9FDF7A251A8546AFB50DD/"
+        }
+      }
+    ],
+    "Ordnance": [],
+    "Personnel": [
+      {
+        "name": "General Caluan Emmat",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1021697756245233178/36866FDE340064CDE02A6C0BB423EA8CAD2B1ABC/",
+        "points": 20,
+        "leader": true,
+        "restrictions": {
+          "include": {
+            "faction": ["Resistance"],
+            "rank": ["Corps"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756248463256/9A71FCC63F00BFF1B30323727AE4ECE40A797845/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756248457898/6A102129E4F692F04E02D1269F913A4D22B22FBC/"
+        }
+      },
+      {
+        "name": "Resistance Trench Fighter",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1017194020628451982/E73E545FCA80240A75FBE0988782C8014F891577/",
+        "points": 13,
+        "restrictions": {
+          "include": {
+            "faction": ["Resistance Trench Fighters"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756248442551/9D7BC64B0ECFEA79E16E695F4823085745EA8C51/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756248440578/125E76600442E01E3AD18725563EA1BE4D63BEFA/"
+        }
+      },
+      {
+        "name": "Resistance Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1027324932752970508/02879490220A6F3BD0B3B501770CE6567C152BD1/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "unit": ["Resistance Troopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324582151467148/595A4E7837AB3D12604D3A2858D08496E4FCBEA5/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324582151467561/892B00728A9164598F3FBE91C0D7C0F8619FCB20/"
+        }
+      }
+    ],
+    "Pilot": [
+      {
+        "name": "Rose Tico",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1021697620252778721/621B535E20B29F253B38AD3548C986EE0DB42CCF/",
+        "points": 8,
+        "restrictions": {
+          "include": {
+            "faction": ["Resistance"]
+          }
+        }
+      }
+    ],
+    "Programming": [],
+    "Training": []
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "units": {
+    "Empire": {
+      "Operative": [
+        {
+          "name": "Gar Saxon",
+          "title": "Ferocius and Merciless Warrior",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751698926/DEEC78B093B0018CAB33C87DC0888B05EF646E68/",
+          "size": "small",
+          "type": "Mandalorian Trooper",
+          "points": 120,
+          "speed": 3,
+          "upgrades": {
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 1,
+            "Armament": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982271779/BBF522FC361772E237872CCC9E983F4A7CD58838/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696737982271948/1595F95FC7DB45109C0C2BCBE8A06B0F487FD04E/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "A Man of Opportunities",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751699409/6A9728D6816A10B7B0EADBC2193008793FB4A3F8/",
+              "pip": 1
+            },
+            {
+              "name": "Jetpack Charge",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751699906/29D9FAE52580C82BC543ACF392E46E98D23533AB/",
+              "pip": 2
+            },
+            {
+              "name": "Viceroy of Mandalore",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751700204/E379AF4A3824F8CFFB8EFAED55B651116AFE5125/",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Special Forces": [
+        {
+          "name": "Imperial Supercommandos",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751938598/EA4F3008844B6528784403937811449891C14FCE/",
+          "size": "small",
+          "type": "Mandalorian Trooper",
+          "points": 76,
+          "speed": 2,
+          "upgrades": {
+            "Personnel": 1,
+            "Training": 2,
+            "Comms": 1,
+            "Armament": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982273795/D117C3122139FF5A93AAB4E5DCD2455FF70508F1/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696737982273931/809947D430BEB447CD2FA3E99DD31AF57C3E8F84/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982274574/BFFC62F32FE65628DB446AAA3674E5C49F92DE2F/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696737982273931/809947D430BEB447CD2FA3E99DD31AF57C3E8F84/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982275923/F4BDE2E8B1C496AFAB7DCF11728CA5AD58EC55FE/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696737982273931/809947D430BEB447CD2FA3E99DD31AF57C3E8F84/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982276438/B609AA7C947FFDBFFFDE022D21A4029EF4428282/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696737982273931/809947D430BEB447CD2FA3E99DD31AF57C3E8F84/"
+            }
+          ]
+        }
+      ],
+      "Support": [
+        {
+          "name": "AT-LDT",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751888859/BEC4E39876A92E0FFC2504196992E2072E99BDE8/",
+          "size": "large",
+          "type": "Ground Vehicle",
+          "points": 70,
+          "speed": 1,
+          "upgrades": {
+            "Comms": 1,
+            "Ordnance": 1,
+            "Generator": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1055478574361579189/41CE0402F950AB518DB08E026AF96F46804E5AAB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1055478574361579329/ABE5D81D7D16FF3DF9D9EA1247787AF86A112C61/"
+            }
+          ]
+        },
+        {
+          "name": "Phase II Darktroopers",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751974310/FADC3793016675ADF27F22082439F243F5CFF323/",
+          "size": "medium",
+          "type": "Droid Trooper",
+          "points": 110,
+          "speed": 1,
+          "upgrades": {
+            "Ordnance": 2,
+            "Comms": 1,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455180041796/806FD35D077836E2B21585294CA1F31F3D20C5EF/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455180028599/BF2A5BE67D0934FF1785E154F766FBA82950A84B/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455180096325/2AB8CE3FE8B9FFFEC50C420D918E23A0DCF200B1/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455180028599/BF2A5BE67D0934FF1785E154F766FBA82950A84B/"
+            }
+          ]
+        }
+      ],
+      "Heavy": [
+        {
+          "name": "XX-7 Heavy Turbo Laser",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751922250/1D0ACF27CE08CFA865080B62DD8C0E12B87CA802/",
+          "size": "huge",
+          "type": "Emplacement Trooper",
+          "points": 90,
+          "speed": 0,
+          "upgrades": {
+            "Comms": 1,
+            "Generator": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028454512723115814/E2D62C42F65FA7C8D53DF84C32E2AF7A706CF227/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028454512723115925/1BBA13C56E26EC363E68E2E0A87AD0D00B3B2F9E/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "upgrades": {
+    "Armament": [
+      {
+        "name": "Elite Wrist Mounted Flamethrower",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640412575/1F3B56925DC71E5FAFDD405CF117B72CC0DB3B42/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"],
+            "rank": ["Commander", "Operative"]
+          }
+        }
+      },
+      {
+        "name": "Wrist Rocket",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640428446/AE6DB75F1A3643AF7DCB7CA1BA8DAFF87E7A5C8A/",
+        "points": 6,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"]
+          }
+        }
+      },
+      {
+        "name": "Whistling Birds",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640411728/A3BCBA7C1B49EE5B996A55A8FC6CB581A9EAA96C/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"],
+            "rank": ["Commander", "Operative"]
+          }
+        }
+      },
+      {
+        "name": "Wrist Mounted Blasters",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640413937/745B5BEAD23640A8222A54287029ACF70F9A81EE/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"]
+          }
+        }
+      },
+      {
+        "name": "Wrist Mounted Flamethrower",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640416270/08971192288A83DD208F4D91D02703E094090133/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"]
+          }
+        }
+      }
+    ],
+    "Command": [],
+    "Comms": [],
+    "Counterpart": [],
+    "Crew": [],
+    "Flaw": [],
+    "Force": [],
+    "Gear": [
+      {
+        "name": "Electro Grappling Line",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640414601/68D77CCDC40F2F1F103F1AF7568727FA6F9E8CE9/",
+        "points": 3,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"]
+          }
+        }
+      },
+      {
+        "name": "Jump pack",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751974753/5AF713EB09F4AFDF88B76C8CB9F54CE4D0BEB7D8/",
+        "points": 0,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase II Darktroopers"]
+          }
+        }
+      },
+      {
+        "name": "Personal Combat Shield",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640410953/DEF506B2DB3747BF1DD5ABBECEB36764450D0B7C/",
+        "points": 15,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"]
+          }
+        }
+      },
+      {
+        "name": "Vambrace Reloader",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640415774/E6C7E28AAA6C1EC3CB460AE5947F2AAE2960EF15/",
+        "points": 3,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"]
+          }
+        }
+      }
+    ],
+    "Generator": [],
+    "Grenades": [
+      {
+        "name": "Cluster Grenades",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640427155/BAB17778B9558A117B7672B361169E1429B8FFBD/",
+        "points": 5,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"]
+          }
+        }
+      }
+    ],
+    "Hardpoint": [],
+    "Heavy Weapon": [
+      {
+        "name": "TL-50 Stormtrooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751871157/BC6D8D82C13ED515680AE0748BCBF8BBA1967D52/",
+        "points": 28,
+        "restrictions": {
+          "include": {
+            "unit": ["Stormtroopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324932748013140/6A82D4809AA884C3F5786210898CE813BC9789F9/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324932748013349/A449441B895CE926D13CE9D1501BFC9B12A08A9D/"
+        }
+      },
+      {
+        "name": "Z-6 StormTrooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751870825/96353DB410957633EF3D108F2BC58D4F84EBEC7E/",
+        "points": 25,
+        "restrictions": {
+          "include": {
+            "unit": ["Stormtroopers"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324932748082014/050A615D4A688CAF04806338E172186E1BEE93F5/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324932748082306/B60EBE5BB730F9B03EC541DDF15993BADBE2820F/"
+        }
+      }
+    ],
+    "Ordnance": [
+      {
+        "name": "Bunker Buster Missiles",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751975579/6613DFBE1168370B4DB2AA3BAC7CCDC8F2B1EEDD/",
+        "points": 5,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase II Darktroopers"]
+          }
+        }
+      },
+      {
+        "name": "Sabot Missiles",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751975146/7766942C8563D444E253FC2262E6E7DDE1A95F00/",
+        "points": 5,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase II Darktroopers"]
+          }
+        }
+      },
+      {
+        "name": "Shrapnel Missiles",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751975982/EBFAC7D348F41D8A319B15EAF27ADF6F443DD56C/",
+        "points": 5,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase II Darktroopers"]
+          }
+        }
+      }
+    ],
+    "Personnel": [
+      {
+        "name": "Imperial Supercommando",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751939006/CBC6F2FE8C1DF0F75561DAE45F1F721222BF52FB/",
+        "points": 23,
+        "restrictions": {
+          "include": {
+            "unit": ["Imperial Supercommandos"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982276859/C65AD83F5B3BE7D8787B3F0DC71C3637F257CF58/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696737982273931/809947D430BEB447CD2FA3E99DD31AF57C3E8F84/"
+        }
+      }
+    ],
+    "Pilot": [],
+    "Programming": [],
+    "Training": [
+      {
+        "name": "Advanced Assault Training",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640415256/3E0DA25CB2B44F7093E46DADA1965C0DBD3C703A/",
+        "points": 5,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"]
+          }
+        }
+      },
+      {
+        "name": "Rising Phoenix Training",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640409422/F8AF40A8E8F4C87CA364A0ADADA7281F20F8F0D7/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"]
+          }
+        }
+      }
+    ]
+  }
+}
