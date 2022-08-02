@@ -589,43 +589,7 @@
     "Counterpart": [],
     "Crew": [],
     "Flaw": [],
-    "Force": [
-      {
-        "name": "Force Dash",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747371109/7290AD045A9201DA40F367CAD1FF04C1615B9851/",
-        "points": 9
-      },
-      {
-        "name": "Force Lightning",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747371606/231C69EF773D74B95CCC5EB34F1EB96C1119FA98/",
-        "points": 12,
-        "restrictions": {
-          "include": {
-            "alignment": ["Dark"]
-          }
-        }
-      },
-      {
-        "name": "Force Rend",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747370532/B97ADF8AC0302E13A315C68402376409B45A5FFE/",
-        "points": 17,
-        "restrictions": {
-          "include": {
-            "alignment": ["Dark"]
-          }
-        }
-      },
-      {
-        "name": "Force Statis",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747369898/5CC327BAEB59E3B817B71AFF6EC21D3E14ADB4A2/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "alignment": ["Dark"]
-          }
-        }
-      }
-    ],
+    "Force": [],
     "Gear": [
       {
         "name": "Bag of Tricks",
@@ -648,30 +612,7 @@
         }
       }
     ],
-    "Generator": [
-      {
-        "name": "Class-5B1 Duplex Generator",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747375028/7DEFD098875FF94FD712C2FB42C37218AE5F95D9/",
-        "points": 10
-      },
-      {
-        "name": "GNK-series Power Droid",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747374218/EBE238DB2CCD3F06AC1CC96325D04FEE2B5ECD1C/",
-        "points": 5
-      },
-      {
-        "name": "Ion Generator",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747374603/462C32A767195B287E9FFCFC73BD0FA798F982DF/",
-        "points": 10
-      }
-    ],
-    "Grenades": [
-      {
-        "name": "Cryoban Grenade",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747372562/020D8C7E51888C66929A5C68BC64CF2A0751AB96/",
-        "points": 10
-      }
-    ],
+    "Generator": [],
     "Hardpoint": [
       {
         "name": "Auto Loader",
@@ -900,30 +841,10 @@
         "points": 10,
         "restrictions": {
           "include": {
-            "faction": ["Scum"],
+            "faction": ["Zann Consortium"],
             "rank": ["Commander", "Operative", "Special Forces"]
           }
         }
-      },
-      {
-        "name": "Brutality",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640741408425/6FED2B70FD2FCEFC6A1A8249888003F3C9798118/",
-        "points": 10
-      },
-      {
-        "name": "Disarming Slash",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747373016/011CE3497BCC2229C114CDBF69464D3FB6E16B26/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "slot": ["Force"]
-          }
-        }
-      },
-      {
-        "name": "Hasty Exit",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747373759/AF9520B70176F54DCB2B098735D1D3F468E9F442/",
-        "points": 3
       }
     ]
   },
