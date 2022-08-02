@@ -534,7 +534,8 @@
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780869166347/AA861F86A0B74CF335533E425A6CBACB99395A09/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780869166529/263C2AB95B1743539EC2CBDE40B0A14B1F5E5693/"
-        }
+        },
+        "leader": true
       },
       {
         "name": "EL-16HFE Fighter",
