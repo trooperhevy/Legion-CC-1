@@ -46,7 +46,8 @@
           "points": 195,
           "speed": 2,
           "upgrades": {
-            "Force": 2
+            "Force": 2,
+            "Command": 1
           },
           "minis": [
             {
