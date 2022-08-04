@@ -243,7 +243,7 @@
 }
 
 // Below is a blank template you can copy into your repository to get started
-// It is recommended to copy a unit/upgrade from the official.json or homebrew.json and edit it than try to write it from scratch
+// It is recommended to copy a unit/upgrade from the official.json or homebrew.json and edit it rather than try to write it from scratch
 {
   "units": {
     "Rebel": {
