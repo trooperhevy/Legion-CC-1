@@ -438,7 +438,15 @@
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696642365798378/BE8A6530AC8273FFE4549147A2F83C7A77BA5597/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696642365798566/72991BC6227C745C3157A2328EEFDF4F1671924D/"
             }
-          ]
+          ],
+          "additionalObjects": [
+            "Shield Token",
+            "Shield Token",
+            "Shield Token",
+            "Shield Token",
+            "Shield Token",
+            "Shield Token"
+        ]
         },
         {
           "name": "Ewok Bomb",
