@@ -1,0 +1,35 @@
+{
+  "units": {
+    "Separatist": {
+      "Support": [
+        {
+          "name": "Droidekas",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788789475/1521CBD0935E6FB62CE544D89AC89E2F19F21D6B/",
+          "size": "medium",
+          "type": "Ground Vehicle",
+          "points": 75,
+          "speed": 1,
+          "upgrades": {
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455553732191897/63312F1C4D01590EDA8153640DDF31260E7A27E2/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455553732192021/2D0E1C0D65555EF7A52443E3000E0979A287E077/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455553732192630/7B686F1D43905244043848E1240DA5B112F92A09/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455553732192021/2D0E1C0D65555EF7A52443E3000E0979A287E077/"
+            }
+          ],
+          "additionalObjects": [
+            "Shield Token",
+            "Shield Token",
+            "Shield Token",
+            "Shield Token"
+        ]
+        }
+      ]
+    }
+  }
+}
