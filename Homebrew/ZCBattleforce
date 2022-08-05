@@ -843,17 +843,6 @@
     "Relic": [],
     "Programming": [],
     "Training": [
-      {
-        "name": "Blend In",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738505735182379/DD072454059CA2BB5CB206848D0BCBF656F494F9/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "faction": ["Zann Consortium"],
-            "rank": ["Commander", "Operative", "Special Forces"]
-          }
-        }
-      }
     ]
   },
   "commands": {},
