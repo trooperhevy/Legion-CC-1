@@ -56,7 +56,7 @@
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313093633229/41D09B08A55CABECC5D1F8918C69A858B906BF1D/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
             }
-          ],
+          ]
         },
         {
           "name": "Lord Adraas",
@@ -129,9 +129,9 @@
           ]
         }
       ],
-       "Operative": [
+      "Operative": [
         {
-        "name": "Cipher Nine",
+          "name": "Cipher Nine",
           "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770981/D1E4DDC1C68E00FBC366F8454A29F3A254F15D4D/",
           "size": "small",
           "type": "Trooper",
@@ -164,6 +164,7 @@
               "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770540/94BD1666AAB91A40AE3BAB80E96EC233D7E61E6C/",
               "pip": 3
             }
+          ]
         }
       ],
       "Corps": [
@@ -258,7 +259,7 @@
         }
       ],
       "Special Forces": [
-      {
+        {
           "name": "Imperial Assault Troopers",
           "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762778622/BAA0020D1003998CD405E44CF44B6C743F0E5178/",
           "size": "small",
@@ -550,7 +551,7 @@
     ],
     "Hardpoint": [],
     "Heavy Weapon": [
-    {
+      {
         "name": "Veteran Trooper",
         "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762778716/9070554761EECAEE126244342633E4964BB639DC/",
         "mini": {
@@ -604,7 +605,7 @@
         "points": 28,
         "restrictions": {
           "include": {
-            "unit": ["Sith Empire Scouts]
+            "unit": ["Sith Empire Scouts"]
           }
         }
       },
@@ -618,7 +619,7 @@
         "points": 22,
         "restrictions": {
           "include": {
-            "unit": ["Sith Empire Scouts]
+            "unit": ["Sith Empire Scouts"]
           }
         }
       },
@@ -813,7 +814,7 @@
     "Pilot": [],
     "Programming": [],
     "Training": [
-     {
+      {
         "name": "Sniper",
         "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770791/4A81418F19AC13EF621732F108088877BDBD1194/",
         "points": 0,
