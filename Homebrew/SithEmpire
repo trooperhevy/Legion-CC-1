@@ -144,8 +144,8 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696642366438145/53BAD2A0BECE84168DD54692576AFFD8D43A9962/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696642366438391/C107A0534E3BC5211416290AD53F4EB4482E021B/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1914611077947993859/EDA4A023ECB1AE766F49097A52BF3F5BF083AFD1/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1914611077936675552/93647E06DFE56BA818A8152B3702FFEDC59E7114/"
             }
           ],
           "commands": [
@@ -820,7 +820,7 @@
         "points": 0,
         "restrictions": {
           "include": {
-            "Unit": ["Cipher Nine"]
+            "unit": ["Cipher Nine"]
           }
         }
       },
@@ -830,7 +830,7 @@
         "points": 0,
         "restrictions": {
           "include": {
-            "Unit": ["Cipher Nine"]
+            "unit": ["Cipher Nine"]
           }
         }
       },
