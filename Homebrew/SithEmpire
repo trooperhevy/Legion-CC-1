@@ -393,6 +393,7 @@
           "points": 80,
           "speed": 2,
           "upgrades": {
+            "programming": 1,
             "Comms": 1
           },
           "minis": [
