@@ -49,7 +49,7 @@
           "upgrades": {
             "Command": 1,
             "Training": 2,
-            "Gear": 2
+            "Gear": 1
           },
           "minis": [
             {
@@ -268,9 +268,9 @@
           "speed": 2,
           "upgrades": {
             "Heavy Weapon": 1,
-            "Gear": 1,
             "Training": 2,
             "Comms": 1,
+            "Gear": 1,
             "Grenades": 1
           },
           "minis": [
@@ -301,9 +301,9 @@
           "speed": 2,
           "upgrades": {
             "Heavy Weapon": 1,
-            "Gear": 1,
             "Training": 1,
-            "Comms": 1
+            "Comms": 1,
+            "Gear": 1
           },
           "minis": [
             {
@@ -610,7 +610,7 @@
         }
       },
       {
-        "name": "Forward Observer",
+        "name": "Scout Forward Observer",
         "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762780823/7CA608CDBA8E5E542CAA19CD541BF4078496D838/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1914611077948046696/540C24586F04A11839C960006228303ACA909FD4/",
