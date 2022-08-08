@@ -236,7 +236,7 @@
         {
           "name": "Sith Empire Support Troopers",
           "heavyWeaponTeam": true,
-          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277927003/D6339601058975760755CFB0F0FEE8ED3B6A4372/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1907856497768106713/1038F28F5C0CB15D8967A5329DDE514D1F460D4D/",
           "size": "small",
           "type": "Trooper",
           "points": 30,
@@ -326,7 +326,7 @@
         },
         {
           "name": "Imperial Commandos",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762773780/F87D4F451DF230F0794CD7587B6671235AFA94B1/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1907856497768102636/FF44AEBE62A4380E48BCB47B385335FC14C5CBA0/",
           "size": "small",
           "type": "Trooper",
           "points": 68,
@@ -359,7 +359,7 @@
         },
         {
           "name": "Sith Acolytes",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762784089/1200DFFD73F6C65DDC3FE9CF2CABC944CB54221B/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1907856497768100019/9FF822BB69085EB4315D5622E2039166FAAC55DF/",
           "size": "small",
           "type": "Trooper",
           "points": 81,
@@ -553,7 +553,7 @@
     "Heavy Weapon": [
       {
         "name": "Veteran Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762778716/9070554761EECAEE126244342633E4964BB639DC/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1907856497768103876/552226106E91DE33EC51F038BB7C5B5C28C18DA9/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313089762379/047032801B3E12B76F5CEB7283D0EFA734E0D050/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
@@ -667,7 +667,7 @@
       },
       {
         "name": "F-11D Assault Cannon Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277928461/7263E2C1EF01981353B16786CB01441C92A7D941/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1907856497768108046/2D65C0A1D4317112F2F721FF0F7B97046C32B752/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1022824477681555675/1E4C571546078FEFFD4E753CBBC08EF18CBD0342/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022824477681548557/DB63AB0044B89CB25D50A204A061D535CA20F495/"
@@ -681,7 +681,7 @@
       },
       {
         "name": "Hyperstorm Heavy Cannon Gunner",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277928814/8CB3DD46BE7B2AFC9558DF5180F6FD6DAB46EFAE/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1907856497768108230/DCCED4EE322634C66508DDBE567DEA1FE0DC2821/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1022824477681557142/6A6BB38909200F986FCC00C6ED6D09B055D780BE/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022824477681557325/B9CACA9DF2EB9B7AAC473686F3E8597B000E1387/"
@@ -695,7 +695,7 @@
       },
       {
         "name": "Mantellan Frontline Cannon Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277928133/6CF94D4B6DA81B997D2E3BC9438CB8254F39BC0D/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1907856497768108141/33F31E077399726B879F7508F91F9B658B64C488/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1022824477681558249/5B7DA9706523B65997C0F39E0E3BCF6FA82F7628/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022824477681547387/758CB297CD1211353CBBC992035532A98F53893E/"
