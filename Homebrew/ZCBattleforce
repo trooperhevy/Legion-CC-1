@@ -446,7 +446,7 @@
             "Shield Token",
             "Shield Token",
             "Shield Token"
-        ]
+          ]
         },
         {
           "name": "Ewok Bomb",
@@ -462,9 +462,7 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696827920721151/5C05FDF683A81D7FF5286A2DD0CEA00CA0609127/"
             }
           ],
-          "additionalObjects": [
-            "Incognito Token"
-          ]
+          "additionalObjects": ["Incognito Token"]
         },
         {
           "name": "Swoop Bike Riders",
@@ -615,7 +613,15 @@
         "points": 6,
         "restrictions": {
           "include": {
-            "unit": ["Tyber Zann", "Urai Fen", "Defiler", "Mercenary Grenadier Squad", "Mercenary Assault Squad", "Infiltrators"]
+            "unit": [
+              "Tyber Zann",
+              "Urai Fen",
+              "Defiler",
+              "Mercenary Grenadier Squad",
+              "Mercenary Assault Squad",
+              "Infiltrators",
+              "Beast Master"
+            ]
           }
         }
       }
@@ -842,8 +848,7 @@
     ],
     "Relic": [],
     "Programming": [],
-    "Training": [
-    ]
+    "Training": []
   },
   "commands": {},
   "battlefield": {},
