@@ -614,8 +614,8 @@
         "image": "http://cloud-3.steamusercontent.com/ugc/1922492635486955288/F329393B9C8D5F8012B14B3A41274EBB55958632/",
         "points": 6,
         "restrictions": {
-          "include": {
-            "faction": ["Zann Consortium"]
+          "exclude": {
+            "unit": ["Boba Fett", "Bossk", "Cad Bane", "Black Sun Enforcers", "Pyke Syndicate Foot Soldiers"]
           }
         }
       }
