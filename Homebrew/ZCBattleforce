@@ -257,7 +257,7 @@
       "Corps": [
         {
           "name": "Mercenary Grenadier Squad",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1922492635486955156/6D99FD80D41E1DDE3A63C314EC669A0180370DFD/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1767119459183856944/763223B0237700879818BFF6724068F2551436D2/",
           "size": "small",
           "type": "Trooper",
           "points": 33,
@@ -404,14 +404,15 @@
         },
         {
           "name": "Beast Master",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1922492635486963385/4110AB4C93325767BB30949AE3616D00387BBABB/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1767119459183885169/223CF68116A344E2495958BA64CDFB2937FF1350/",
           "size": "small",
           "type": "Trooper",
-          "points": 20,
+          "points": 35,
           "speed": 1,
           "upgrades": {
             "Training": 2,
-            "Gear": 1
+            "Gear": 1,
+            "Armament": 1
           },
           "minis": [
             {
@@ -450,7 +451,7 @@
         },
         {
           "name": "Ewok Bomb",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1922492635486960007/83498AD7E6E802021EC325212D5C46C2213595B8/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1767119459183874115/793BEE6CC1D237BE7626C81AA8BAFDFF8E992CD7/",
           "size": "small",
           "type": "Creature Trooper",
           "points": 20,
@@ -503,7 +504,7 @@
         },
         {
           "name": "Canderous Class Assault Tank",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1922492635486961952/E1A8F0F11C221CB7E10BE2A43717BB5A3CF65EE2/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1767119459183840406/1E381D3D0921DB5BC25134B1BC2A4F112BABE062/",
           "size": "epic",
           "type": "Repulsor Vehicle",
           "points": 160,
@@ -599,8 +600,8 @@
     "Gear": [
       {
         "name": "Bag of Tricks",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1922492635486963341/388F6B0E8F4BD8AAF5B89D1C04C20D3AD8500209/",
-        "points": 15,
+        "image": "http://cloud-3.steamusercontent.com/ugc/1767119459183911348/743B722170DCD222D4C075127E21221913DF8D1E/",
+        "points": 5,
         "restrictions": {
           "include": {
             "unit": ["Beast Master"]
@@ -848,7 +849,18 @@
     ],
     "Relic": [],
     "Programming": [],
-    "Training": []
+    "Training": [
+      {
+        "name": "Faithful Compainion",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1767119459183911424/CC293403E090810F9C0A5DDAD5D7D6E985DDABBB/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "unit": ["Beast Master", "Silri"]
+          }
+        }
+      }
+    ]
   },
   "commands": {},
   "battlefield": {},
