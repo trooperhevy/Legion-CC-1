@@ -462,8 +462,7 @@
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696827920720888/50E58237E5F8FBC1D97E2422B8C9E9F8492CF31C/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696827920721151/5C05FDF683A81D7FF5286A2DD0CEA00CA0609127/"
             }
-          ],
-          "additionalObjects": ["Incognito Token"]
+          ]
         },
         {
           "name": "Swoop Bike Riders",
