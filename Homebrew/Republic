@@ -303,6 +303,26 @@
           ]
         },
         {
+          "name": "Delta Squad",
+          "image": " ",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 47,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 3,
+            "Training": 2,
+            "Gear": 2,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592276341/36DE554F21C0463D636C828063B579D36D3C4217/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592611329/234ABA60C0B576336C03887A4B34AB12368AADB8/"
+            }
+          ]
+        },
+        {
           "name": "LA-AT/I Gunship",
           "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747615420/DD22D969B4D59595325925BD059DBF83F295F406/",
           "size": "epic",
@@ -616,6 +636,48 @@
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415425547360/64A0DE5FC04770CADAEFA3F202A83EF0ACA1AABB/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+        }
+      },
+      {
+        "name": "Fixer",
+        "image": " ",
+        "points": 47,
+        "restrictions": {
+          "include": {
+            "unit": ["Delta Squad"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592514430/DDC8B744347513D7BA55C5A461B1E0E6B4903D84/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592514894/C676A03F8BBA90FDDE401D129E762DA17CB7BA4C/"
+        }
+      },
+      {
+        "name": "Scorch",
+        "image": " ",
+        "points": 47,
+        "restrictions": {
+          "include": {
+            "unit": ["Delta Squad"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592592632/4B60C3558B7F0B49BA44FF9F678065753950914A/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592593573/7E3C78A24D16C3D826D3F866EB1F1556474F891E/"
+        }
+      },
+      {
+        "name": "Sev",
+        "image": " ",
+        "points": 47,
+        "restrictions": {
+          "include": {
+            "unit": ["Delta Squad"]
+          }
+        },
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592430001/E8900A21D919A12171C4A6F20C1B1DA29829E45D/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592436932/60DC28436E0D67B7105194FC7ACAE286F684A118/"
         }
       }
     ],
