@@ -304,7 +304,7 @@
         },
         {
           "name": "Delta Squad",
-          "image": " ",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376358666/AC50648B5FAD60A6220543C9D8FEC3F64AA2EFCD/",
           "size": "small",
           "type": "Clone Trooper",
           "points": 47,
@@ -319,6 +319,39 @@
             {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592276341/36DE554F21C0463D636C828063B579D36D3C4217/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862800022592445244/A5B989B9ADFAAFECF164E8227CD3EDB43EDA760E/"
+            }
+          ]
+        },
+        {
+          "name": "Clone Commandos",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376358454/FB88A0CD9AAF54472CB3387786BCE6EE7989C957/",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 152,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 2,
+            "Armament": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182228456/B086CF963F81B78DCBE9E0893013169CF6454817/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182280894/C546CADEC6AD3A41EFFC07CCD86AAE1EFB325BC7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182431253/81E98F267170F435E05AA7ED621A04F6476DC3B0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
             }
           ]
         },
@@ -358,12 +391,33 @@
         }
       },
       {
+        "name": "DC-17m Anti-Armor Config 2"
+        ,
+        "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376385110/DBE94626D82A3E35B29FD44E869A95478CF0570D/",
+        "points": 8,
+        "restrictions": {
+          "include": {
+            "unit": ["Clone Commandos"]
+          }
+        }
+      },
+      {
         "name": "DC-17m Sniper Rifle Config",
         "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747571113/0AA95599A43D23EDBDA63F1835698A1CBAC6D746/",
         "points": 20,
         "restrictions": {
           "include": {
             "unit": ["Republic Commandos"]
+          }
+        }
+      },
+      {
+        "name": "DC-17m Sniper Rifle Config 2",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376385172/E292B7CAABFECF1692BBBE58EC144A705E9AD00C/",
+        "points": 8,
+        "restrictions": {
+          "include": {
+            "unit": ["Clone Commandos"]
           }
         }
       },
@@ -438,6 +492,26 @@
     "Force": [],
     "Gear": [
       {
+        "name": "Tactical HUD",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376358154/F97559465BC2CF02ADE05A6CFB4D00856F8D2F9F/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "unit": ["Clone Commandos", "Delta Squad"]
+          }
+        }
+      },
+      {
+        "name": "Bacta Injector",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376358057/B896CDA244DFE68C7BAEC7CF142AE73D7338A637/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "unit": ["Clone Commandos", "Delta Squad"]
+          }
+        }
+      },
+      {
         "name": "Bacta Auto-Dispenser",
         "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747571812/21DA4C0C9811D5252F4FAB4E7F10B358FC74C2BA/",
         "points": 20,
@@ -497,6 +571,20 @@
         "restrictions": {
           "include": {
             "type": ["Mandalorian Trooper"]
+          }
+        }
+      },
+      {
+        "name": "Det-Pack Breacher",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376385061/8E02FF393DD58540D89DB17AB34DB27DC861C113/",
+        "flip": {
+          "name": "Det-Pack Charge",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376384995/42B4291668E104C0F4B53E49B64B111FDF9F5A00/"
+        },
+        "points": 8,
+        "restrictions": {
+          "include": {
+            "type": ["Clone Commandos"]
           }
         }
       }
@@ -640,7 +728,7 @@
       },
       {
         "name": "Fixer",
-        "image": " ",
+        "image": "https://discord.com/channels/@me/892929368928698398/1007826092704403566",
         "points": 47,
         "restrictions": {
           "include": {
@@ -654,7 +742,7 @@
       },
       {
         "name": "Scorch",
-        "image": " ",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376358609/C0CDDA2A8B48B9B9F9D41130E4F512DD0C4DDB15/",
         "points": 47,
         "restrictions": {
           "include": {
@@ -668,7 +756,7 @@
       },
       {
         "name": "Sev",
-        "image": " ",
+        "image": "https://discord.com/channels/@me/892929368928698398/1007826072122957876",
         "points": 47,
         "restrictions": {
           "include": {
@@ -809,6 +897,16 @@
     "Relic": [],
     "Programming": [],
     "Training": [
+      {
+        "name": "Cuv'val Dar Training",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376358261/2732FD7E2622126374DB7DC9344EE61AF180EDF2/",
+        "points": 6,
+        "restrictions": {
+          "include": {
+            "type": ["Clone Commandos", "Delta Squad"]
+          }
+        }
+      },
       {
         "name": "Advanced Assault Training",
         "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640415256/3E0DA25CB2B44F7093E46DADA1965C0DBD3C703A/",
