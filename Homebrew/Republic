@@ -898,12 +898,12 @@
     "Programming": [],
     "Training": [
       {
-        "name": "Cuv'val Dar Training",
+        "name": "Cuv val Dar Training",
         "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376358261/2732FD7E2622126374DB7DC9344EE61AF180EDF2/",
         "points": 6,
         "restrictions": {
           "include": {
-            "type": ["Clone Commandos", "Delta Squad"]
+            "unit": ["Clone Commandos", "Delta Squad"]
           }
         }
       },
