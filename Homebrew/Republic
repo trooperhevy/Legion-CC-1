@@ -584,7 +584,7 @@
         "points": 8,
         "restrictions": {
           "include": {
-            "type": ["Clone Commandos"]
+            "unit": ["Clone Commandos", "Delta Squad"]
           }
         }
       }
