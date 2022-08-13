@@ -391,17 +391,6 @@
         }
       },
       {
-        "name": "DC-17m Anti-Armor Config 2"
-        ,
-        "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376385110/DBE94626D82A3E35B29FD44E869A95478CF0570D/",
-        "points": 8,
-        "restrictions": {
-          "include": {
-            "unit": ["Clone Commandos"]
-          }
-        }
-      },
-      {
         "name": "DC-17m Sniper Rifle Config",
         "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747571113/0AA95599A43D23EDBDA63F1835698A1CBAC6D746/",
         "points": 20,
@@ -414,6 +403,10 @@
       {
         "name": "DC-17m Sniper Rifle Config 2",
         "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376385172/E292B7CAABFECF1692BBBE58EC144A705E9AD00C/",
+        "flip": {
+          "name": "DC-17m Anti-Armor Config 2",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376385110/DBE94626D82A3E35B29FD44E869A95478CF0570D/"
+        },
         "points": 8,
         "restrictions": {
           "include": {
