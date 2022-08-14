@@ -38,6 +38,42 @@
               "pip": 3
             }
           ]
+        },
+         {
+          "name": "Ahsoka Tano",
+          "title": "Jedi Outcast",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1759238432807424665/039D745B59236F4DC63AABDE5ED7AEEE4CAD3023/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 135,
+          "speed": 2,
+          "upgrades": {
+            "Force": 3,
+            "Command": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1759238432807450563/16C2266532288A6380585220299C13E544B66876/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1288541860694899395/79BC2C3CEFCFF4570704B7D757816245839EC11C/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "You're Lucky Anakin Didnt Show Up",
+              "image": http://cloud-3.steamusercontent.com/ugc/1759238432807424132/9FD2B65E27953958431B3D0884B72A75FCEB0BB1/",
+              "pip": 1
+            },
+            {
+              "name": "Victory And Death",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1759238432807424336/03FED42DD536B0294B65C95CAAAAD6E20C0A4BE4/",
+              "pip": 2
+            },
+            {
+              "name": "In Your Honor",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1759238432807424477/2E60B11255C077DF6D31B747AEBF318F8B3BE890/",
+              "pip": 3
+            }
+          ]
         }
       ],
       "Operative": [
@@ -110,6 +146,44 @@
             {
               "name": "Shoulder to Shoulder",
               "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747528812/CFDDAA0DDD1CB89C937F8B47D672B78CF44D19D5/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Commander Rex",
+          "title": "Commander By Formality",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1759238432807426617/415C5ABABD956B26D55C3C5EC8F3EC1705A3D670/",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 2,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1288541860695021579/A52EF823CC124D5E89B5D63A019B85FD4A49BA49/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1288541860694995238/537283A8DC176C5BB6431A44BFF41CC7A8AEA4E6/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Is That It?",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1759238432807426149/70D35DE037B695687BACDC63D30496F2BBEA5676/",
+              "pip": 1
+            },
+            {
+              "name": "I Cover Your Back",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1759238432807426317/9D5F7D0AEE0260A86FD2A6EC47EA4C3F00FEBF7A/",
+              "pip": 2
+            },
+            {
+              "name": "You're A Good Soldier, Rex.",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1759238432807426477/3363645C78D58FC3C854E561B00612DDD085D994/",
               "pip": 3
             }
           ]
