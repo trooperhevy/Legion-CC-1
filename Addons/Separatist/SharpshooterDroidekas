@@ -15,11 +15,11 @@
           "minis": [
             {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455553732191897/63312F1C4D01590EDA8153640DDF31260E7A27E2/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455553732192021/2D0E1C0D65555EF7A52443E3000E0979A287E077/"
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077717035/EFC7688175ABF7E9A3DEB7E66C6907A817020B8E/"
             },
             {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455553732192630/7B686F1D43905244043848E1240DA5B112F92A09/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455553732192021/2D0E1C0D65555EF7A52443E3000E0979A287E077/"
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077717035/EFC7688175ABF7E9A3DEB7E66C6907A817020B8E/"
             }
           ],
           "additionalObjects": [
