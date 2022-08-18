@@ -1,70 +1,70 @@
 {
-"units": {
-"Republic": {
-"Special Forces": [
-    {
-      "name": "Arc Troopers",
-      "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790227/9326CC2191C991FF9CB0EB06A4EA17A2A17078BC/",
-      "size": "small",
-      "type": "Clone Trooper",
-      "points": 78,
-      "speed": 2,
-      "upgrades": {
-        "Heavy Weapon": 1,
-        "Training": 1,
-        "Comms": 1,
-        "Gear": 2,
-        "Grenades": 1
-      },
-      "minis": [
+  "units": {
+    "Republic": {
+      "Special Forces": [
         {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077638803/2AA1FCA532E578858B76CE8B48C100F258E35351/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599937/F6CEF2C2FDD631687F49FA3E6A6997A4089F2E88/"
+          "name": "Arc Troopers",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790227/9326CC2191C991FF9CB0EB06A4EA17A2A17078BC/",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 78,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 2,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077638803/2AA1FCA532E578858B76CE8B48C100F258E35351/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599937/F6CEF2C2FDD631687F49FA3E6A6997A4089F2E88/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077638845/F52EF0468F4BC8C051EA90AA0B17B9FEF7190608/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599937/F6CEF2C2FDD631687F49FA3E6A6997A4089F2E88/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077638897/33D6FF6BC5784FD8A23D445678150D61F0708C40/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599937/F6CEF2C2FDD631687F49FA3E6A6997A4089F2E88/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592948261/B5C1429FE2604A8AD60C05773CD80A6DDC905FC7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599937/F6CEF2C2FDD631687F49FA3E6A6997A4089F2E88/"
+            }
+          ]
         },
         {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077638845/F52EF0468F4BC8C051EA90AA0B17B9FEF7190608/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599937/F6CEF2C2FDD631687F49FA3E6A6997A4089F2E88/"
-        },
-        {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077638897/33D6FF6BC5784FD8A23D445678150D61F0708C40/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599937/F6CEF2C2FDD631687F49FA3E6A6997A4089F2E88/"
-        },
-        {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592948261/B5C1429FE2604A8AD60C05773CD80A6DDC905FC7/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599937/F6CEF2C2FDD631687F49FA3E6A6997A4089F2E88/"
-        }
-      ]
-    },
-    {
-      "name": "Arc Troopers",
-      "title": "Strike Team",
-      "displayName": "Arc Troopers (Strike Team)",
-      "heavyWeaponTeam": true,
-      "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790261/AD41C53AE8A6F57645BE2A51DAD8E9FF4FB9224D/",
-      "size": "small",
-      "type": "Clone Trooper",
-      "points": 27,
-      "speed": 2,
-      "upgrades": {
-        "Heavy Weapon": 1,
-        "Training": 1,
-        "Comms": 1,
-        "Gear": 2,
-        "Grenades": 1
-      },
-      "minis": [
-        {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077638845/F52EF0468F4BC8C051EA90AA0B17B9FEF7190608/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599937/F6CEF2C2FDD631687F49FA3E6A6997A4089F2E88/"
+          "name": "Arc Troopers",
+          "title": "Strike Team",
+          "displayName": "Arc Troopers (Strike Team)",
+          "heavyWeaponTeam": true,
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790261/AD41C53AE8A6F57645BE2A51DAD8E9FF4FB9224D/",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 27,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 2,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077638845/F52EF0468F4BC8C051EA90AA0B17B9FEF7190608/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599937/F6CEF2C2FDD631687F49FA3E6A6997A4089F2E88/"
+            }
+          ]
         }
       ]
     }
-]
-}
-    },
-    "upgrades": {
+  },
+  "upgrades": {
     "Heavy Weapon": [
-    {
+      {
         "name": "DC-15X ARC Trooper",
         "image": "http://cloud-3.steamusercontent.com/ugc/1860546411028298710/80CA04A1D29D91F52B2F0169038D6A64B39C7687/",
         "mini": {
@@ -78,7 +78,7 @@
           }
         }
       },
-    {
+      {
         "name": "Fives",
         "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568141128/F31F92F3977318E41C58131438E623171638DA41/",
         "mini": {
@@ -113,5 +113,5 @@
         }
       }
     ]
-}
+  }
 }

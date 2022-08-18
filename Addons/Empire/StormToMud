@@ -1,143 +1,145 @@
 {
-    "units": {
-      "Empire": {
-        "Corps": [{
-            "name": "Stormtroopers",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788701400/02C7B04C990D9753DBD492D8D3AA7B380E131E9B/",
-            "size": "small",
-            "type": "Trooper",
-            "points": 44,
-            "speed": 2,
-            "upgrades": {
-              "Heavy Weapon": 1,
-              "Personnel": 1,
-              "Gear": 1,
-              "Grenades": 1
+  "units": {
+    "Empire": {
+      "Corps": [
+        {
+          "name": "Stormtroopers",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788701400/02C7B04C990D9753DBD492D8D3AA7B380E131E9B/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 44,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554970051/E040360956BE255A1C0823EE4ADFB6D1B6C34DC7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
             },
-            "minis": [
-                {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554970051/E040360956BE255A1C0823EE4ADFB6D1B6C34DC7/",
-                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
-                  },
-                  {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554972365/8034DEC3E4577F3B273139A1C466E2F96D62F571/",
-                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
-                  },
-                  {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554973315/1A93711734D055426377D2F853CBA209A8AD0D11/",
-                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
-                  },
-                  {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554974561/60C53C5F483DAF2F4BE766F332BBD8EB2750A1C6/",
-                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
-                  }
-            ]
-          }
-        ]
-      }
-    },
-    "upgrades": {
-      "Heavy Weapon": [{
-          "name": "DLT-19 Stormtrooper",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568140049/9DA8A6B2DF19484212DC2516D345CE713F9D0F5E/",
-          "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554986623/6DFE6E98AD8ABBF400C3CCF232E1196AF5A6D450/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
-          },
-          "points": 20,
-          "restrictions": {
-            "include": {
-              "unit": ["Stormtroopers"]
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554972365/8034DEC3E4577F3B273139A1C466E2F96D62F571/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554973315/1A93711734D055426377D2F853CBA209A8AD0D11/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554974561/60C53C5F483DAF2F4BE766F332BBD8EB2750A1C6/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
             }
-          }
-        },
-        {
-          "name": "HH-12 Stormtrooper",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568142253/2A3E6F8AB8FB506642A35A69516EB1F38E82F2D0/",
-          "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554978302/22034F02BEDC2F893E91020F75A44E8532D2D54B/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
-          },
-          "points": 16,
-          "restrictions": {
-            "include": {
-              "unit": ["Stormtroopers"]
-            }
-          }
-        },
-        {
-          "name": "RT-97C Stormtrooper",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568145178/E34FCDD3060A28ED28C91966A004D3CB7DD6C62F/",
-          "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554983490/C3444F8D6BBD96D4B3F4E3758EBFEDF06D4446F1/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
-          },
-          "points": 24,
-          "restrictions": {
-            "include": {
-              "unit": ["Stormtroopers"]
-            }
-          }
-        },
-        {
-          "name": "T-21 Stormtrooper",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568145912/C6F9E9EDA22CB6B40D955AE391F14227D648AF3B/",
-          "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554980858/9F2E97A6F96D2F1FA8AE33DF325C1F794EAFEE7A/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
-          },
-          "points": 22,
-          "restrictions": {
-            "include": {
-              "unit": ["Stormtroopers"]
-            }
-          }
-        }
-      ],
-      "Personnel": [
-        {
-          "name": "Stormtrooper",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568145641/67887DD2E968766C0268BB4629E1EEA9CF54DFDC/",
-          "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554975682/0F5E8C7D80EF7C035D70F4288651251898705596/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
-          },
-          "points": 8,
-          "restrictions": {
-            "include": {
-              "unit": ["Stormtroopers"]
-            }
-          }
-        },
-        {
-          "name": "Stormtrooper Captain",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568145556/326ED56BBF68B291DF37555D6155DD013F1E646A/",
-          "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554984707/440CFBC4D13CD6A54463224926208B73A4B0E6BC/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
-          },
-          "leader": true,
-          "points": 10,
-          "restrictions": {
-            "include": {
-              "unit": ["Stormtroopers"]
-            }
-          }
-        },
-        {
-          "name": "Stormtrooper Specialist",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568145600/9F5038BBE19D0970091F9C1946001A4E825C22A1/",
-          "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554982237/E83C14A33A6BC1CF15D9DAC5D0EECBE5F1B89A27/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
-          },
-          "points": 9,
-          "restrictions": {
-            "include": {
-              "unit": ["Stormtroopers"]
-            }
-          }
+          ]
         }
       ]
     }
+  },
+  "upgrades": {
+    "Heavy Weapon": [
+      {
+        "name": "DLT-19 Stormtrooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568140049/9DA8A6B2DF19484212DC2516D345CE713F9D0F5E/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554986623/6DFE6E98AD8ABBF400C3CCF232E1196AF5A6D450/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
+        },
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "unit": ["Stormtroopers"]
+          }
+        }
+      },
+      {
+        "name": "HH-12 Stormtrooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568142253/2A3E6F8AB8FB506642A35A69516EB1F38E82F2D0/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554978302/22034F02BEDC2F893E91020F75A44E8532D2D54B/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
+        },
+        "points": 16,
+        "restrictions": {
+          "include": {
+            "unit": ["Stormtroopers"]
+          }
+        }
+      },
+      {
+        "name": "RT-97C Stormtrooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568145178/E34FCDD3060A28ED28C91966A004D3CB7DD6C62F/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554983490/C3444F8D6BBD96D4B3F4E3758EBFEDF06D4446F1/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
+        },
+        "points": 24,
+        "restrictions": {
+          "include": {
+            "unit": ["Stormtroopers"]
+          }
+        }
+      },
+      {
+        "name": "T-21 Stormtrooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568145912/C6F9E9EDA22CB6B40D955AE391F14227D648AF3B/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554980858/9F2E97A6F96D2F1FA8AE33DF325C1F794EAFEE7A/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
+        },
+        "points": 22,
+        "restrictions": {
+          "include": {
+            "unit": ["Stormtroopers"]
+          }
+        }
+      }
+    ],
+    "Personnel": [
+      {
+        "name": "Stormtrooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568145641/67887DD2E968766C0268BB4629E1EEA9CF54DFDC/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554975682/0F5E8C7D80EF7C035D70F4288651251898705596/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
+        },
+        "points": 8,
+        "restrictions": {
+          "include": {
+            "unit": ["Stormtroopers"]
+          }
+        }
+      },
+      {
+        "name": "Stormtrooper Captain",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568145556/326ED56BBF68B291DF37555D6155DD013F1E646A/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554984707/440CFBC4D13CD6A54463224926208B73A4B0E6BC/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
+        },
+        "leader": true,
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "unit": ["Stormtroopers"]
+          }
+        }
+      },
+      {
+        "name": "Stormtrooper Specialist",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568145600/9F5038BBE19D0970091F9C1946001A4E825C22A1/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554982237/E83C14A33A6BC1CF15D9DAC5D0EECBE5F1B89A27/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1931498942554970209/20B510D00F66F77C3DAC895D64602225CACF9410/"
+        },
+        "points": 9,
+        "restrictions": {
+          "include": {
+            "unit": ["Stormtroopers"]
+          }
+        }
+      }
+    ]
   }
+}
