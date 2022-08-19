@@ -386,15 +386,15 @@
           "upgrades": {
             "Heavy Weapon": 3,
             "Training": 2,
-            "Gear": 2,
-            "Grenades": 1
+            "Gear": 2
           },
           "minis": [
             {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592611139/70EFD75D5E296A5F9A5B2D45B0EA97999FBBF2A8/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599408/710CC33AD6DF7098B8465625B893460AACDAAA1F/"
             }
-          ]
+          ],
+          "required": ["Fixer", "Scorch", "Sev"]
         },
         {
           "name": "Clone Commandos",
