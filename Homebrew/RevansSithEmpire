@@ -44,7 +44,7 @@
           "size": "small",
           "type": "Trooper",
           "points": 195,
-          "speed": 2,
+          "speed": 1,
           "upgrades": {
             "Force": 2,
             "Command": 1
