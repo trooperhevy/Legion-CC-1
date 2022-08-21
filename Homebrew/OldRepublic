@@ -135,8 +135,8 @@
             "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020951946/32E55DCDEEC6564E575877B8521EF45BEBE47A22/",
             "points": 21,
             "mini": {
-                    "mesh": "",
-                    "diffuse": ""
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290500541868/93D0E101F06085749E2CE5099EE9BDA5DB69B4E5/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012691837445412418/C04D748007AA9C500B9F034D4B8543F90D39DD40/"
             },
             "restrictions": {
                 "include": {
@@ -192,8 +192,8 @@
             "points": 27,
             "leader": true,
             "mini": {
-                    "mesh": "",
-                    "diffuse": ""
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290500541868/93D0E101F06085749E2CE5099EE9BDA5DB69B4E5/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012691837445412418/C04D748007AA9C500B9F034D4B8543F90D39DD40/"
             },
             "restrictions": {
                 "include": {
