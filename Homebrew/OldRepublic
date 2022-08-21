@@ -54,7 +54,7 @@
             "minis": [
               {
                 "mesh": "http://cloud-3.steamusercontent.com/ugc/1039715510744985638/CAFB7781A9366DBBF39A5BAE31D65A563C6B7CC1/",
-                "texture": "http://cloud-3.steamusercontent.com/ugc/1012691837445412418/C04D748007AA9C500B9F034D4B8543F90D39DD40/"
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012691837445412418/C04D748007AA9C500B9F034D4B8543F90D39DD40/"
               }
             ],
             "commands": [
