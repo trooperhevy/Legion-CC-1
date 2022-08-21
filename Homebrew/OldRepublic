@@ -36,8 +36,70 @@
               "pip": 3
             }
           ]
-        }
+        },
+        {
+            "name": "Jace Malcom",
+            "title": "Hero of Alderaan",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020685908/54DCAE977AE9144C3CF53819F41ACC74297ADD6E/",
+            "size": "small",
+            "type": "Trooper",
+            "points": 90,
+            "speed": 2,
+            "upgrades": {
+              "Command": 1,
+              "Training": 2,
+              "Gear": 1,
+              "Armament": 1
+            },
+            "minis": [
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1039715510744985638/CAFB7781A9366DBBF39A5BAE31D65A563C6B7CC1/",
+                "texture": "http://cloud-3.steamusercontent.com/ugc/1012691837445412418/C04D748007AA9C500B9F034D4B8543F90D39DD40/"
+              }
+            ],
+            "commands": [
+              {
+                "name": "To Victory.",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020712648/671598E6A4CF2F375BFF0D515F16F364287FB5E8/",
+                "pip": 1
+              },
+              {
+                "name": "Or Death.",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020712812/460ADC31F382075B3DC1D4E94E7656F042DEBF1E/",
+                "pip": 2
+              },
+              {
+                "name": "For The Republic!",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020712937/2975C92F900FCD08918E64AA543FF0F585379098/",
+                "pip": 3
+              }
+            ]
+          }
         ]
     }
+  },
+  "upgrades": {
+    "Armament":[
+        {
+            "name": "Malcoms Assaultgun",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020675860/884DCDC99B8E0F23DC5B34324E6074D8073D7C8E/",
+            "points": 15,
+            "restrictions": {
+                "include": {
+                    "unit": ["Jace Malcom"]
+                }
+            }
+        }
+        {
+            "name": "Malcoms Blaster Rifle",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020713175/F0F330D3240D0C5E760DCF3FB47664E9D0EF8D07/",
+            "points": 15,
+            "restrictions": {
+                "include": {
+                    "unit": ["Jace Malcom"]
+                }
+            }
+        }
+    ]
   }
 }
