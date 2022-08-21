@@ -75,6 +75,33 @@
               }
             ]
           }
+        ],
+        "Special Forces": [
+            {
+                "name": "Havoc Squad",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020685908/54DCAE977AE9144C3CF53819F41ACC74297ADD6E/",
+                 "size": "small",
+                "type": "Trooper",
+                 "points": 38,
+                 "speed": 2,
+                 "upgrades": {
+                    "Heavy Weapon": 3,
+                    "Training": 1,
+                    "Gear": 1,
+                    "comms": 1,
+                    "Grenades": 1
+            },
+            "minis": [
+                {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1012691837445505399/C7BF97473BFB99F5C14CA28B64673AE1E64FC5A4/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012691837445412418/C04D748007AA9C500B9F034D4B8543F90D39DD40/"
+                },
+                {
+                     "mesh": "http://cloud-3.steamusercontent.com/ugc/1012692955037448464/C00D48842A8960FD071EFF2A38920EA220E9CCBD/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012691837445412418/C04D748007AA9C500B9F034D4B8543F90D39DD40/"
+                }
+              ]
+            }
         ]
     }
   },
@@ -97,6 +124,110 @@
             "restrictions": {
                 "include": {
                     "unit": ["Jace Malcom"]
+                }
+            }
+           
+        }
+    ],
+    "Heavy Weapon":[
+        {
+            "Name": "Havoc Squad Soldier",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020951946/32E55DCDEEC6564E575877B8521EF45BEBE47A22/",
+            "points": 21,
+            "mini": {
+                    "mesh": "",
+                    "diffuse": ""
+            },
+            "restrictions": {
+                "include": {
+                    "unit": ["Havoc Squad"]
+                }
+            }
+        },
+        {
+            "Name": "Havoc Squad Medic",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020951415/FF8FF04503A8B64327CEB97816BC0413AB4EFF58/",
+            "points": 24,
+            "mini": {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290500541868/93D0E101F06085749E2CE5099EE9BDA5DB69B4E5/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012691837445412418/C04D748007AA9C500B9F034D4B8543F90D39DD40/"
+            },
+            "restrictions": {
+                "include": {
+                    "unit": ["Havoc Squad"]
+                }
+            }
+        },
+        {
+            "Name": "Havoc Squad Saboteur",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020951684/952ED04CFB5032A8A4CBA12C4E640249A58352A0/",
+            "points": 25,
+            "mini": {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1039715510745397906/160777DF06E675C1A76FB188C29D23B2B1B158B6/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1039715510744933511/79832C63872307705A45DB2C7FE5F3ECA47B8A2F/"
+            },
+            "restrictions": {
+                "include": {
+                    "unit": ["Havoc Squad"]
+                }
+            }
+        },
+        {
+            "Name": "Havoc Squad Vanguard",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020952076/3E55713B277026C0308BE5F61A1249DF7CE75B9D/",
+            "points": 28,
+            "mini": {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1039715510745308785/2042C07ADA584D245886D140F488B02CF6682ADC/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1039715510744933511/79832C63872307705A45DB2C7FE5F3ECA47B8A2F/"
+            },
+            "restrictions": {
+                "include": {
+                    "unit": ["Havoc Squad"]
+                }
+            }
+        },
+        {
+            "Name": "Havoc Squad Sergeant",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020951816/892F0B24B1B96E4A46A0B674B97916A436B0CE53/",
+            "points": 27,
+            "leader": true,
+            "mini": {
+                    "mesh": "",
+                    "diffuse": ""
+            },
+            "restrictions": {
+                "include": {
+                    "unit": ["Havoc Squad"]
+                }
+            }
+        },
+        {
+            "Name": "Havoc Squad Marksman",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020951298/CF5C505ADAAFF0BD145B394BD5289C38F5F9B130/",
+            "points": 31,
+            "leader": true,
+            "mini": {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1039715510744830021/A1057E4139D532940D2E9347BEE82B22398CE81D/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012691837445412418/C04D748007AA9C500B9F034D4B8543F90D39DD40/"
+            },
+            "restrictions": {
+                "include": {
+                    "unit": ["Havoc Squad"]
+                }
+            }
+        },
+        {
+            "Name": "Havoc Squad Commando",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020951116/1252091AB4A5167CF019FDA5C8498BF5411F508D/",
+            "points": 32,
+            "leader": true,
+            "mini": {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1039715510744989691/0B59C3D84EC0A360B6F4BBE0564F62F701D3B018/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1039715510744933511/79832C63872307705A45DB2C7FE5F3ECA47B8A2F/"
+            },
+            "restrictions": {
+                "include": {
+                    "unit": ["Havoc Squad"]
                 }
             }
         }
