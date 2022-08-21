@@ -1,6 +1,6 @@
 {
   "units": {
-    "Sith Empire": {
+    "The Old Republic": {
       "Commander": [
         {
           "name": "Satele Shan",
@@ -16,8 +16,7 @@
           },
           "minis": [
             {
-              "bundle": "http://cloud-3.steamusercontent.com/ugc/1759238432798875312/5F9646AAD8898BEFA7432F0FFF196FDBC63A677B/",
-              "secondary": ""
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/1759238432798875312/5F9646AAD8898BEFA7432F0FFF196FDBC63A677B/"
             }
           ],
           "commands": [
