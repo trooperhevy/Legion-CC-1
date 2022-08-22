@@ -77,6 +77,41 @@
             ]
           }
         ],
+        "corps": [
+            {
+              "name": "Republic Troopers",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1744602401023081667/70DAE738264F05109FC29810CD581C9C566F548E/",
+                 "size": "small",
+                "type": "Trooper",
+                 "points": 46,
+                 "speed": 2,
+                 "upgrades": {
+                    "Heavy Weapon": 1,
+                    "Personnel": 1,
+                    "Gear": 1,
+                    "Grenades": 1
+            },
+            "minis": [
+                {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571319674/F955E8F3A976C22090208E927E2EE8D9E492F699/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571284104/42E44A242A0330CB8D4A8C0D002233FA3C557093/"
+                },
+                {
+                     "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571569417/DD384B145E0FC417D72F03DEC8FB78842B0A62A1/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571284104/42E44A242A0330CB8D4A8C0D002233FA3C557093/"
+                },
+                {
+                  "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571395635/2BC66197BC0A815564B1A2AF02C6F66424676D07/",
+                  "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571284104/42E44A242A0330CB8D4A8C0D002233FA3C557093/"
+                },
+                {
+                   "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571303417/5AB86A541E0E926E71A634E50E0AFA19BD602AAC/",
+                  "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571284104/42E44A242A0330CB8D4A8C0D002233FA3C557093/"
+               }
+              ]
+            }
+
+        ],
         "Special Forces": [
             {
                 "name": "Havoc Squad",
@@ -129,6 +164,37 @@
             }
            
         }
+    ],
+    "Personnel":[
+          {
+          "name": "Republic Trooper",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1744602401023082281/FE74C5BF0C0C24D99F6262D2A4197B81A550C6C2/",
+          "points": 11,
+          "mini": {
+                  "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571368908/486416BABF74F021956C71547816480D7A148ADD/",
+                  "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571284104/42E44A242A0330CB8D4A8C0D002233FA3C557093/"
+                  },
+          "restrictions": {
+              "include": {
+                  "unit": ["Republic Troopers"]
+                        }
+                  }
+           },
+           {
+            "name": "Veteran Officer",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401023082146/D506B1252AA18A6C87C0DEA4334873F683219927/",
+            "points": 24,
+            "leader": true,
+            "mini": {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571546562/620598FDFF1BE61AFEE2C278FDE39BA1C3CBC98B/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571586519/A907EC26A5AC4D04D09BBFC675D60C9EE6932149/"
+                    },
+            "restrictions": {
+                "include": {
+                    "unit": ["Republic Troopers"]
+                          }
+                    }
+             }
     ],
     "Heavy Weapon":[
         {
@@ -231,7 +297,35 @@
                     "unit": ["Havoc Squad"]
                 }
             }
-        }
+        },
+        {
+            "name": "Republic Gunner",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401023081822/59EC12BC38FC44589B2988D29A551E6E87A5B0F8/",
+            "points": 23,
+            "mini": {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571419354/0346D956097EB1AD2ACFCF741380EEBC23C2C4CE/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571284104/42E44A242A0330CB8D4A8C0D002233FA3C557093/"
+            },
+            "restrictions": {
+                "include": {
+                    "unit": ["Republic Troopers"]
+                }
+            }
+        },
+        {
+          "name": "Republic Ion Gunner",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1744602401023081977/CCED54230BB5D07519BB67A92B991C9AD53BAA4B/",
+          "points": 31,
+          "mini": {
+                  "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571453065/A869FEADF30FA87C1A17A191C2709DA6B20BD52A/",
+                  "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571284104/42E44A242A0330CB8D4A8C0D002233FA3C557093/"
+          },
+          "restrictions": {
+              "include": {
+                  "unit": ["Republic Troopers"]
+              }
+          }
+      }
     ]
   }
 }
