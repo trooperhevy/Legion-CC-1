@@ -233,7 +233,7 @@
     "Heavy Weapon":[
         {
           "name": "Vanguard Shotgunner",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020951946/32E55DCDEEC6564E575877B8521EF45BEBE47A22/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1744602401024024051/B20969E7B2766E43CC7166F6F025F6F1D6DFBD0B/",
           "points": 32,
           "mini": {
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1759238159838273901/C0AB24AFFAFE76D399C2737F69A36EEC67956239/",
@@ -289,7 +289,7 @@
         },
         {
             "name": "Havoc Squad Vanguard",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020952076/3E55713B277026C0308BE5F61A1249DF7CE75B9D/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401024258130/868C1CB224FA6A0FED5FC3D72633D466020DA43B/",
             "points": 28,
             "mini": {
                     "mesh": "http://cloud-3.steamusercontent.com/ugc/1039715510745308785/2042C07ADA584D245886D140F488B02CF6682ADC/",
@@ -318,7 +318,7 @@
         },
         {
             "name": "Havoc Squad Marksman",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020951298/CF5C505ADAAFF0BD145B394BD5289C38F5F9B130/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401024257921/DAE0945388D3D279250F7BFB0E9A57FC663DB82F/",
             "points": 31,
             "leader": true,
             "mini": {
