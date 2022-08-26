@@ -17,8 +17,8 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942568777590/0BA60DFCDA7322FE873E450157E4186CD1E095AD/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077071074/B605732D09B59BDB72C66689A48F813E24CAD612/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592948261/B5C1429FE2604A8AD60C05773CD80A6DDC905FC7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527127575397/92782A59A3529BA6DADDFB9B8A4C79FDD8EF036C/"
             }
           ]
         }
@@ -328,8 +328,8 @@
         "name": "Clone Commander",
         "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568139272/747D9B51470E308061A8A4A21FBA5B28B2CEC1BB/",
         "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942568777590/0BA60DFCDA7322FE873E450157E4186CD1E095AD/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077071074/B605732D09B59BDB72C66689A48F813E24CAD612/"
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592948261/B5C1429FE2604A8AD60C05773CD80A6DDC905FC7/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527127575397/92782A59A3529BA6DADDFB9B8A4C79FDD8EF036C/"
         },
         "leader": true,
         "points": 20,
