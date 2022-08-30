@@ -127,10 +127,10 @@
                  "speed": 2,
                  "upgrades": {
                     "Heavy Weapon": 1,
-                    "Training": 1,
                     "Personnel": 1,
                     "Gear": 1,
-                    "Grenades": 1
+                    "Grenades": 1,
+                    "Training": 1
             },
             "minis": [
                 {
