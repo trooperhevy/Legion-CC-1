@@ -17,8 +17,7 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022824296871909914/CC551973C1E900C1153BB015BED7EE408646DF78/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081074147/DC538AD89AF685C1102576C82D5A8ACEB6AD1FD6/"
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/1832423555428692083/08F1227CB591649DC78445EC41A6729C0D820F66/"
             }
           ],
           "commands": [
@@ -235,7 +234,8 @@
             "Heavy Weapon": 1,
             "Personnel": 1,
             "Gear": 1,
-            "Grenades": 1
+            "Grenades": 1,
+            "Training": 1
           },
           "minis": [
             {
@@ -431,12 +431,10 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012691837448680455/252DCD7E06B5083BBE6CABCA4F8349D6DCE46498/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081079520/0775F590DDE47C40DDAFB82C59A19435EF71EC53/"
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/1832423555428757736/C9088EF6011D215F36B21BF5E7F59D3B3C0DF2B8/"
             },
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885701810/42CE6863B9D31E7EDDA1C4DEEC0C52F6DFEBB0D1/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081079520/0775F590DDE47C40DDAFB82C59A19435EF71EC53/"
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/1832423555428753414/D862FB0A70CACE6D5326AC6382E5DA5AE045A929/"
             }
           ]
         }
