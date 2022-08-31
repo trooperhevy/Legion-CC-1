@@ -780,6 +780,20 @@
             "unit": ["Sith Empire Troopers"]
           }
         }
+      },
+      {
+        "name": "Imperial Medic Droid",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771293/35B1E3B12FE8ED3F8F2582D27CBC3EAE34111AF0/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1832423555428431312/21515B11ECAB56451F491029F1FFAB956D1B9742/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1832423555428435315/ED9AB86EE12BACE25FB3D6ABA36E38F78BE4B83A/"
+        },
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Empire Troopers"]
+          }
+        }
       }
     ],
     "Pilot": [],
