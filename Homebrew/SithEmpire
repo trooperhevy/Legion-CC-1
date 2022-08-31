@@ -239,7 +239,7 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878956135/77C5F51565475CEB63D9A0A0E97F3616EC17992E/",
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1832423555426928756/68416AD112D4C3CA04C9D25D97313A344494EA24/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081087166/DC000E0FD7547739B5853A78E11FDC4535073348/"
             },
             {
@@ -746,6 +746,35 @@
         },
         "leader": true,
         "points": 20,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Empire Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Sith Trooper Captain",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771530/C0041ADB17D8FBF6B10079839CAF16DEA26A4A1B/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878956135/77C5F51565475CEB63D9A0A0E97F3616EC17992E/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081087166/DC000E0FD7547739B5853A78E11FDC4535073348/"
+        },
+        "leader": true,
+        "points": 16,
+        "restrictions": {
+          "include": {
+            "unit": ["Sith Empire Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Sith Trooper Specialist",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771778/189DBDD1E51F247FB08231218AB2D366357116B8/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1832423555428140953/B962B9F242F4EE4F5BC09E080A9CD98AA042F09C/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081087166/DC000E0FD7547739B5853A78E11FDC4535073348/"
+        },
+        "points": 16,
         "restrictions": {
           "include": {
             "unit": ["Sith Empire Troopers"]
