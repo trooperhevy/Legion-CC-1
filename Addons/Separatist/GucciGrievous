@@ -1,0 +1,44 @@
+{
+  "units": {
+    "Separatist": {
+      "Commander": [
+        {
+            "name": "General Grievous",
+            "title": "Sinister Cyborg",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790037/C20F500DE55700AA568EA5BDA7794A1B0210E605/",
+            "size": "small",
+            "type": "Trooper",
+            "points": 155,
+            "speed": 2,
+            "upgrades": {
+              "Command": 2,
+              "Training": 1,
+              "Armament": 1
+            },
+            "minis": [
+              {
+                "bundle": "http://cloud-3.steamusercontent.com/ugc/1832423761745761213/BBD86E7B836DB512AF30DE66E8B16E1EDAD28759/"
+              }
+            ],
+            "commands": [
+              {
+                "name": "Trained In Your Jedi Arts",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564035917/02823FB99DD83199FB8D24F9257F684A251C91D2/",
+                "pip": 1
+              },
+              {
+                "name": "Supreme Commander",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564034666/71DDFA4CA889DE1EDAC999866F6B0C887FF2D49F/",
+                "pip": 2
+              },
+              {
+                "name": "Crush Them!",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564033887/5DDF0AA77123DE906D2FA6A681B83BB73A48AAF5/",
+                "pip": 3
+              }
+            ]
+          }
+      ]
+    }
+  }
+}
