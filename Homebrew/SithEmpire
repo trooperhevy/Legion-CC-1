@@ -200,8 +200,7 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696642366438145/53BAD2A0BECE84168DD54692576AFFD8D43A9962/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081082236/630F53ADFAF536358B4F4FEE8F361FF97026F2E2/"
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/1813284016020998397/116F1C74F2FDE81E2653C2092A4F0736069B10A1/"
             }
           ],
           "commands": [
@@ -217,7 +216,7 @@
             },
             {
               "name": "Timber!",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420263/F9FCD124CAF648A1FBA57A84EA487E5BE5269371/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420643/8A602132C3BFA5D9BAB8EE44616FC159DDF15C91/",
               "pip": 3
             }
           ]
