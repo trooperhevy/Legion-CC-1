@@ -247,7 +247,7 @@
             "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656835518/C2F3AF9E5F9D59F356A1ABE5B92DAFE2C39386D4/",
              "size": "small",
             "type": "Trooper",
-             "points": 75,
+             "points": 80,
              "speed": 2,
              "upgrades": {
                 "Training": 1,
@@ -361,7 +361,7 @@
         {
             "name": "Havoc Squad Sergeant",
             "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656767136/E23EEC514F4C3213DAB06B48B259B07AD59A68CE/",
-            "points": 27,
+            "points": 22,
             "leader": true,
             "mini": {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448654133061/41918B9D901969A7580E19CF793B37D04D6FC9A7/",

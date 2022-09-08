@@ -22,18 +22,18 @@
           ],
           "commands": [
             {
-              "name": "Furious Charge",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277563415/5A0861160BA5F979A8F0C216F494C9925D5538BB/",
+              "name": "You Were Deceived",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020417507/6E917E842279B0EFB8867E1A478D75E8A86185A5/",
               "pip": 1
             },
             {
-              "name": "Visions of Doubt",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277563761/ECD4F9155C9E74C1B70403FD0F547B55070F205C/",
+              "name": "Your Republic Shall Fall",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020417655/19FB71D09B56430ABB355A41DD4D939E1DB80FC2/",
               "pip": 2
             },
             {
-              "name": "Force Maelstrom",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277564474/A1645474FAA791583F23BC7FFE299704AA112FCF/",
+              "name": "We Have Returned",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020417777/BAB528BA7885ED65447650AEB2D68A5B89200CA7/",
               "pip": 3
             }
           ]
@@ -110,42 +110,6 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081116756/E223CB7C342C2EE18671F1EB7E90595ED210D77F/"
             }
           ]
-        },
-        {
-          "name": "Shae Vizla - PLACEHOLDER",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277698530/3A31084E01120F5B0F53A17C0B6F3ECBD2FD6DA6/",
-          "size": "small",
-          "type": "Mandalorian Trooper",
-          "points": 135,
-          "speed": 3,
-          "upgrades": {
-            "Training": 2,
-            "Gear": 1,
-            "Armament": 2
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696642366438145/53BAD2A0BECE84168DD54692576AFFD8D43A9962/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081082236/630F53ADFAF536358B4F4FEE8F361FF97026F2E2/"
-            }
-          ],
-          "commands": [
-            {
-              "name": "Flame Burst",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277699041/E5D63FF435C115846E9863192F7A61EBABCD0DE4/",
-              "pip": 1
-            },
-            {
-              "name": "Mandalore The Avenger",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277699427/213D174E2B02C59A9774F14990693D661012BA30/",
-              "pip": 2
-            },
-            {
-              "name": "Whatever...",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277699707/C145698341E7B15563A59265F2D6D63A1F16E340/",
-              "pip": 3
-            }
-          ]
         }
       ],
       "Operative": [
@@ -220,6 +184,43 @@
               "pip": 3
             }
           ]
+        },
+        {
+          "name": "Shae Vizla",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020421485/CE50D73A4D541E14BBD36D3C069A31A385847B7C/",
+          "size": "small",
+          "type": "Mandalorian Trooper",
+          "points": 115,
+          "speed": 3,
+          "upgrades": {
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 2,
+            "Armament": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696642366438145/53BAD2A0BECE84168DD54692576AFFD8D43A9962/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081082236/630F53ADFAF536358B4F4FEE8F361FF97026F2E2/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Infiltrate",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420263/F9FCD124CAF648A1FBA57A84EA487E5BE5269371/",
+              "pip": 1
+            },
+            {
+              "name": "Missile Barrage",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420429/480939749ABAD6505CDF720576C17B524287DAD7/",
+              "pip": 2
+            },
+            {
+              "name": "Timber!",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420263/F9FCD124CAF648A1FBA57A84EA487E5BE5269371/",
+              "pip": 3
+            }
+          ]
         }
       ],
       "Corps": [
@@ -286,34 +287,6 @@
             {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885271840/AEB99C8ABF425086732389D43FA67625C6E6C4CB/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
-            }
-          ]
-        },
-        {
-          "name": "Sith Empire Support Troopers - DELETE",
-          "heavyWeaponTeam": true,
-          "image": "http://cloud-3.steamusercontent.com/ugc/1744602190324312413/72C6B203906F5976FE03A19D5A273C99CA90BC0F/",
-          "size": "small",
-          "type": "Trooper",
-          "points": 39,
-          "speed": 2,
-          "upgrades": {
-            "Heavy Weapon": 1,
-            "Training": 1,
-            "Comms": 1
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022824477681546677/855DD1F57D897B360CCA3F12DDB4449E0D116255/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081092042/D563B69D12104FA97FC763FBE985F57792010EEB/"
-            },
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022824477681548370/AFD42783EB041326C035DDB002BF34928A1AE002/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081092042/D563B69D12104FA97FC763FBE985F57792010EEB/"
-            },
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022824477681548370/AFD42783EB041326C035DDB002BF34928A1AE002/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081092042/D563B69D12104FA97FC763FBE985F57792010EEB/"
             }
           ]
         }
@@ -463,54 +436,12 @@
   "upgrades": {
     "Armament": [
       {
-        "name": "Elite Wrist Mounted Flamethrower",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640412575/1F3B56925DC71E5FAFDD405CF117B72CC0DB3B42/",
+        "name": "Shae Vizla's Blaster Rifle",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420768/D14A4F2E27EAE3BBCCACC79D9859F73B81E7BBA7/",
         "points": 10,
         "restrictions": {
           "include": {
-            "type": ["Mandalorian Trooper"],
-            "rank": ["Commander", "Operative"]
-          }
-        }
-      },
-      {
-        "name": "Wrist Rocket",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640428446/AE6DB75F1A3643AF7DCB7CA1BA8DAFF87E7A5C8A/",
-        "points": 6,
-        "restrictions": {
-          "include": {
-            "type": ["Mandalorian Trooper"]
-          }
-        }
-      },
-      {
-        "name": "Whistling Birds",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640411728/A3BCBA7C1B49EE5B996A55A8FC6CB581A9EAA96C/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "type": ["Mandalorian Trooper"],
-            "rank": ["Commander", "Operative"]
-          }
-        }
-      },
-      {
-        "name": "Wrist Mounted Blasters",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640413937/745B5BEAD23640A8222A54287029ACF70F9A81EE/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "type": ["Mandalorian Trooper"]
-          }
-        }
-      },
-      {
-        "name": "Wrist Mounted Flamethrower",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640416270/08971192288A83DD208F4D91D02703E094090133/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "type": ["Mandalorian Trooper"]
+            "unit": ["Shae Vizla"]
           }
         }
       }
@@ -523,22 +454,22 @@
     "Force": [],
     "Gear": [
       {
-        "name": "Electro Grappling Line",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640414601/68D77CCDC40F2F1F103F1AF7568727FA6F9E8CE9/",
-        "points": 3,
+        "name": "Shae Vizla's Holoprojector",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020421138/4A0519CBEB086C3D3F1CD81679F9DF0BBFCAE4F4/",
+        "points": 10,
         "restrictions": {
           "include": {
-            "type": ["Mandalorian Trooper"]
+            "unit": ["Shae Vizla"]
           }
         }
       },
       {
-        "name": "Personal Combat Shield",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640410953/DEF506B2DB3747BF1DD5ABBECEB36764450D0B7C/",
-        "points": 15,
+        "name": "Shae Vizla's Flamethrower",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420923/A54EA1527392ED1DCD22C67949F2103AF92A5FA0/",
+        "points": 5,
         "restrictions": {
           "include": {
-            "type": ["Mandalorian Trooper"]
+            "unit": ["Shae Vizla"]
           }
         }
       }
