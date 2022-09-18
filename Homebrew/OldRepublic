@@ -391,7 +391,7 @@
         {
             "name": "Havoc Squad Commando",
             "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656766880/411A5345974B38EBAF0BC182A5EB1DE7A3E56AC6/",
-            "points": 32,
+            "points": 40,
             "leader": true,
             "mini": {
                     "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448654084121/4FCEC2E99395F6C35C2AFF8E83D272C7C825B749/",
