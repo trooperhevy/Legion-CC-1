@@ -74,6 +74,46 @@
               "pip": 3
             }
           ]
+        },
+        {
+          "name": "Boss",
+          "title": "DELTA-38",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223041721/56EE2765C2EF3E0F5CA3F6E54F316CFE2A42262F/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 178,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 1,
+            "Armament": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592611139/70EFD75D5E296A5F9A5B2D45B0EA97999FBBF2A8/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599408/710CC33AD6DF7098B8465625B893460AACDAAA1F/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "I'm a lot scarier than you",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223041366/FD38943C9EBA6AAB09899B37C434422A78EEC69B/",
+              "pip": 1
+            },
+            {
+              "name": "Get yourself some Bacta, Delta",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223041543/7BE0C932D7816E55038E13E822B19BEF89BF54B0/",
+              "pip": 2
+            },
+            {
+              "name": "Delta Squad, Lock and Load",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223041643/2E414F66C50828D175DA1E41A0B30DB24996D1F4/",
+              "pip": 3
+            }
+          ]
         }
       ],
       "Operative": [
@@ -222,6 +262,62 @@
               "name": "Take 'em out!",
               "image": "http://cloud-3.steamusercontent.com/ugc/1903351232712305806/309155452F3CCF60AFF42FF23B9E0F8F68FD3520/",
               "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Fixer",
+          "title": "DELTA-40",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223046731/1984E2EEA4ED335C79A4E9E0C9F314B07F7602E6/",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 178,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Comms": 2,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592514430/DDC8B744347513D7BA55C5A461B1E0E6B4903D84/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599588/62CB036C19DAC2138C81A1EEEA64CB4F89B02517/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Watch the Master at Work",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223046490/AE1A6CC6A97CE8E43F8E286C06ECB75CA5B8754F/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Sev",
+          "title": "DELTA-07",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223047945/FE40DCB6C26D7BDE829D26DD90C53F48F07B2D4C/",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 178,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592430001/E8900A21D919A12171C4A6F20C1B1DA29829E45D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599687/821D1F2549742194E17F8D3066CBA17EF56E4EA7/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "I'll Rip out their Guts",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223047775/5AB3EAB5BE315B0084F3A00B3D0A1338A95C9206/",
+              "pip": 1
             }
           ]
         }
@@ -448,6 +544,34 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394080710037/5370F3F4D3837B8CF9E0A84794355A29F95919C1/"
             }
           ]
+        },
+        {
+          "name": "Scorch",
+          "title": "DELTA-62",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223047256/EEB98213BCA7F73A67428E1848BAB837207C693E/",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 178,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 2,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592592632/4B60C3558B7F0B49BA44FF9F678065753950914A/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599499/BF858088F8967814CF0AAF8BF40A07447684BA54/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Enemies go Boom, Sir?",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223047126/0F462BDF22933BC445CFB025A16D6E5F06EE9FBC/",
+              "pip": 2
+            }
+          ]
         }
       ]
     }
@@ -485,6 +609,20 @@
         "restrictions": {
           "include": {
             "unit": ["Clone Commandos"]
+          }
+        }
+      },
+      {
+        "name": "Boss's Launcher Config",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223041794/A49A66B56EBCB8BF4575BB0E8F630FB4AA485608/",
+        "flip": {
+          "name": "Boss's Sniper Config",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223041935/D831B4CC21600BCB48AA48990DE249EBD9BDC56B/"
+        },
+        "points": 0,
+        "restrictions": {
+          "include": {
+            "unit": ["Boss"]
           }
         }
       },
@@ -560,11 +698,11 @@
     "Gear": [
       {
         "name": "Tactical HUD",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1781756251376358154/F97559465BC2CF02ADE05A6CFB4D00856F8D2F9F/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1890976691223040715/D6C970B598600D99F8A7AE0288B147526F89AE45/",
         "points": 10,
         "restrictions": {
           "include": {
-            "unit": ["Clone Commandos", "Delta Squad"]
+            "unit": ["Clone Commandos", "Delta Squad", "Boss", "Scorch", "Fixer", "Sev"]
           }
         }
       },
@@ -970,7 +1108,7 @@
         "points": 6,
         "restrictions": {
           "include": {
-            "unit": ["Clone Commandos", "Delta Squad"]
+            "unit": ["Clone Commandos", "Delta Squad", "Boss","Fixer","Scorch","Sev"]
           }
         }
       },
