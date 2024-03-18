@@ -424,8 +424,8 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697620253289667/85745104AA0C94936FA804B87EA1A61938161B79/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081102894/DE160A886FE4F5C6D7281BFCDA2D48EB8AE86218/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/2447215901192646443/85745104AA0C94936FA804B87EA1A61938161B79/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/2447215901192646909/7245F236A07C662A6AA471AA89E323417AB7D604/"
             }
           ]
         }
@@ -509,7 +509,7 @@
       },
       {
         "name": "Assault Gunner",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1744602190324313321/62DF9F000E6CD0C2F6FB32DA8C83115EF30C5DB6/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2447215901192627583/62DF9F000E6CD0C2F6FB32DA8C83115EF30C5DB6/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313089802027/FF2BB620CD587A5198A648B180BD86D0D70FAB89/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
@@ -595,8 +595,8 @@
         "name": "Z-303 Cannon Gunner",
         "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771873/25D93509E851A73846826598FB329A9973EF5FFD/",
         "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1022824477681557142/6A6BB38909200F986FCC00C6ED6D09B055D780BE/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608884372380/CD79F765B0D710BD6311A6CE78784EEFEF03676F/"
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608884816455/6A6BB38909200F986FCC00C6ED6D09B055D780BE/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608884816778/B9CACA9DF2EB9B7AAC473686F3E8597B000E1387/"
         },
         "points": 23,
         "restrictions": {
