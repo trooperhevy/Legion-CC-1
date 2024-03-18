@@ -60,7 +60,7 @@
         },
         {
           "name": "Lord Adraas",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277602848/B56DEFFD7CC8988D8568476DE4E0C7E59908A6E1/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1012692322314461033/824A1125E585EC85AE296B7F77030D8EBE134572/",
           "size": "small",
           "type": "Trooper",
           "points": 120,
@@ -107,7 +107,7 @@
           "minis": [
             {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608881242939/0D60224C8880F4609ADFC4B901EC92EEA545B235/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081116756/E223CB7C342C2EE18671F1EB7E90595ED210D77F/"
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608881243790/F0D722D6703135FDF3BB2B7F3105FCAA49DB5284/"
             }
           ]
         }
@@ -293,7 +293,7 @@
       "Special Forces": [
         {
           "name": "Imperial Assault Troopers",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1744602190324313431/AB24E4006022CFF5086F2802D5A98331DBCB9523/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2447215901192625346/AB24E4006022CFF5086F2802D5A98331DBCB9523/",
           "size": "small",
           "type": "Trooper",
           "points": 72,
@@ -656,7 +656,7 @@
         "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426770941/A867F656283CD12143D8EEBD1E64EB42C78DC113/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878992636/D833E26E44A7763FAEFBE2430390376F9160E931/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081087166/DC000E0FD7547739B5853A78E11FDC4535073348/"
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
         },
         "points": 11,
         "restrictions": {
@@ -670,7 +670,7 @@
         "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771196/87FDBAEC04C431B2C1A9DDC3EE233A369246FD16/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608881242939/0D60224C8880F4609ADFC4B901EC92EEA545B235/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081116756/E223CB7C342C2EE18671F1EB7E90595ED210D77F/"
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608881243790/F0D722D6703135FDF3BB2B7F3105FCAA49DB5284/"
         },
         "leader": true,
         "points": 20,
@@ -685,7 +685,7 @@
         "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771530/C0041ADB17D8FBF6B10079839CAF16DEA26A4A1B/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878956135/77C5F51565475CEB63D9A0A0E97F3616EC17992E/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081087166/DC000E0FD7547739B5853A78E11FDC4535073348/"
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
         },
         "leader": true,
         "points": 16,
@@ -700,7 +700,7 @@
         "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771778/189DBDD1E51F247FB08231218AB2D366357116B8/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1832423555428140953/B962B9F242F4EE4F5BC09E080A9CD98AA042F09C/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081087166/DC000E0FD7547739B5853A78E11FDC4535073348/"
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
         },
         "points": 16,
         "restrictions": {
