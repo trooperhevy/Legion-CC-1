@@ -789,7 +789,7 @@
         "points": 8,
         "restrictions": {
           "include": {
-            "unit": ["Clone Commandos", "Delta Squad"]
+            "unit": ["Clone Commandos", "Delta Squad","Boss","Sev","Fixer","Scorch"]
           }
         }
       }
