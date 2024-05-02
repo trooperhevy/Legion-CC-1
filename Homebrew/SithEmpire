@@ -39,65 +39,11 @@
           ]
         },
         {
-          "name": "Assault Commander Drac",
-          "title": "Ruthless Veteran",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762769776/9DF5E172BF14255089F8AF66A123F0E0604EC10E/",
-          "size": "small",
-          "type": "Trooper",
-          "points": 90,
-          "speed": 2,
-          "upgrades": {
-            "Command": 1,
-            "Training": 2,
-            "Gear": 1
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313093633229/41D09B08A55CABECC5D1F8918C69A858B906BF1D/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
-            }
-          ]
-        },
-        {
-          "name": "Lord Adraas",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1012692322314461033/824A1125E585EC85AE296B7F77030D8EBE134572/",
-          "size": "small",
-          "type": "Trooper",
-          "points": 120,
-          "speed": 2,
-          "upgrades": {
-            "Force": 2
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885833891/AE635515661DD84861ADF0CF4FC48052FD3DEF87/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608885695776/F5A3AA78554B8F3CB86314E552D94D65C0080F0C/"
-            }
-          ],
-          "commands": [
-            {
-              "name": "Counting Corpses",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277603245/63BC127864462C645D997822348332C2053CD8C8/",
-              "pip": 1
-            },
-            {
-              "name": "Spearheading the Assault",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277603553/067F6633690E6A14497AA7AA0164F0B93F773C2D/",
-              "pip": 2
-            },
-            {
-              "name": "Claiming Victory",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277603895/1237D55EFD6265C9922C8B7DEC76F46AD20608C4/",
-              "pip": 3
-            }
-          ]
-        },
-        {
           "name": "Imperial Officer",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426828980/BF945A2C1057BB61DA63EF79ACEAE4EC5DA8B782/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204712967/BBCA5B19EA7DA708F5ABF029B82935B0391199D3/",
           "size": "small",
           "type": "Trooper",
-          "points": 75,
+          "points": 60,
           "speed": 2,
           "upgrades": {
             "Command": 1,
@@ -116,10 +62,10 @@
         {
           "name": "HK-47",
           "title": "Vocal Assassin Droid",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1759238602481096801/5EDCBDA790E1B3DCBDA03FAAE0467CC64DD057DA/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204721352/DE40D205A9B1036EABAFA05A540F99CA9540FDED/",
           "size": "small",
           "type": "Droid Trooper",
-          "points": 110,
+          "points": 115,
           "speed": 2,
           "upgrades": {
             "Training": 2,
@@ -150,16 +96,16 @@
           ]
         },
         {
-          "name": "Cipher Nine",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770981/D1E4DDC1C68E00FBC366F8454A29F3A254F15D4D/",
+          "name": "Cipher Agent",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204720183/BF22DA59D7C5B8E81FD0811E291765C87AEEEDFD/",
           "size": "small",
           "type": "Trooper",
-          "points": 90,
+          "points": 100,
           "speed": 2,
           "upgrades": {
             "Training": 2,
             "Comms": 1,
-            "Gear": 1
+            "Gear": 2
           },
           "minis": [
             {
@@ -167,30 +113,14 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1914611077936675552/93647E06DFE56BA818A8152B3702FFEDC59E7114/"
             }
           ],
-          "commands": [
-            {
-              "name": "Silent Hunter",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770324/1724D9A09F413B0F529E6BF0B31888878A63BBF6/",
-              "pip": 1
-            },
-            {
-              "name": "Target Acquiered",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770440/2E757ECF016EE13B05AC24C3099B1C5A1C8EB46B/",
-              "pip": 2
-            },
-            {
-              "name": "Vanish",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770540/94BD1666AAB91A40AE3BAB80E96EC233D7E61E6C/",
-              "pip": 3
-            }
-          ]
+          "commands": []
         },
         {
           "name": "Shae Vizla",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020421485/CE50D73A4D541E14BBD36D3C069A31A385847B7C/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204725651/F6A0BA1F9A5941EB79C8112D79120468DC4D3579/",
           "size": "small",
-          "type": "Mandalorian Trooper",
-          "points": 115,
+          "type": "Trooper",
+          "points": 120,
           "speed": 3,
           "upgrades": {
             "Training": 2,
@@ -210,8 +140,8 @@
               "pip": 1
             },
             {
-              "name": "Missile Barrage",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420429/480939749ABAD6505CDF720576C17B524287DAD7/",
+              "name": "And Stay Down!",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204725424/EE7B33A4AE0CEA4F8BF0376A8765245C7B1DCC43/",
               "pip": 2
             },
             {
@@ -255,45 +185,12 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
             }
           ]
-        },
-        {
-          "name": "Sith Empire Boarding Troopers - PLACEHOLDER",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277785197/971E0418CD2A7CE414F629E2AFEE3B684B99BA46/",
-          "size": "small",
-          "type": "Trooper",
-          "points": 48,
-          "speed": 2,
-          "upgrades": {
-            "Personnel": 1,
-            "Heavy Weapon": 1,
-            "Training": 1,
-            "Comms": 1,
-            "Grenades": 1
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885319465/2474308EBBDD92BDF8D331691E4F47EB4E1D9D7B/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
-            },
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885051525/BE73F7CADC7D35B297FE86A2C7C13532B33BED20/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
-            },
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885219099/28222F723E524C776ADFD8BF4072B274D5DD6513/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
-            },
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885271840/AEB99C8ABF425086732389D43FA67625C6E6C4CB/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
-            }
-          ]
         }
       ],
       "Special Forces": [
         {
           "name": "Imperial Assault Troopers",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2447215901192625346/AB24E4006022CFF5086F2802D5A98331DBCB9523/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204734630/F78C46CE96C86691EFEFDAEC5494298FCC93510F/",
           "size": "small",
           "type": "Trooper",
           "points": 72,
@@ -326,16 +223,17 @@
         },
         {
           "name": "Sith Empire Scouts",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762781192/B7970C612E40856C7980EB8519E909364D7C3B87/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204736577/F9234A8AE3BF69D0D57CD183129D2AA9F01737DB/",
           "size": "small",
           "type": "Trooper",
-          "points": 48,
+          "points": 52,
           "speed": 2,
           "upgrades": {
             "Heavy Weapon": 1,
             "Training": 1,
             "Comms": 1,
-            "Gear": 1
+            "Gear": 1,
+            "Grenades": 1
           },
           "minis": [
             {
@@ -358,10 +256,10 @@
         },
         {
           "name": "Imperial Commandos",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1907856497768102636/FF44AEBE62A4380E48BCB47B385335FC14C5CBA0/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204733654/417C3A22FEE377F3114EE1249F7D8876E0A60F41/",
           "size": "small",
           "type": "Trooper",
-          "points": 68,
+          "points": 60,
           "speed": 2,
           "upgrades": {
             "Heavy Weapon": 1,
@@ -394,7 +292,7 @@
           "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426775240/7AE18720B1FCD125BE62492EA8AB4050A0C2E639/",
           "size": "small",
           "type": "Trooper",
-          "points": 135,
+          "points": 105,
           "speed": 2,
           "upgrades": {
             "Force": 1,
@@ -429,22 +327,30 @@
             }
           ]
         }
+      ],
+      "Heavy":[
+        {
+          "name": "Basilisk War Droid",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204744477/40FC23AE5538897335702265DBCBED1304748054/",
+          "size": "epic",
+          "type": "Repulsor Vehicle",
+          "points": 140,
+          "speed": 2,
+          "upgrades": {
+            "Pilot": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/2500137370204760773/3003C72C30CA59769F065D78A63A58C2212D5DB3/"
+            }
+          ]
+        }
       ]
     }
   },
   "upgrades": {
-    "Armament": [
-      {
-        "name": "Shae Vizla's Blaster Rifle",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420768/D14A4F2E27EAE3BBCCACC79D9859F73B81E7BBA7/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "unit": ["Shae Vizla"]
-          }
-        }
-      }
-    ],
+    "Armament": [],
     "Command": [],
     "Comms": [],
     "Counterpart": [],
@@ -452,16 +358,6 @@
     "Flaw": [],
     "Force": [],
     "Gear": [
-      {
-        "name": "Shae Vizla's Holoprojector",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020421138/4A0519CBEB086C3D3F1CD81679F9DF0BBFCAE4F4/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "unit": ["Shae Vizla"]
-          }
-        }
-      },
       {
         "name": "Shae Vizla's Flamethrower",
         "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420923/A54EA1527392ED1DCD22C67949F2103AF92A5FA0/",
@@ -479,13 +375,13 @@
     "Heavy Weapon": [
       {
         "name": "Veteran Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1907856497768103876/552226106E91DE33EC51F038BB7C5B5C28C18DA9/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204734798/CD49C6D1EF43B225FAEFA0C9623CDBECA82EB8A4/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313089762379/047032801B3E12B76F5CEB7283D0EFA734E0D050/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
         },
         "leader": true,
-        "points": 26,
+        "points": 18,
         "restrictions": {
           "include": {
             "unit": ["Imperial Assault Troopers"]
@@ -494,13 +390,13 @@
       },
       {
         "name": "Assault Captain",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762778338/9B1FE0C215C04073E35B82EB359C6D21A0371C73/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204734471/9B011F37941A0A04C52EEB8591A9F6A0F4348E98/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313089775997/67007FEF1CCA45662E0B7A4E8577529CBD911789/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
         },
         "leader": true,
-        "points": 23,
+        "points": 16,
         "restrictions": {
           "include": {
             "unit": ["Imperial Assault Troopers"]
@@ -509,12 +405,12 @@
       },
       {
         "name": "Assault Gunner",
-        "image": "http://cloud-3.steamusercontent.com/ugc/2447215901192627583/62DF9F000E6CD0C2F6FB32DA8C83115EF30C5DB6/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204734554/89EE0DA3404E1627B77974E94745F98D23D2ED7B/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313089802027/FF2BB620CD587A5198A648B180BD86D0D70FAB89/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
         },
-        "points": 31,
+        "points": 28,
         "restrictions": {
           "include": {
             "unit": ["Imperial Assault Troopers"]
@@ -523,7 +419,7 @@
       },
       {
         "name": "Designated Marksman",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762781002/D504E669EC738208CBE252BF25046B0746DACE67/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204736452/1C122869460529717C918BB9A44D868DCB8CB17C/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1914611077947944488/DF9B03B70E8BF3851CFDF1B1EA0DCDDD4BE0C143/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1914611077947727443/6805297E23A9182279BB2251C3C341AB206C7122/"
@@ -550,27 +446,13 @@
         }
       },
       {
-        "name": "Boarding Shotgun Assault Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277786673/D0232B6BBE5FA4816C85DF20383B0892B8151979/",
-        "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1012692419888092880/788628E64550196C6371C2B129FEB590CC2691DE/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
-        },
-        "points": 24,
-        "restrictions": {
-          "include": {
-            "unit": ["Sith Empire Boarding Troopers"]
-          }
-        }
-      },
-      {
         "name": "Boarding Shotgun Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771404/D728AABEFEA12810AD666AAAA675E1480C5D44B2/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204728271/6C0925A7AAE87C9BFB6382F08C9793C5C804D5D6/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608881149656/B3DDF1010726FDC59F24ACC4375251D7919F6135/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608881150442/1B5AD6129AC8D180D97CFE93ACE1DC7E49119F04/"
         },
-        "points": 25,
+        "points": 19,
         "restrictions": {
           "include": {
             "unit": ["Sith Empire Troopers"]
@@ -579,12 +461,12 @@
       },
       {
         "name": "DLA-13 Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771080/368E716FB6A4F9F1DC58FB8264413CCF068C9CAA/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204727928/572670BB933C98F4F8B68C8DDBCDBCC74A4A6B1C/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608879755028/53718ACF3D389983D1CF2630D761DF90121CDA5A/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608879744395/158047D5CFC30AFE6A2A50F64A2DA8F7BD4073B4/"
         },
-        "points": 23,
+        "points": 20,
         "restrictions": {
           "include": {
             "unit": ["Sith Empire Troopers"]
@@ -593,12 +475,12 @@
       },
       {
         "name": "Z-303 Cannon Gunner",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771873/25D93509E851A73846826598FB329A9973EF5FFD/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204728632/8A0DE5A9AD1B31B763FE20EC266FE9DF2EB82E85/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608884816455/6A6BB38909200F986FCC00C6ED6D09B055D780BE/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608884816778/B9CACA9DF2EB9B7AAC473686F3E8597B000E1387/"
         },
-        "points": 23,
+        "points": 20,
         "restrictions": {
           "include": {
             "unit": ["Sith Empire Troopers"]
@@ -615,14 +497,14 @@
         "points": 30,
         "restrictions": {
           "include": {
-            "unit": ["Sith Empire Boarding Troopers", "Imperial Commandos"]
+            "unit": ["Imperial Commandos"]
           }
         },
         "additionalObjects": ["Proton Charge Token"]
       },
       {
         "name": "Tactial Shotgun Commando",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762774255/41A46CCA35A7A88E82547405795E024385E7F31C/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204733810/889999A44396E4F3EA3612433974D3EB9DBFB70F/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024261155036/D5997D5F703F00DB00BB6C2CB1C92B0BB3E4B972/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260988667/8B8E27DFEDD6DEBA4EFABD6E738D3B6AC3E925AB/"
@@ -638,27 +520,13 @@
     "Ordnance": [],
     "Personnel": [
       {
-        "name": "Sith Empire Boarding Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277786308/E222A61B5021B9FC2E56A8A957633B8BD2384CDB/",
-        "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608884994661/01F7CD51333718A8A814885CF5A93B2A84651652/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
-        },
-        "points": 12,
-        "restrictions": {
-          "include": {
-            "unit": ["Sith Empire Boarding Troopers"]
-          }
-        }
-      },
-      {
         "name": "Sith Empire Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426770941/A867F656283CD12143D8EEBD1E64EB42C78DC113/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204727810/C8C1BEDAB25159DB7C0D0F7582625D1BB99DAAD3/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878992636/D833E26E44A7763FAEFBE2430390376F9160E931/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
         },
-        "points": 11,
+        "points": 10,
         "restrictions": {
           "include": {
             "unit": ["Sith Empire Troopers"]
@@ -682,13 +550,13 @@
       },
       {
         "name": "Sith Trooper Captain",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771530/C0041ADB17D8FBF6B10079839CAF16DEA26A4A1B/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204728376/7D11E243A48100DFE4980DD940A6033E566B0AE6/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878956135/77C5F51565475CEB63D9A0A0E97F3616EC17992E/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
         },
         "leader": true,
-        "points": 16,
+        "points": 12,
         "restrictions": {
           "include": {
             "unit": ["Sith Empire Troopers"]
@@ -697,12 +565,12 @@
       },
       {
         "name": "Sith Trooper Specialist",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771778/189DBDD1E51F247FB08231218AB2D366357116B8/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204728504/E62A48024928F47FD28BF28FB2E1ABA22D9E3246/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1832423555428140953/B962B9F242F4EE4F5BC09E080A9CD98AA042F09C/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608878877171/C209E7E6493A8465F8FD60DE6566AA6BA2C745ED/"
         },
-        "points": 16,
+        "points": 11,
         "restrictions": {
           "include": {
             "unit": ["Sith Empire Troopers"]
@@ -711,12 +579,12 @@
       },
       {
         "name": "Imperial Medic Droid",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426771293/35B1E3B12FE8ED3F8F2582D27CBC3EAE34111AF0/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204728133/301284F885B0A2A06EC334E080C33B87F56BA505/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1832423555428431312/21515B11ECAB56451F491029F1FFAB956D1B9742/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1832423555428435315/ED9AB86EE12BACE25FB3D6ABA36E38F78BE4B83A/"
         },
-        "points": 20,
+        "points": 19,
         "restrictions": {
           "include": {
             "unit": ["Sith Empire Troopers"]
@@ -724,50 +592,30 @@
         }
       }
     ],
-    "Pilot": [],
-    "Programming": [],
-    "Training": [
+    "Pilot": [ 
       {
-        "name": "Sniper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770791/4A81418F19AC13EF621732F108088877BDBD1194/",
-        "points": 0,
-        "restrictions": {
-          "include": {
-            "unit": ["Cipher Nine"]
-          }
-        }
-      },
-      {
-        "name": "Operative",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770680/D6C7B26C3EDAB3C30355AFB55BB9905A4F961956/",
-        "points": 0,
-        "restrictions": {
-          "include": {
-            "unit": ["Cipher Nine"]
-          }
-        }
-      },
-      {
-        "name": "Advanced Assault Training",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640415256/3E0DA25CB2B44F7093E46DADA1965C0DBD3C703A/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "type": ["Mandalorian Trooper"]
-          }
-        }
-      },
-      {
-        "name": "Rising Phoenix Training",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640409422/F8AF40A8E8F4C87CA364A0ADADA7281F20F8F0D7/",
-        "points": 10,
-        "restrictions": {
-          "include": {
-            "type": ["Mandalorian Trooper"]
-          }
+      "name": "Mandalorian Veteran Pilot",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204744627/E7FB38A95D576F4330C563879ADA8A7D03EF31A4/",
+      "points": 10,
+      "restrictions": {
+        "include": {
+          "unit": ["Basilisk War Droid"]
         }
       }
-    ]
+    },
+    {
+      "name": "Mandalorian Ace Pilot",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204744321/BB4ACC651FDDC37D3DFE6FDDB4A58128D6C28EE5/",
+      "points": 5,
+      "restrictions": {
+        "include": {
+          "unit": ["Basilisk War Droid"]
+        }
+      }
+    }
+  ],
+    "Programming": [],
+    "Training": []
   },
   "commands": {
     "Sith Empire": [
@@ -782,8 +630,8 @@
         "pip": 2
       },
       {
-        "name": "Orbital Strike",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1832423555426893475/173C7C038615FE9E030EF8219F669FA6E60C7D28/",
+        "name": "Fighter Sweep",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204855256/EAA586528088A0235E6E044173A18CF640771961/",
         "pip": 3
       }
     ]
