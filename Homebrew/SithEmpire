@@ -321,7 +321,7 @@
             "Comms": 1
           },
           "silhouette": {
-            "height": 1.85,
+            "height": 1.5,
             "offset": 0.0
           },
           "minis": [
@@ -343,6 +343,10 @@
           "upgrades": {
             "Pilot": 1,
             "Comms": 1
+          },
+          "silhouette": {
+            "height": 4.0,
+            "offset": 3.4
           },
           "minis": [
             {
