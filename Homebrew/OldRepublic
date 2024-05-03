@@ -171,7 +171,8 @@
              "speed": 2,
              "upgrades": {
                 "Heavy Weapon": 4
-               }
+               },
+               "required": ["Aric Jorgan", "Elara Dorn", "Tanno Vik", "Yuun"]
         }
 
         ],
@@ -348,7 +349,7 @@
               "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209884588/1D852B63B9CA4C4B33A0755ACEBEFE369B49A30C/",
               "points": 9,
               "mini": {
-                      "mesh": "-----------------------",
+                      "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571368908/486416BABF74F021956C71547816480D7A148ADD/",
                       "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571586519/A907EC26A5AC4D04D09BBFC675D60C9EE6932149/"
                       },
               "restrictions": {
@@ -362,8 +363,8 @@
                 "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209884308/85735B63E9DAD4A0757EEF82D0516B366E4FED7B/",
                 "points": 19,
                 "mini": {
-                        "mesh": "-----------------------",
-                        "diffuse": "------------------------"
+                  "mesh": "http://cloud-3.steamusercontent.com/ugc/1832423555428431312/21515B11ECAB56451F491029F1FFAB956D1B9742/",
+                  "diffuse": "http://cloud-3.steamusercontent.com/ugc/1832423555428435315/ED9AB86EE12BACE25FB3D6ABA36E38F78BE4B83A/"
                         },
                 "restrictions": {
                     "include": {
