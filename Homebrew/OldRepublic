@@ -87,7 +87,7 @@
               "Training": 1,
               "Gear": 1
             },
-            "mini": [
+            "mini":  [
               {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571546562/620598FDFF1BE61AFEE2C278FDE39BA1C3CBC98B/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571586519/A907EC26A5AC4D04D09BBFC675D60C9EE6932149/"
@@ -419,8 +419,8 @@
             "points": 0,
             "leader": true,
             "mini": {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1039715510744830021/A1057E4139D532940D2E9347BEE82B22398CE81D/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1784009448653916098/873131F557639DFFAF0AFD5C70B29263DB7782F4/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448654035723/97D28266C4C98532ECF4F0C1AA48823DEB60384B/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/2500137370210921973/C1F366C1B4A55EFE30FBB4AA10A85EC55124693B/"
             },
             "restrictions": {
                 "include": {
@@ -433,8 +433,7 @@
             "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209866835/56AA20303E5F6643D490759793ACD6310A4AA300/",
             "points": 0,
             "mini": {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1039715510745308785/2042C07ADA584D245886D140F488B02CF6682ADC/",
-                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1784009448653916098/873131F557639DFFAF0AFD5C70B29263DB7782F4/"
+                    "bundle":"http://cloud-3.steamusercontent.com/ugc/2500137370210987548/E95EEA3A5B0968886111F853546A7BF134071C58/"
             },
             "restrictions": {
                 "include": {
@@ -447,8 +446,8 @@
             "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209867150/C77D49D22C6417EDE616B1C04A047F63506E1BF8/",
             "points": 0,
             "mini": {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448654133061/41918B9D901969A7580E19CF793B37D04D6FC9A7/",
-                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1784009448653916098/873131F557639DFFAF0AFD5C70B29263DB7782F4/"
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448653998296/7A383985FDA77C766F886871B1220AA4D182C377/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/2500137370210921973/C1F366C1B4A55EFE30FBB4AA10A85EC55124693B/"
             },
             "restrictions": {
                 "include": {
@@ -462,7 +461,7 @@
           "points": 0,
           "mini": {
                   "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448653998890/A1E29CEF19B7777239374A142C0FC293E5E58022/",
-                  "diffuse": "http://cloud-3.steamusercontent.com/ugc/1784009448653916098/873131F557639DFFAF0AFD5C70B29263DB7782F4/"
+                  "diffuse": "http://cloud-3.steamusercontent.com/ugc/2500137370210921973/C1F366C1B4A55EFE30FBB4AA10A85EC55124693B/"
           },
           "restrictions": {
               "include": {
