@@ -163,6 +163,7 @@
           },
           {
             "name": "Havoc Squad",
+            "displayName": "Yuun",
             "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209867024/646E0D053926203174BA1258420684611FE477FC/",
              "size": "small",
             "type": "Trooper",
@@ -173,8 +174,8 @@
                },
                "minis": [
                 {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448654035723/97D28266C4C98532ECF4F0C1AA48823DEB60384B/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/2500137370210921973/C1F366C1B4A55EFE30FBB4AA10A85EC55124693B/"
+                  "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448653998890/A1E29CEF19B7777239374A142C0FC293E5E58022/",
+                  "diffuse": "http://cloud-3.steamusercontent.com/ugc/2500137370210921973/C1F366C1B4A55EFE30FBB4AA10A85EC55124693B/"
                }
                ],
                "required": ["Aric Jorgan", "Elara Dorn", "Tanno Vik", "Yuun"]
@@ -467,11 +468,6 @@
           "name": "Yuun",
           "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209867270/FE5B7BC4794693C4DEB7AA8128626BC9A29B28AF/",
           "points": 0,
-          "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448653998890/A1E29CEF19B7777239374A142C0FC293E5E58022/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/2500137370210921973/C1F366C1B4A55EFE30FBB4AA10A85EC55124693B/"
-          },
-          "leader": false,
           "restrictions": {
               "include": {
                   "unit": ["Havoc Squad"]
