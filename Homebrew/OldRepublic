@@ -171,6 +171,12 @@
              "upgrades": {
                 "Heavy Weapon": 4
                },
+               "minis": [
+                {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448654035723/97D28266C4C98532ECF4F0C1AA48823DEB60384B/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/2500137370210921973/C1F366C1B4A55EFE30FBB4AA10A85EC55124693B/"
+               }
+               ],
                "required": ["Aric Jorgan", "Elara Dorn", "Tanno Vik", "Yuun"]
         }
 
