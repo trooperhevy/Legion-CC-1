@@ -77,6 +77,7 @@
           },
           {
             "name": "Veteran Officer",
+            "title": "-",
             "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209939073/ECDA1C66403BCF9D36F3F6F83C90BB261D7B8F27/",
             "size": "small",
             "type": "Trooper",
@@ -134,7 +135,7 @@
           {
             "name": "The Trooper",
             "title": "Callsign: Meteor",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1832423555431799458/43CAE1E24760BE0A7DC97C8CBAEA96A55A357329/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209890112/0DAD61ABB466E3F254EEAB90E2DECA5E24A4CCB2/",
             "size": "small",
             "type": "Trooper",
             "points": 120,
