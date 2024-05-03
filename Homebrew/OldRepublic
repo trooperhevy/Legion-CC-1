@@ -88,10 +88,12 @@
               "Training": 1,
               "Gear": 1
             },
-            "mini": {
+            "mini": [
+              {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571546562/620598FDFF1BE61AFEE2C278FDE39BA1C3CBC98B/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571586519/A907EC26A5AC4D04D09BBFC675D60C9EE6932149/"
               }
+            ]
           }
         ],
         "Operative": [
