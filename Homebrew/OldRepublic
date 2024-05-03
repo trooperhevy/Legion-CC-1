@@ -301,7 +301,18 @@
     }
   },
   "upgrades": {
-    "Armament":[],
+    "Armament":[
+      {
+        "name": "Vanguard Shoulder Cannon",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209890329/B6D0AC69B4FF07A72E6A14F8C8174D76F0E6B8C4/",
+        "points": 0,
+        "restrictions": {
+          "include": {
+            "unit": ["The Trooper"]
+          }
+        }
+      }
+    ],
     "Personnel":[
           {
           "name": "Republic Trooper",
@@ -403,12 +414,12 @@
           }
         },
         {
-            "name": "Havoc Squad Sergeant",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656767136/E23EEC514F4C3213DAB06B48B259B07AD59A68CE/",
-            "points": 22,
+            "name": "Aric Jorgan",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209866686/843A6E0A426F34DAFC527285CABBA7D6C7E79A21/",
+            "points": 0,
             "leader": true,
             "mini": {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448654133061/41918B9D901969A7580E19CF793B37D04D6FC9A7/",
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1039715510744830021/A1057E4139D532940D2E9347BEE82B22398CE81D/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1784009448653916098/873131F557639DFFAF0AFD5C70B29263DB7782F4/"
             },
             "restrictions": {
@@ -418,12 +429,11 @@
             }
         },
         {
-            "name": "Havoc Squad Marksman",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656767018/6AC8C91D42F35EF2E57AD1CE8053674F7F84CEE0/",
-            "points": 25,
-            "leader": true,
+            "name": "Elara Dorn",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209866835/56AA20303E5F6643D490759793ACD6310A4AA300/",
+            "points": 0,
             "mini": {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448654035723/97D28266C4C98532ECF4F0C1AA48823DEB60384B/",
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1039715510745308785/2042C07ADA584D245886D140F488B02CF6682ADC/",
                     "diffuse": "http://cloud-3.steamusercontent.com/ugc/1784009448653916098/873131F557639DFFAF0AFD5C70B29263DB7782F4/"
             },
             "restrictions": {
@@ -433,12 +443,11 @@
             }
         },
         {
-            "name": "Havoc Squad Commando",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656766880/411A5345974B38EBAF0BC182A5EB1DE7A3E56AC6/",
-            "points": 40,
-            "leader": true,
+            "name": "Tanno Vik",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209867150/C77D49D22C6417EDE616B1C04A047F63506E1BF8/",
+            "points": 0,
             "mini": {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448654084121/4FCEC2E99395F6C35C2AFF8E83D272C7C825B749/",
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448654133061/41918B9D901969A7580E19CF793B37D04D6FC9A7/",
                     "diffuse": "http://cloud-3.steamusercontent.com/ugc/1784009448653916098/873131F557639DFFAF0AFD5C70B29263DB7782F4/"
             },
             "restrictions": {
@@ -447,6 +456,20 @@
                 }
             }
         },
+        {
+          "name": "Yuun",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209867270/FE5B7BC4794693C4DEB7AA8128626BC9A29B28AF/",
+          "points": 0,
+          "mini": {
+                  "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448653998890/A1E29CEF19B7777239374A142C0FC293E5E58022/",
+                  "diffuse": "http://cloud-3.steamusercontent.com/ugc/1784009448653916098/873131F557639DFFAF0AFD5C70B29263DB7782F4/"
+          },
+          "restrictions": {
+              "include": {
+                  "unit": ["Havoc Squad"]
+              }
+          }
+      },
         {
             "name": "Republic Gunner",
             "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209884006/4A383FCA0ACA8857BCAA6F7883497CDF15B6052E/",
