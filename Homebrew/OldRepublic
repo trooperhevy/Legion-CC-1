@@ -303,6 +303,30 @@
             }
           ]
         }
+        ],
+        "Heavy":[
+          {
+            "name": "Siantide Droid",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204744477/40FC23AE5538897335702265DBCBED1304748054/",
+            "size": "epic",
+            "type": "Ground Vehicle",
+            "points": 160,
+            "speed": 2,
+            "upgrades": {
+              "Programming": 1,
+              "Ordnance": 1,
+              "Comms": 1
+            },
+            "silhouette": {
+              "height": 5,
+              "offset": 0
+            },
+            "minis": [
+              {
+                "bundle": "http://cloud-3.steamusercontent.com/ugc/2500137370211949773/E45670B9E608D224007E4A7284109CC5DB16305E/"
+              }
+            ]
+          }
         ]
     }
   },
