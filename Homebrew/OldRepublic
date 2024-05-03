@@ -41,16 +41,15 @@
         {
             "name": "Jace Malcom",
             "title": "Hero of Alderaan",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656795342/2D5F5C2D1F40DFD1110C712EB86122B2BD719781/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209870171/D8A2F25F030EC7C973B19F0B20F5C0F795FCE47B/",
             "size": "small",
             "type": "Trooper",
-            "points": 105,
+            "points": 120,
             "speed": 2,
             "upgrades": {
               "Command": 1,
-              "Training": 2,
-              "Gear": 1,
-              "Armament": 1
+              "Training": 1,
+              "Gear": 1
             },
             "minis": [
               {
@@ -71,10 +70,27 @@
               },
               {
                 "name": "For The Republic!",
-                "image": "http://cloud-3.steamusercontent.com/ugc/1744602401020712937/2975C92F900FCD08918E64AA543FF0F585379098/",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209869944/C4382B79FE7A899374C2DF5F7219556AACBE4A60/",
                 "pip": 3
               }
             ]
+          },
+          {
+            "name": "Veteran Officer",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209939073/ECDA1C66403BCF9D36F3F6F83C90BB261D7B8F27/",
+            "size": "small",
+            "type": "Trooper",
+            "points": 50,
+            "speed": 2,
+            "upgrades": {
+              "Command": 1,
+              "Training": 1,
+              "Gear": 1
+            },
+            "mini": {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571546562/620598FDFF1BE61AFEE2C278FDE39BA1C3CBC98B/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571586519/A907EC26A5AC4D04D09BBFC675D60C9EE6932149/"
+              }
           }
         ],
         "Operative": [
@@ -105,7 +121,7 @@
               },
               {
                 "name": "... I Saves Theron's Mom?",
-                "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656806732/492DEE83BBD8F645145C7B698C0C138373DB5145/",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209879006/B166D18FB6A1E71E8C237F6CA0686AEE08C54032/",
                 "pip": 2
               },
               {
@@ -121,7 +137,7 @@
             "image": "http://cloud-3.steamusercontent.com/ugc/1832423555431799458/43CAE1E24760BE0A7DC97C8CBAEA96A55A357329/",
             "size": "small",
             "type": "Trooper",
-            "points": 110,
+            "points": 120,
             "speed": 2,
             "upgrades": {
               "Training": 2,
@@ -131,7 +147,7 @@
             },
             "minis": [
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1914611077948011000/95204C4761B3686E1505E13077D88571A5DD4F23/",
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1914611077933835148/2B31CD466059EF01FFF5D8E97C9D39EB3C5F5E17/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1832423555431755543/6CEB3719658739DB09E51208675776E4F905B2D4/"
               }
             ],
@@ -142,16 +158,27 @@
                 "pip": 3
               }
             ]
-          }
+          },
+          {
+            "name": "Havoc Squad",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209867024/646E0D053926203174BA1258420684611FE477FC/",
+             "size": "small",
+            "type": "Trooper",
+             "points": 150,
+             "speed": 2,
+             "upgrades": {
+                "Heavy Weapon": 4
+               }
+        }
 
         ],
         "corps": [
             {
               "name": "Republic Troopers",
-                "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656799370/FD8D4277EB66E550F4075A4618CE072C4517AED0/",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209883841/0D55196519A2ED7C7E79677947C738DB07CD7472/",
                  "size": "small",
                 "type": "Trooper",
-                 "points": 50,
+                 "points": 46,
                  "speed": 2,
                  "upgrades": {
                     "Heavy Weapon": 1,
@@ -182,34 +209,9 @@
 
         ],
         "Special Forces": [
-            {
-                "name": "Havoc Squad",
-                "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656766652/5BDB757B5012398D1F9EE2B54CDDB6D930695482/",
-                 "size": "small",
-                "type": "Trooper",
-                 "points": 46,
-                 "speed": 2,
-                 "upgrades": {
-                    "Heavy Weapon": 1,
-                    "Training": 2,
-                    "Gear": 1,
-                    "comms": 1,
-                    "Grenades": 1
-            },
-            "minis": [
-                {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448653998296/7A383985FDA77C766F886871B1220AA4D182C377/",
-                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1784009448653916098/873131F557639DFFAF0AFD5C70B29263DB7782F4/"
-                },
-                {
-                      "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448653998890/A1E29CEF19B7777239374A142C0FC293E5E58022/",
-                     "diffuse": "http://cloud-3.steamusercontent.com/ugc/1784009448653916098/873131F557639DFFAF0AFD5C70B29263DB7782F4/"
-                }
-              ]
-            },
-            {
+          {
               "name": "Republic Vanguards",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1744602401024024285/4CBFFE2AA36FC7AF2F16143D7F983A9F56248BFA/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209895957/CDA9ACEEFEA3F18EECA8D5A7F030EDAE2A95EF85/",
                "size": "small",
               "type": "Trooper",
                "points": 64,
@@ -239,15 +241,43 @@
                   "diffuse": "http://cloud-3.steamusercontent.com/ugc/1744602401024079355/31F102F8CDF649673701EA48C7CA145B4B315756/"
               }
             ]
-          }
+          },
+          {
+            "name": "Republic Commandos",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209905074/F4C557CD5A509A405BD541B2D5FA3725BBE92714/",
+             "size": "small",
+            "type": "Trooper",
+             "points": 68,
+             "speed": 2,
+             "upgrades": {
+                "Heavy Weapon": 1,
+                "Training": 1,
+                "Gear": 1,
+                "comms": 1
+        },
+        "minis": [
+            {
+                "bundle":"http://cloud-3.steamusercontent.com/ugc/2500137370210230328/7902BF4D13AD75EDD7A927AADCCE929361DB7988/"
+            },
+            {
+               "bundle":"http://cloud-3.steamusercontent.com/ugc/2500137370210280981/4898F527A621C615B570ADBFFDB212DB3D0FD33E/"
+            },
+            {
+                "bundle":"http://cloud-3.steamusercontent.com/ugc/2500137370210252838/50612312FC1A62950B8119C072F6467EA949DC53/"
+            },
+            {
+               "bundle":"http://cloud-3.steamusercontent.com/ugc/2500137370210280207/F0BCE3EEEC1D812C7091B79B2A3E80A78CFC5151/"
+            }
+          ]
+        }
         ],
         "Support": [
           {
             "name": "Republic Assault Droids",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656835518/C2F3AF9E5F9D59F356A1ABE5B92DAFE2C39386D4/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209855153/D1676955816FF07190655BC94C1DE857842DCFA1/",
              "size": "small",
             "type": "Trooper",
-             "points": 80,
+             "points": 70,
              "speed": 2,
              "upgrades": {
                 "Training": 1,
@@ -268,55 +298,12 @@
     }
   },
   "upgrades": {
-    "Armament":[
-        {
-            "name": "Malcoms Assaultgun",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656795511/F237F799C83516CBDD1D49ABD7DC2C8FAFA59D38/",
-            "points": 15,
-            "restrictions": {
-                "include": {
-                    "unit": ["Jace Malcom"]
-                }
-            }
-        },
-        {
-            "name": "Malcoms Blaster Rifle",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1784009448656795611/4399566997395F30DF7672336727DA64944B6125/",
-            "points": 15,
-            "restrictions": {
-                "include": {
-                    "unit": ["Jace Malcom"]
-                }
-            }
-           
-        },
-        {
-          "name": "RH-34 Assault Cannon",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1832423555431799361/37C70E4AFB31325399FF29B1280D3D72C6490558/",
-          "points": 15,
-          "restrictions": {
-              "include": {
-                  "unit": ["The Trooper"]
-              }
-          }
-      },
-      {
-          "name": "E1-R Legion Rifle",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1832423555431799239/4F104A08E1CCFF047AA05E2407F809F0805910CF/",
-          "points": 15,
-          "restrictions": {
-              "include": {
-                  "unit": ["The Trooper"]
-              }
-          }
-         
-      }
-    ],
+    "Armament":[],
     "Personnel":[
           {
           "name": "Republic Trooper",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1744602401024043154/7B3CD46C6F98FDD48941A2CA15AEF4BF2DEFA426/",
-          "points": 13,
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209884716/29565EC3A5AAF9D8BDB6EA782A766BCAF6247B69/",
+          "points": 8,
           "mini": {
                   "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571368908/486416BABF74F021956C71547816480D7A148ADD/",
                   "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571284104/42E44A242A0330CB8D4A8C0D002233FA3C557093/"
@@ -329,8 +316,8 @@
            },
            {
             "name": "Veteran Officer",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401024043044/DF90BDCFCAC3A332F5C366C6C06A368CB8B3DAD7/",
-            "points": 24,
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209884410/C6E329B6C1891B067AAADEF5C48F1BB0B21E249D/",
+            "points": 17,
             "leader": true,
             "mini": {
                     "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571546562/620598FDFF1BE61AFEE2C278FDE39BA1C3CBC98B/",
@@ -341,12 +328,40 @@
                     "unit": ["Republic Troopers"]
                           }
                     }
-             }
+             },
+             {
+              "name": "Republic Specialist",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209884588/1D852B63B9CA4C4B33A0755ACEBEFE369B49A30C/",
+              "points": 9,
+              "mini": {
+                      "mesh": "-----------------------",
+                      "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571586519/A907EC26A5AC4D04D09BBFC675D60C9EE6932149/"
+                      },
+              "restrictions": {
+                  "include": {
+                      "unit": ["Republic Troopers"]
+                            }
+                      }
+               },
+               {
+                "name": "M3-M1 Medical Droid",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209884308/85735B63E9DAD4A0757EEF82D0516B366E4FED7B/",
+                "points": 19,
+                "mini": {
+                        "mesh": "-----------------------",
+                        "diffuse": "------------------------"
+                        },
+                "restrictions": {
+                    "include": {
+                        "unit": ["Republic Troopers"]
+                              }
+                        }
+                 }
     ],
     "Heavy Weapon":[
         {
           "name": "Vanguard Shotgunner",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1744602401024024051/B20969E7B2766E43CC7166F6F025F6F1D6DFBD0B/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209895783/EEB8AEC5B17FFA72BDEB47810A3FCBBF1295C305/",
           "points": 32,
           "mini": {
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1759238159838273901/C0AB24AFFAFE76D399C2737F69A36EEC67956239/",
@@ -355,6 +370,32 @@
           "restrictions": {
               "include": {
                   "unit": ["Republic Vanguards"]
+              }
+          }
+        },
+        {
+          "name": "Boltstorm Commando",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209904754/437EBD64B10D1B9B3D4171BEEF724815CB76AA49/",
+          "points": 32,
+          "mini": {
+            "bundle": "http://cloud-3.steamusercontent.com/ugc/2500137370210282582/47A4A9CBAA1A2C45DDC59F043F3EC07B69D3E80F/"
+           },
+          "restrictions": {
+              "include": {
+                  "unit": ["Republic Commandos"]
+              }
+          }
+        },
+        {
+          "name": "High Impact Bolt Commando",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209904938/AE8B6AA4BA973037BE285914FFFB38293C1A4E6E/",
+          "points": 34,
+          "mini": {
+            "bundle": "http://cloud-3.steamusercontent.com/ugc/2500137370210281857/80511AD883B9A056C522FA69E72A4034EFDCE652/"
+          },
+          "restrictions": {
+              "include": {
+                  "unit": ["Republic Commandos"]
               }
           }
         },
@@ -384,7 +425,7 @@
             },
             "restrictions": {
                 "include": {
-                    "unit": ["Havoc Squad", "Republic Troopers"]
+                    "unit": ["Havoc Squad"]
                 }
             }
         },
@@ -399,14 +440,14 @@
             },
             "restrictions": {
                 "include": {
-                    "unit": ["Havoc Squad", "Republic Troopers"]
+                    "unit": ["Havoc Squad"]
                 }
             }
         },
         {
             "name": "Republic Gunner",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1744602401024042764/2746D6C38EF81B76AFDAB388688B13F3D1DA6261/",
-            "points": 27,
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209884006/4A383FCA0ACA8857BCAA6F7883497CDF15B6052E/",
+            "points": 23,
             "mini": {
                     "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571419354/0346D956097EB1AD2ACFCF741380EEBC23C2C4CE/",
                     "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571284104/42E44A242A0330CB8D4A8C0D002233FA3C557093/"
@@ -419,8 +460,8 @@
         },
         {
           "name": "Republic Ion Gunner",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1744602401024042929/DBD62EBAEECFD1A9106C33655128DABD29CB7097/",
-          "points": 33,
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209884111/75B2423B1ECC21AF59D670A132FCB3FF57F827DE/",
+          "points": 18,
           "mini": {
                   "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571453065/A869FEADF30FA87C1A17A191C2709DA6B20BD52A/",
                   "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571284104/42E44A242A0330CB8D4A8C0D002233FA3C557093/"
