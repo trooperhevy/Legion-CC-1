@@ -435,6 +435,7 @@
           "mini": {
             "bundle": "http://cloud-3.steamusercontent.com/ugc/2500137370210987548/E95EEA3A5B0968886111F853546A7BF134071C58/"
            },
+           "leader": false,
           "restrictions": {
               "include": {
                   "unit": ["Havoc Squad"]
@@ -449,6 +450,7 @@
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448653998296/7A383985FDA77C766F886871B1220AA4D182C377/",
             "diffuse": "http://cloud-3.steamusercontent.com/ugc/2500137370210921973/C1F366C1B4A55EFE30FBB4AA10A85EC55124693B/"
           },
+          "leader": false,
           "restrictions": {
               "include": {
                   "unit": ["Havoc Squad"]
@@ -463,6 +465,7 @@
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448653998890/A1E29CEF19B7777239374A142C0FC293E5E58022/",
             "diffuse": "http://cloud-3.steamusercontent.com/ugc/2500137370210921973/C1F366C1B4A55EFE30FBB4AA10A85EC55124693B/"
           },
+          "leader": false,
           "restrictions": {
               "include": {
                   "unit": ["Havoc Squad"]
