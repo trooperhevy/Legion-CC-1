@@ -134,8 +134,8 @@
             ]
           },
           {
-            "name": "The Trooper",
-            "title": "Callsign: Meteor",
+            "name": "Meteor",
+            "title": "The Trooper",
             "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209890112/0DAD61ABB466E3F254EEAB90E2DECA5E24A4CCB2/",
             "size": "small",
             "type": "Trooper",
@@ -155,15 +155,55 @@
             ],
             "commands": [
               {
-                "name": "Charged Capacitors",
-                "image": "http://cloud-3.steamusercontent.com/ugc/1832423555431799557/73B5705463BEC68A4F8B4993D6DCC853DC640361/",
+                "name": "The Republics Finest",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215986859/BFC30D2375DCD934122F997F7647EDFF99664DFB/",
+                "pip": 1
+              },
+              {
+                "name": "Storm",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215987059/3995AFB46E4798584A5F17378AB1A60858967F95/",
+                "pip": 2
+              },
+              {
+                "name": "Explosive Surge",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215987207/30F8F7D07852CD448C401A1F03ECBDB1DCDCFF49/",
+                "pip": 3
+              }
+            ]
+          },
+          {
+            "name": "M1-4X",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215977098/D00F33AB9FCA09B1ED00F426F6E734D202EAF44D/",
+            "size": "small",
+            "type": "Trooper",
+            "points": 100,
+            "speed": 2,
+            "upgrades": {
+              "Training": 1,
+              "Comms": 1
+            },
+            "minis": [
+              {
+                "bundle": "http://cloud-3.steamusercontent.com/ugc/2500137370213140933/E3E8145400E48C916AAAE78A864927E01D17C1D7/"
+
+              }
+            ],
+            "commands": [
+              {
+                "name": "It's An Honor To Serve!",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215976705/777EE9C00F2238D31D9D4D7F1930E20B97D0515A/",
+                "pip": 2
+              },
+              {
+                "name": "Applying Overwhelming Force!",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215976916/08435275401CD16D28BC16F0DAD98058294A2A62/",
                 "pip": 3
               }
             ]
           },
           {
             "name": "Havoc Squad",
-            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209867024/646E0D053926203174BA1258420684611FE477FC/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215982510/5B7670D375D7AA5483770B098E8D0259897976B3/",
              "size": "small",
             "type": "Trooper",
              "points": 150,
@@ -177,6 +217,13 @@
                   "diffuse": "http://cloud-3.steamusercontent.com/ugc/2500137370210921973/C1F366C1B4A55EFE30FBB4AA10A85EC55124693B/"
                }
                ],
+               "commands": [
+                {
+                  "name": "Locked And Loaded",
+                  "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215982677/7CCFA72EA94A6D6F41EFBE010BE0255C91B3E5C4/",
+                  "pip": 1
+                }
+              ],
                "required": ["Aric Jorgan", "Elara Dorn", "Tanno Vik", "Yuun"]
         }
 
@@ -338,7 +385,7 @@
         "points": 0,
         "restrictions": {
           "include": {
-            "unit": ["The Trooper"]
+            "unit": ["Meteor"]
           }
         }
       }
@@ -460,7 +507,7 @@
         },
         {
           "name": "Elara Dorn",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209866835/56AA20303E5F6643D490759793ACD6310A4AA300/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215982304/5DEE38F7F734E75B1DD926CB1FBDBD6007F32FEB/",
           "points": 0,
           "mini": {
             "bundle": "http://cloud-3.steamusercontent.com/ugc/2500137370210987548/E95EEA3A5B0968886111F853546A7BF134071C58/"
@@ -474,7 +521,7 @@
         },
         {
           "name": "Tanno Vik",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209867150/C77D49D22C6417EDE616B1C04A047F63506E1BF8/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215982775/A6C13D984470A95EA698A0DBC8E7A94ED0242B1D/",
           "points": 0,
           "mini": {
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448653998296/7A383985FDA77C766F886871B1220AA4D182C377/",
