@@ -231,10 +231,10 @@
         "corps": [
             {
               "name": "Republic Troopers",
-                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209883841/0D55196519A2ED7C7E79677947C738DB07CD7472/",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2500138005842859083/C54A9F137757F0C3845D8C3B86C850A31FB565C7/",
                  "size": "small",
                 "type": "Trooper",
-                 "points": 46,
+                 "points": 48,
                  "speed": 2,
                  "upgrades": {
                     "Heavy Weapon": 1,
@@ -265,6 +265,27 @@
 
         ],
         "Special Forces": [
+          {
+            "name": "Jedi Knights",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500138005842863039/3B1F40372B0496ADA97E8B13529372358CEB8585/",
+             "size": "small",
+            "type": "Trooper",
+             "points": 110,
+             "speed": 2,
+             "upgrades": {
+                "Force": 1,
+                "Training": 2,
+                "comms": 1
+        },
+        "minis": [
+            {
+                "bundle": "http://cloud-3.steamusercontent.com/ugc/2500138005842594504/5A33671E53533517FE2B6417B50EECDCB54E4F6A/"
+            },
+            {
+                 "bundle": "http://cloud-3.steamusercontent.com/ugc/2500138005842593936/CAC412B8F8B5ABA092A7C8904FF43E23A645FBB1/"
+            }
+          ]
+        },
           {
               "name": "Republic Vanguards",
               "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209895957/CDA9ACEEFEA3F18EECA8D5A7F030EDAE2A95EF85/",
@@ -330,23 +351,66 @@
         "Support": [
           {
             "name": "Republic Assault Droids",
-            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209855153/D1676955816FF07190655BC94C1DE857842DCFA1/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500138005842860917/87608A6C6F5023C57779A0F3122EB8B7317043B3/",
              "size": "small",
             "type": "Trooper",
-             "points": 70,
+             "points": 60,
              "speed": 2,
              "upgrades": {
+                "Heavy Weapon": 1,
                 "Training": 1,
                 "comms": 1
         },
         "minis": [
             {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448656634387/572BA863D036F77A07E9B81ED067C83EB2CCE4CF/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1784009448656593990/70EC268457927E69C0475CB432EDE113EA273307/"
+                "bundle": "http://cloud-3.steamusercontent.com/ugc/2500138005842850533/86B33DA64FA91B1A111A6B69A96598FDF020DAA6/"
             },
             {
-                  "mesh": "http://cloud-3.steamusercontent.com/ugc/1784009448656655672/DD908A70419A2E432A4506F78AFBCBC4843E427F/",
-                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1784009448656593990/70EC268457927E69C0475CB432EDE113EA273307/"
+                  "bundle": "http://cloud-3.steamusercontent.com/ugc/2500138005842851142/744781C244D679FA0CB94FA8FC47BE4456842377/"
+            },
+            {
+                "bundle": "http://cloud-3.steamusercontent.com/ugc/2500138005842851858/1DF9B75E6D89B793960E8DACC91A67120E3CD8C4/"
+            }
+          ]
+        },
+        {
+          "name": "HE-2 Heavy Assault Droid",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500138005842861813/4270B96B5A7D6BF4897D0D1C8CC2BFDCDC984ADE/",
+          "size": "medium",
+          "type": "Ground Vehicle",
+          "points": 75,
+          "speed": 2,
+          "upgrades": {
+            "Programming": 1,
+            "Comms": 1
+          },
+          "silhouette": {
+            "height": 2,
+            "offset": 0
+          },
+          "minis": [
+            {
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/2500137370222865717/43BC1582167F648CB3FB64E9FCDD0B551AD13CB4/"
+            }
+          ]
+        },
+        {
+          "name": "SR-78 Bulwark",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500138005842862353/D1FA5C5223E9FE6863851DC711ADD676458CAF03/",
+          "size": "large",
+          "type": "Ground Vehicle",
+          "points": 75,
+          "speed": 2,
+          "upgrades": {
+            "Comms": 1
+          },
+          "silhouette": {
+            "height": 2.6,
+            "offset": 0
+          },
+          "minis": [
+            {
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/2500137370222864564/01A4EEE2A89F00C549CE8F7E755495E371B936D7/"
             }
           ]
         }
@@ -354,7 +418,7 @@
         "Heavy":[
           {
             "name": "Siantide Droid",
-            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370212639911/400CC05AD4C4F2F7DB81C41908110EDEFA0163EB/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500138005842860034/DCE0678413D135B49F5641EB94536F6705BB4C47/",
             "size": "epic",
             "type": "Ground Vehicle",
             "points": 160,
@@ -545,8 +609,8 @@
           }
         },
         {
-            "name": "Republic Gunner",
-            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209884006/4A383FCA0ACA8857BCAA6F7883497CDF15B6052E/",
+            "name": "Republic Marksman",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2500138005842858883/8364788C619DF9DD923C3381DE96794778CC01E4/",
             "points": 23,
             "mini": {
                     "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571419354/0346D956097EB1AD2ACFCF741380EEBC23C2C4CE/",
@@ -559,9 +623,9 @@
             }
         },
         {
-          "name": "Republic Ion Gunner",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209884111/75B2423B1ECC21AF59D670A132FCB3FF57F827DE/",
-          "points": 18,
+          "name": "Republic Gunner",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500138005842859285/A50429158A417258669B5318603716ED630950EA/",
+          "points": 21,
           "mini": {
                   "mesh": "http://cloud-3.steamusercontent.com/ugc/1923617670571453065/A869FEADF30FA87C1A17A191C2709DA6B20BD52A/",
                   "diffuse": "http://cloud-3.steamusercontent.com/ugc/1923617670571284104/42E44A242A0330CB8D4A8C0D002233FA3C557093/"
@@ -571,7 +635,20 @@
                   "unit": ["Republic Troopers"]
               }
           }
-      }
+      },
+      {
+        "name": "Rapid Fire Blaster Droid",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005842852618/88DE6425F866C12A89AF7293BDB1238C97DFC949/",
+        "points": 28,
+        "mini": {
+                "bundle": "http://cloud-3.steamusercontent.com/ugc/1923617670571453065/A869FEADF30FA87C1A17A191C2709DA6B20BD52A/"
+        },
+        "restrictions": {
+            "include": {
+                "unit": ["Republic Assault Droids"]
+            }
+        }
+    }
     ]
   }
 }
