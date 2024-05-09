@@ -650,5 +650,24 @@
         }
     }
     ]
+  },
+  "commands": {
+    "The Old Republic": [
+      {
+        "name": "Hold Your Ground",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005843072730/E3ACF37DED96C439A564290D8E91141CCDDAF19B/",
+        "pip": 1
+      },
+      {
+        "name": "Strike Back",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005843072902/D6EFED3FD895508ABD505034D584443F114C4EFA/",
+        "pip": 2
+      },
+      {
+        "name": "Shoulder To Shoulder",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005843073011/36C71E6E567FBAB7D8F97829D9391B0D8BE35E21/",
+        "pip": 3
+      }
+    ]
   }
 }
