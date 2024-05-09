@@ -638,10 +638,10 @@
       },
       {
         "name": "Rapid Fire Blaster Droid",
-        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005842852618/88DE6425F866C12A89AF7293BDB1238C97DFC949/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005842861100/0151BA76792E68EF03837FD2F9874F092D230846/",
         "points": 28,
         "mini": {
-                "bundle": "http://cloud-3.steamusercontent.com/ugc/1923617670571453065/A869FEADF30FA87C1A17A191C2709DA6B20BD52A/"
+                "bundle": "http://cloud-3.steamusercontent.com/ugc/2500138005842852618/88DE6425F866C12A89AF7293BDB1238C97DFC949/"
         },
         "restrictions": {
             "include": {
