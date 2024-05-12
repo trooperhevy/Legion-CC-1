@@ -225,7 +225,7 @@
       "Special Forces": [
         {
           "name": "Imperial Assault Troopers",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204734630/F78C46CE96C86691EFEFDAEC5494298FCC93510F/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860506338/2975A92B93E358F7E5ED680BFAC9350523237997/",
           "size": "small",
           "type": "Trooper",
           "points": 72,
@@ -291,7 +291,7 @@
         },
         {
           "name": "Imperial Commandos",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204733654/417C3A22FEE377F3114EE1249F7D8876E0A60F41/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860507071/AF38A88DD7A99C9FD100798DE3A325A8875FC6CC/",
           "size": "small",
           "type": "Trooper",
           "points": 60,
@@ -418,7 +418,7 @@
     "Heavy Weapon": [
       {
         "name": "Veteran Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204734798/CD49C6D1EF43B225FAEFA0C9623CDBECA82EB8A4/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860506494/24F2B220F604393F4B9A5618C45C121F231B8234/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313089762379/047032801B3E12B76F5CEB7283D0EFA734E0D050/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
@@ -433,7 +433,7 @@
       },
       {
         "name": "Assault Captain",
-        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204734471/9B011F37941A0A04C52EEB8591A9F6A0F4348E98/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860505967/F2FE9F41DC6A75FFD083E01DB32CAB95DDC8F00E/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313089775997/67007FEF1CCA45662E0B7A4E8577529CBD911789/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
@@ -448,7 +448,7 @@
       },
       {
         "name": "Assault Gunner",
-        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204734554/89EE0DA3404E1627B77974E94745F98D23D2ED7B/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860506143/F351D755EAB6C4DFCC75916C6695F2AD7828EF5B/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313089802027/FF2BB620CD587A5198A648B180BD86D0D70FAB89/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
@@ -532,12 +532,12 @@
       },
       {
         "name": "Proton Charge Commando",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762773998/A5AD937D1C905A8BF084AF5BAAC99F615F75D834/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860507186/0C459964694C4AE4173CD0E2395DBB44FF2037B9/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024261154211/0A0578275AD73052B08D31C272B3AD066484EFEB/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260988667/8B8E27DFEDD6DEBA4EFABD6E738D3B6AC3E925AB/"
         },
-        "points": 30,
+        "points": 28,
         "restrictions": {
           "include": {
             "unit": ["Imperial Commandos"]
@@ -547,12 +547,12 @@
       },
       {
         "name": "Tactial Shotgun Commando",
-        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204733810/889999A44396E4F3EA3612433974D3EB9DBFB70F/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860507341/95550C0ADFA4107CA15D2D929D58A29A6B9C8481/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024261155036/D5997D5F703F00DB00BB6C2CB1C92B0BB3E4B972/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260988667/8B8E27DFEDD6DEBA4EFABD6E738D3B6AC3E925AB/"
         },
-        "points": 30,
+        "points": 27,
         "restrictions": {
           "include": {
             "unit": ["Imperial Commandos"]
