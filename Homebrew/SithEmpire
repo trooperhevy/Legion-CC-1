@@ -509,7 +509,7 @@
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608879755028/53718ACF3D389983D1CF2630D761DF90121CDA5A/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608879744395/158047D5CFC30AFE6A2A50F64A2DA8F7BD4073B4/"
         },
-        "points": 20,
+        "points": 22,
         "restrictions": {
           "include": {
             "unit": ["Sith Empire Troopers"]
