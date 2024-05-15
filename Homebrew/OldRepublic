@@ -41,10 +41,10 @@
         {
             "name": "Jace Malcom",
             "title": "Hero of Alderaan",
-            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209870171/D8A2F25F030EC7C973B19F0B20F5C0F795FCE47B/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855422822/F4498425D12DA07FE155C7406F7021F82DAA032C/",
             "size": "small",
             "type": "Trooper",
-            "points": 120,
+            "points": 105,
             "speed": 2,
             "upgrades": {
               "Command": 1,
@@ -288,10 +288,10 @@
         },
           {
               "name": "Republic Vanguards",
-              "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209895957/CDA9ACEEFEA3F18EECA8D5A7F030EDAE2A95EF85/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855417518/6CD87AC5021D724DF81A20E0423F1B402CA49440/",
                "size": "small",
               "type": "Trooper",
-               "points": 64,
+               "points": 68,
                "speed": 2,
                "upgrades": {
                   "Heavy Weapon": 1,
@@ -321,15 +321,15 @@
           },
           {
             "name": "Republic Commandos",
-            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209905074/F4C557CD5A509A405BD541B2D5FA3725BBE92714/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855416671/057374A9976D43F8E2BD2BF80FB7585C751B3C47/",
              "size": "small",
             "type": "Trooper",
-             "points": 68,
+             "points": 64,
              "speed": 2,
              "upgrades": {
                 "Heavy Weapon": 1,
                 "Training": 1,
-                "Gear": 1,
+                "Gear": 2,
                 "comms": 1
         },
         "minis": [
@@ -375,7 +375,7 @@
         },
         {
           "name": "HE-2 Heavy Assault Droid",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500138005842861813/4270B96B5A7D6BF4897D0D1C8CC2BFDCDC984ADE/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855418586/E3D9C8D039467059EF922255691DB3ACFC2F9E89/",
           "size": "medium",
           "type": "Ground Vehicle",
           "points": 75,
@@ -516,8 +516,8 @@
     "Heavy Weapon":[
         {
           "name": "Vanguard Shotgunner",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209895783/EEB8AEC5B17FFA72BDEB47810A3FCBBF1295C305/",
-          "points": 32,
+          "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855417330/A38E0FDEA627A8202584F18732606F760B2A3B91/",
+          "points": 27,
           "mini": {
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1759238159838273901/C0AB24AFFAFE76D399C2737F69A36EEC67956239/",
             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1744602401024079355/31F102F8CDF649673701EA48C7CA145B4B315756/"
@@ -530,8 +530,8 @@
         },
         {
           "name": "Boltstorm Commando",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209904754/437EBD64B10D1B9B3D4171BEEF724815CB76AA49/",
-          "points": 32,
+          "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855416467/5643852666D629B39E2104870F1492B98327660A/",
+          "points": 31,
           "mini": {
             "bundle": "http://cloud-3.steamusercontent.com/ugc/2500137370210282582/47A4A9CBAA1A2C45DDC59F043F3EC07B69D3E80F/"
            },

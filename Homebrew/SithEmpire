@@ -40,7 +40,7 @@
         },
         {
           "name": "Major Anri",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860371146/4EA994A3A365636C68250DE21DE6EE7E4F9C30A3/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855724684/8D91752D6DF130AA48719887FDA8AE50ECF5E29D/",
           "size": "small",
           "type": "Trooper",
           "points": 105,
@@ -58,17 +58,17 @@
           "commands": [
             {
               "name": "Imperial Determination",
-              "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860370387/B582A10BF00CE9A79CB4CBEC6E05C6CEA45A468E/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855724045/0D90CDFB4DA0B7D4EADF4FAC97F1DFC6516EA77F/",
               "pip": 1
             },
             {
               "name": "Surgical Strike",
-              "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860370725/EC9605A07A18B898AC1152EA02860C3438A251DA/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855724262/4CD41ACC2CD27C47DE8FA57DCAAC0AE31FA187BD/",
               "pip": 2
             },
             {
               "name": "Undivided Loyalty",
-              "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860370969/B8A9D69CDEFD3C0A1D257506C2C0A9A174D05D1A/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855724436/888CAC2C464EAB324C31964573F69D840702EDDC/",
               "pip": 3
             }
           ]
@@ -225,7 +225,7 @@
       "Special Forces": [
         {
           "name": "Imperial Assault Troopers",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860506338/2975A92B93E358F7E5ED680BFAC9350523237997/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855740142/2CA51F345F9A37D6081E273E4D61D5AD572D9DEE/",
           "size": "small",
           "type": "Trooper",
           "points": 72,
@@ -291,7 +291,7 @@
         },
         {
           "name": "Imperial Commandos",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860507071/AF38A88DD7A99C9FD100798DE3A325A8875FC6CC/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855729426/84108E34B9A648D43EE7EE85BFCC4D2D2D9A6718/",
           "size": "small",
           "type": "Trooper",
           "points": 60,
@@ -433,7 +433,7 @@
       },
       {
         "name": "Assault Captain",
-        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860505967/F2FE9F41DC6A75FFD083E01DB32CAB95DDC8F00E/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855739728/F51A75D6644953A0DBF7028C0EEED9732EDB303B/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313089775997/67007FEF1CCA45662E0B7A4E8577529CBD911789/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
@@ -448,12 +448,12 @@
       },
       {
         "name": "Assault Gunner",
-        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860506143/F351D755EAB6C4DFCC75916C6695F2AD7828EF5B/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855739967/07A7226CC727032A6CBAE3CC356E6289EC1FC8A1/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313089802027/FF2BB620CD587A5198A648B180BD86D0D70FAB89/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
         },
-        "points": 28,
+        "points": 32,
         "restrictions": {
           "include": {
             "unit": ["Imperial Assault Troopers"]
@@ -532,12 +532,12 @@
       },
       {
         "name": "Proton Charge Commando",
-        "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860507186/0C459964694C4AE4173CD0E2395DBB44FF2037B9/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855729683/43B5B10541969829DE4430138E0C1B144B2B08D7/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024261154211/0A0578275AD73052B08D31C272B3AD066484EFEB/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260988667/8B8E27DFEDD6DEBA4EFABD6E738D3B6AC3E925AB/"
         },
-        "points": 28,
+        "points": 27,
         "restrictions": {
           "include": {
             "unit": ["Imperial Commandos"]
@@ -552,7 +552,7 @@
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024261155036/D5997D5F703F00DB00BB6C2CB1C92B0BB3E4B972/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260988667/8B8E27DFEDD6DEBA4EFABD6E738D3B6AC3E925AB/"
         },
-        "points": 27,
+        "points": 28,
         "restrictions": {
           "include": {
             "unit": ["Imperial Commandos"]
