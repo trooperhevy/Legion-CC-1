@@ -97,10 +97,10 @@
         {
           "name": "HK-47",
           "title": "Vocal Assassin Droid",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204721352/DE40D205A9B1036EABAFA05A540F99CA9540FDED/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2478747265495983893/0484DFC1728C5E1193D28F5A4D14D3FE944AFBD3/",
           "size": "small",
           "type": "Droid Trooper",
-          "points": 115,
+          "points": 105,
           "speed": 2,
           "upgrades": {
             "Training": 2,
