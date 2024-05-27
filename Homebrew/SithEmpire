@@ -317,9 +317,9 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260247888/C3E75831EC68DC7EE50AD5A82E9A6F2A8196A417/"
             },
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024260532062/6D98D9E28283E02F34B203849A11F420D1A1C99E/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260247888/C3E75831EC68DC7EE50AD5A82E9A6F2A8196A417/"
-            }
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024261155036/D5997D5F703F00DB00BB6C2CB1C92B0BB3E4B972/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260988667/8B8E27DFEDD6DEBA4EFABD6E738D3B6AC3E925AB/"
+            }              
           ]
         },
         {
@@ -549,8 +549,8 @@
         "name": "Tactial Shotgun Commando",
         "image": "http://cloud-3.steamusercontent.com/ugc/2500138005860507341/95550C0ADFA4107CA15D2D929D58A29A6B9C8481/",
         "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024261155036/D5997D5F703F00DB00BB6C2CB1C92B0BB3E4B972/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260988667/8B8E27DFEDD6DEBA4EFABD6E738D3B6AC3E925AB/"
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024260532062/6D98D9E28283E02F34B203849A11F420D1A1C99E/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007062024260247888/C3E75831EC68DC7EE50AD5A82E9A6F2A8196A417/"
         },
         "points": 28,
         "restrictions": {
