@@ -393,14 +393,7 @@
     }
   },
   "upgrades": {
-    "Armament": [],
-    "Command": [],
-    "Comms": [],
-    "Counterpart": [],
-    "Crew": [],
-    "Flaw": [],
-    "Force": [],
-    "Gear": [
+    "Armament": [
       {
         "name": "Shae Vizla's Flamethrower",
         "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506570123/855999A366CDDBA7050A874171A25E732B8B529D/",
@@ -412,6 +405,13 @@
         }
       }
     ],
+    "Command": [],
+    "Comms": [],
+    "Counterpart": [],
+    "Crew": [],
+    "Flaw": [],
+    "Force": [],
+    "Gear": [],
     "Generator": [],
     "Grenades": [],
     "Hardpoint": [],
