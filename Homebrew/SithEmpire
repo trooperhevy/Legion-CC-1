@@ -448,12 +448,12 @@
       },
       {
         "name": "E-13 Rifle Trooper",
-        "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855739967/07A7226CC727032A6CBAE3CC356E6289EC1FC8A1/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2478747265507581570/F3192C8CC252523804BE7077BC83C98DB5028FA8/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1907856313089802027/FF2BB620CD587A5198A648B180BD86D0D70FAB89/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1907856313089819380/01DF836BB900EE2F08FF2A163C06DE2C62E5C8C6/"
         },
-        "points": 32,
+        "points": 27,
         "restrictions": {
           "include": {
             "unit": ["Imperial Assault Troopers"]
