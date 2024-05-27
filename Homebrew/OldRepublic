@@ -136,7 +136,7 @@
           {
             "name": "Meteor",
             "title": "The Trooper",
-            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209890112/0DAD61ABB466E3F254EEAB90E2DECA5E24A4CCB2/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506563253/9E69B6E4D4978FBADF1A1134783AED6EF180FF25/",
             "size": "small",
             "type": "Trooper",
             "points": 120,
@@ -145,7 +145,7 @@
               "Training": 2,
               "Comms": 1,
               "Gear": 1,
-              "Armament": 1
+              "Armament": 2
             },
             "minis": [
               {
@@ -165,8 +165,8 @@
                 "pip": 2
               },
               {
-                "name": "Explosive Surge",
-                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215987207/30F8F7D07852CD448C401A1F03ECBDB1DCDCFF49/",
+                "name": "Combat Sweep",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506562913/3C1A70C84CA3D148E2ADA60DD644A581DCE09376/",
                 "pip": 3
               }
             ]
@@ -445,8 +445,18 @@
     "Armament":[
       {
         "name": "Vanguard Shoulder Cannon",
-        "image": "http://cloud-3.steamusercontent.com/ugc/2500137370209890329/B6D0AC69B4FF07A72E6A14F8C8174D76F0E6B8C4/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506563469/10F022D4995FFFCF0A67D3846020EF282EC2D092/",
         "points": 0,
+        "restrictions": {
+          "include": {
+            "unit": ["Meteor"]
+          }
+        }
+      },
+      {
+        "name": "Repulsor Blast",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506563084/1E18887926C40254DA7FDF9EA2CF90DF6677B289/",
+        "points": 5,
         "restrictions": {
           "include": {
             "unit": ["Meteor"]

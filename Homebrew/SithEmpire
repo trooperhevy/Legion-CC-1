@@ -152,7 +152,7 @@
         },
         {
           "name": "Shae Vizla",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204725651/F6A0BA1F9A5941EB79C8112D79120468DC4D3579/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506570207/F329850C469162119AF763681F70CE593F6BF85D/",
           "size": "small",
           "type": "Trooper",
           "points": 120,
@@ -170,18 +170,18 @@
           ],
           "commands": [
             {
-              "name": "Infiltrate",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420263/F9FCD124CAF648A1FBA57A84EA487E5BE5269371/",
+              "name": "Timber!",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506569567/46A05F8448CEAAE84786EAFCED28AA99FE3009C3/",
               "pip": 1
             },
             {
               "name": "And Stay Down!",
-              "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204725424/EE7B33A4AE0CEA4F8BF0376A8765245C7B1DCC43/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506569795/D6BDA6D0F180BB983CA98CFCEC6CF753C86A4654/",
               "pip": 2
             },
             {
-              "name": "Timber!",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420643/8A602132C3BFA5D9BAB8EE44616FC159DDF15C91/",
+              "name": "This Is Too Easy",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506569913/8420737C21AC4DDB0287B13A0F128961508F230C/",
               "pip": 3
             }
           ]
@@ -403,8 +403,8 @@
     "Gear": [
       {
         "name": "Shae Vizla's Flamethrower",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1813284016020420923/A54EA1527392ED1DCD22C67949F2103AF92A5FA0/",
-        "points": 5,
+        "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506570123/855999A366CDDBA7050A874171A25E732B8B529D/",
+        "points": 10,
         "restrictions": {
           "include": {
             "unit": ["Shae Vizla"]
