@@ -287,10 +287,10 @@
         },
           {
               "name": "Republic Vanguards",
-              "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855417518/6CD87AC5021D724DF81A20E0423F1B402CA49440/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2478747265512121594/C5972EA589DBC4E53825666DE14B5F9BBFA41CCA/",
                "size": "small",
               "type": "Trooper",
-               "points": 68,
+               "points": 66,
                "speed": 2,
                "upgrades": {
                   "Heavy Weapon": 1,
@@ -525,7 +525,7 @@
     "Heavy Weapon":[
         {
           "name": "Vanguard Shotgunner",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855417330/A38E0FDEA627A8202584F18732606F760B2A3B91/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2478747265512122425/93180E8217DFC8E597CB4B25C590E8DDC9E65554/",
           "points": 27,
           "mini": {
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1759238159838273901/C0AB24AFFAFE76D399C2737F69A36EEC67956239/",
