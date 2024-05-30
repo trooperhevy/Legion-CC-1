@@ -173,7 +173,7 @@
           },
           {
             "name": "M1-4X",
-            "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215977098/D00F33AB9FCA09B1ED00F426F6E734D202EAF44D/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311731481/E785F6C71E0F98ED304B694EF7BD4FD17D82785C/",
             "size": "small",
             "type": "Trooper",
             "points": 100,
@@ -190,13 +190,18 @@
             ],
             "commands": [
               {
+                "name": "Locked And Loaded!",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311731162/51DDAF1C664B45AF2C85A4196986AAE6D7405CAD/",
+                "pip": 1
+              },
+              {
                 "name": "It's An Honor To Serve!",
-                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215976705/777EE9C00F2238D31D9D4D7F1930E20B97D0515A/",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311731260/21F19D5993EB17FE97E754F40D73A9839A040EFC/",
                 "pip": 2
               },
               {
                 "name": "Applying Overwhelming Force!",
-                "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215976916/08435275401CD16D28BC16F0DAD98058294A2A62/",
+                "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311729331/846F7B39E2D89EA5901033AD75A11C241B329886/",
                 "pip": 3
               }
             ]
@@ -217,13 +222,7 @@
                   "diffuse": "http://cloud-3.steamusercontent.com/ugc/2500137370210921973/C1F366C1B4A55EFE30FBB4AA10A85EC55124693B/"
                }
                ],
-               "commands": [
-                {
-                  "name": "Locked And Loaded",
-                  "image": "http://cloud-3.steamusercontent.com/ugc/2500137370215982677/7CCFA72EA94A6D6F41EFBE010BE0255C91B3E5C4/",
-                  "pip": 1
-                }
-              ],
+               "commands": [],
                "required": ["Aric Jorgan", "Elara Dorn", "Tanno Vik", "Yuun"]
         }
 
@@ -321,7 +320,7 @@
           },
           {
             "name": "Republic Commandos",
-            "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855416671/057374A9976D43F8E2BD2BF80FB7585C751B3C47/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311730391/A18B51BFA7FB426A8EC7FEAE4C4BC304389F3254/",
              "size": "small",
             "type": "Trooper",
              "points": 64,
@@ -540,8 +539,8 @@
         },
         {
           "name": "Boltstorm Commando",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2478746540855416467/5643852666D629B39E2104870F1492B98327660A/",
-          "points": 31,
+          "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311730269/82B90C500DC326B5595A8E60F2C21A77E6EAE1D4/",
+          "points": 28,
           "mini": {
             "bundle": "http://cloud-3.steamusercontent.com/ugc/2500137370210282582/47A4A9CBAA1A2C45DDC59F043F3EC07B69D3E80F/"
            },

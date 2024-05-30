@@ -152,10 +152,10 @@
         },
         {
           "name": "Shae Vizla",
-          "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506570207/F329850C469162119AF763681F70CE593F6BF85D/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311729627/9264C066260D641F7653155D53D46E93B06829ED/",
           "size": "small",
           "type": "Trooper",
-          "points": 120,
+          "points": 125,
           "speed": 3,
           "upgrades": {
             "Training": 2,
@@ -171,17 +171,17 @@
           "commands": [
             {
               "name": "Timber!",
-              "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506569567/46A05F8448CEAAE84786EAFCED28AA99FE3009C3/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311728993/C9BFCEE5E5033671A308C2F032CA2D922C0847C7/",
               "pip": 1
             },
             {
               "name": "And Stay Down!",
-              "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506569795/D6BDA6D0F180BB983CA98CFCEC6CF753C86A4654/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311729215/075A58ADF1A0E8456724877160F9CFE50E1A3DFE/",
               "pip": 2
             },
             {
               "name": "This Is Too Easy",
-              "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506569913/8420737C21AC4DDB0287B13A0F128961508F230C/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311729331/846F7B39E2D89EA5901033AD75A11C241B329886/",
               "pip": 3
             }
           ]
@@ -396,8 +396,8 @@
     "Armament": [
       {
         "name": "Shae Vizla's Flamethrower",
-        "image": "http://cloud-3.steamusercontent.com/ugc/2478747265506570123/855999A366CDDBA7050A874171A25E732B8B529D/",
-        "points": 10,
+        "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311729518/7DFE20ED17E88F84460F3F35F2075517126BC68D/",
+        "points": 5,
         "restrictions": {
           "include": {
             "unit": ["Shae Vizla"]
