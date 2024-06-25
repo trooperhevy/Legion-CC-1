@@ -399,7 +399,7 @@
           ]
         },
         {
-          "name": "Imperial Veteran Troopers - Strike Team",
+          "name": "Veteran Troopers (Strike Team)",
           "image": "http://cloud-3.steamusercontent.com/ugc/2477623897033870847/69D8858C7A2BDB032D6FA5CA151CC915AB27EED9/",
           "size": "small",
           "type": "Trooper",
@@ -527,7 +527,7 @@
         "points": 31,
         "restrictions": {
           "include": {
-            "unit": ["Imperial Veteran Troopers","Imperial Veteran Troopers - Strike Team"]
+            "unit": ["Imperial Veteran Troopers","Veteran Troopers (Strike Team)"]
           }
         }
       },
