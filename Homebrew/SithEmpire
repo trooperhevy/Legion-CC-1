@@ -152,6 +152,7 @@
         },
         {
           "name": "Shae Vizla",
+          "title": "Torch",
           "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311729627/9264C066260D641F7653155D53D46E93B06829ED/",
           "size": "small",
           "type": "Trooper",
@@ -160,8 +161,7 @@
           "upgrades": {
             "Training": 2,
             "Comms": 1,
-            "Gear": 2,
-            "Armament": 1
+            "Gear": 2
           },
           "minis": [
             {
@@ -182,6 +182,43 @@
             {
               "name": "This Is Too Easy",
               "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311729331/846F7B39E2D89EA5901033AD75A11C241B329886/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Shae Vizla",
+          "title": "Mandalore The Avenger",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2533919616601152899/42C5D9C865208AB782C8804E64A57F30BE540E11/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 115,
+          "speed": 3,
+          "upgrades": {
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 2,
+            "Armament": 1
+          },
+          "minis": [
+            {
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/2477623897034606678/900DE83EA7DF57A89E7F5819C25DBC89E15BA40F/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Someone Clean This Mess Up",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2533919616601152250/ED81F91E0904C57FDB3D99772010939A0FBA0B62/",
+              "pip": 1
+            },
+            {
+              "name": "Nowhere To Run",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2533919616601152486/94EDEDCBB2F25F5DE9BCDD221CD85A3777648842/",
+              "pip": 2
+            },
+            {
+              "name": "Mandalore The Avenger",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2533919616601152665/97FF3EA92FDA871DBE71C2D419F4E7CE961FB8B5/",
               "pip": 3
             }
           ]
@@ -469,7 +506,25 @@
     }
   },
   "upgrades": {
-    "Armament": [
+    "Armament": [ 
+      {
+      "name": "Shae Vizla's Blaster Rifle",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2533919616601153048/68B44D84B0825FBB82951D8E636F2752C8B695E2/",
+      "points": 10,
+      "restrictions": {
+        "include": {
+          "unit": ["Shae Vizla"]
+        }
+      }
+    }
+  ],
+    "Command": [],
+    "Comms": [],
+    "Counterpart": [],
+    "Crew": [],
+    "Flaw": [],
+    "Force": [],
+    "Gear": [
       {
         "name": "Shae Vizla's Flamethrower",
         "image": "http://cloud-3.steamusercontent.com/ugc/2479873709311729518/7DFE20ED17E88F84460F3F35F2075517126BC68D/",
@@ -479,15 +534,7 @@
             "unit": ["Shae Vizla"]
           }
         }
-      }
-    ],
-    "Command": [],
-    "Comms": [],
-    "Counterpart": [],
-    "Crew": [],
-    "Flaw": [],
-    "Force": [],
-    "Gear": [
+      },
       {
         "name": "Combat Shields",
         "image": "http://cloud-3.steamusercontent.com/ugc/2500137370204735423/E8569A84B6ABC54E6C95F2BA2FBE318EC1C12640/",
