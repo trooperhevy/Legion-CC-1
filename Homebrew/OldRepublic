@@ -348,7 +348,7 @@
         },
         {
           "name": "Mandalorian Mercenaries",
-          "image": "--------------------------------------",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2533919616634046447/77A655B9D4CC189C14F622393D43A5195E431B56/",
           "size": "small",
           "type": "Trooper",
           "points": 70,
@@ -374,10 +374,10 @@
         },
         {
           "name": "Republic Scouts",
-          "image": "-----------------",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2533919616634047403/BFC9BA1A4BA1FAACB5EA6A63D0775112A3FC1E73/",
           "size": "small",
           "type": "Trooper",
-          "points": 6000,
+          "points": 56,
           "speed": 2,
           "upgrades": {
             "Heavy Weapon": 1,
@@ -403,10 +403,10 @@
         },
         {
           "name": "Republic Scouts (Strike Team)",
-          "image": "-----------------------",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2533919616634099094/8F58CFDDABD44454AACF5D560AB0D61650D22907/",
           "size": "small",
           "type": "Trooper",
-          "points": 2000,
+          "points": 22,
           "speed": 2,
           "heavyWeaponTeam": true,
           "upgrades": {
@@ -735,12 +735,12 @@
         }
     },
     {
-      "name": "Mandalorian Gunner",
-      "image": "-------------------------------------------------",
+      "name": "E-13 Mercenary",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2533919616634046217/FC5A21228A3E0836BC9D1DA18037A07E359989D7/",
       "mini": {
         "bundle": "http://cloud-3.steamusercontent.com/ugc/2477623897033845305/F44F048DC94351D023B15622D7F613E85C483660/"
       },
-      "points": 234253458,
+      "points": 30,
       "restrictions": {
         "include": {
           "unit": ["Mandalorian Mercenaries"]
@@ -748,18 +748,18 @@
       }
     },
     {
-      "name": "Mandalorian Dude",
-      "image": "-------------------------------------------------------",
+      "name": "Scout Marksman",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2533919616634047268/7F3D38352812EBB2E3F9D2EFF0F043EC6568EB55/",
+      "points": 25,
       "mini": {
-        "bundle": "http://cloud-3.steamusercontent.com/ugc/2477623897033844743/CFCD7B51FC36F5C28D25553B66CEA407804E7872/"
+        "bundle":"http://cloud-3.steamusercontent.com/ugc/2477623897029542733/ED446B812D4CEFB0189794A4325C123D76532861/"
       },
-      "points": 22134513451345,
       "restrictions": {
-        "include": {
-          "unit": ["Mandalorian Mercenaries"]
-        }
+          "include": {
+              "unit": ["Republic Scouts"]
+          }
       }
-    }
+  }
     ],
     "Gear":[
       {
