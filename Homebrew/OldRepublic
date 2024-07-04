@@ -756,7 +756,7 @@
       },
       "restrictions": {
           "include": {
-              "unit": ["Republic Scouts"]
+              "unit": ["Republic Scouts","Republic Scouts (Strike Team)"]
           }
       }
   }
